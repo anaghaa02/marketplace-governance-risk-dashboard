@@ -125,31 +125,3 @@ marketplace-governance-risk-dashboard/
 │   └── dashboard-overview.png   # optional
 └── docs/
     └── submission-guide.md
-```
-
-## What to upload to GitHub
-At minimum, upload:
-- the Excel workbook
-- this README
-- the project report
-- one or two dashboard screenshots if possible
-
-## Suggested GitHub description
-**Excel dashboard project for seller governance, compliance monitoring, and marketplace risk scoring using multi-source e-commerce data.**
-
-## Why this project is worth showing
-This project demonstrates:
-- data cleaning and structuring
-- multi-table integration
-- analytical thinking
-- explainable risk scoring
-- dashboard design for decision support
-- business understanding of governance and compliance use cases
-
-## How to present this project to recruiters or companies
-When you share the repository, describe it in one line like this:
-
-> Built an Excel-based seller governance and risk intelligence dashboard that integrates violations, governance metrics, and supplier risk data to classify marketplace sellers into actionable risk categories.
-
-## Note
-This repository is intended as a portfolio project. The workbook is the main deliverable and should be opened in Microsoft Excel for full dashboard and pivot functionality.
