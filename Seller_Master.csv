@@ -1,0 +1,101 @@
+Seller_ID,Seller_Name,Seller_Type,Primary_Category,Region,Country,Onboarding_Date,Marketplace_Tier,Business_Size,KYC_Status,Preferred_Fulfillment_Mode,Account_Status
+1,Swift Goods 001,Enterprise,Electronics,Southeast Asia,Singapore,2023-01-01,Standard,Small,Verified,Self-fulfilled,Active
+2,Blue Source 002,Enterprise,Home,South,Indonesia,2022-01-25,Verified,Large,Verified,Platform Fulfilled,Under Review
+3,Vertex Supply 003,Individual,Electronics,West,Singapore,2023-06-20,Standard,Small,Rejected,Self-fulfilled,Under Review
+4,Zen Mart 004,SME,Fashion,Southeast Asia,Malaysia,2021-12-03,Standard,Small,Rejected,Self-fulfilled,Active
+5,True House 005,Individual,Fashion,West,Malaysia,2020-06-12,Standard,Small,Verified,Self-fulfilled,Active
+6,Core Traders 006,Brand Partner,Beauty,South,Indonesia,2023-05-21,Premium,Large,Verified,Self-fulfilled,Active
+7,Urban Works 007,SME,Fashion,West,Malaysia,2018-04-19,Premium,Large,Verified,Self-fulfilled,Under Review
+8,Bright Nest 008,Enterprise,Fashion,South,India,2021-12-19,Verified,Medium,Pending,Platform Fulfilled,Active
+9,Golden Hub 009,SME,Electronics,North,India,2020-11-14,Strategic,Medium,Verified,Platform Fulfilled,Active
+10,Ever Merchants 010,SME,Electronics,North,Thailand,2022-11-11,Standard,Small,Verified,Platform Fulfilled,Under Review
+11,Orbit Square 011,Enterprise,Groceries,South,Thailand,2018-11-10,Strategic,Large,Verified,Platform Fulfilled,Active
+12,Pulse Commerce 012,Individual,Groceries,North,Thailand,2023-08-01,Verified,Small,Verified,Platform Fulfilled,Restricted
+13,Summit Bazaar 013,Brand Partner,Groceries,North,Singapore,2025-02-25,Premium,Large,Verified,Self-fulfilled,Active
+14,Prime Bridge 014,Enterprise,Groceries,West,India,2020-12-10,Strategic,Medium,Verified,Platform Fulfilled,Active
+15,Apex Retail 015,SME,Electronics,East,Singapore,2021-10-08,Premium,Small,Verified,Hybrid,Active
+16,Nimbus Market 016,Individual,Groceries,South,Malaysia,2025-04-18,Standard,Small,Verified,Hybrid,Active
+17,Metro Point 017,Enterprise,Beauty,North,Singapore,2023-06-14,Premium,Medium,Verified,Hybrid,Active
+18,Luna Stores 018,Individual,Fashion,North,India,2020-04-18,Premium,Small,Verified,Platform Fulfilled,Active
+19,Elite Link 019,Individual,Groceries,North,Singapore,2018-02-25,Standard,Medium,Rejected,Self-fulfilled,Under Review
+20,Nova Cart 020,Enterprise,Home,North,Indonesia,2021-08-10,Verified,Medium,Verified,Hybrid,Active
+21,Swift Goods 021,Brand Partner,Fashion,South,Singapore,2018-12-11,Verified,Small,Pending,Platform Fulfilled,Active
+22,Blue Source 022,Enterprise,Electronics,South,Singapore,2018-11-28,Strategic,Medium,Verified,Self-fulfilled,Restricted
+23,Vertex Supply 023,Brand Partner,Home,Southeast Asia,Thailand,2023-05-07,Standard,Large,Verified,Self-fulfilled,Under Review
+24,Zen Mart 024,SME,Electronics,North,Indonesia,2018-02-18,Verified,Small,Verified,Self-fulfilled,Active
+25,True House 025,Brand Partner,Beauty,West,Thailand,2021-10-26,Strategic,Large,Verified,Self-fulfilled,Active
+26,Core Traders 026,Enterprise,Beauty,East,Singapore,2019-12-18,Standard,Medium,Pending,Self-fulfilled,Suspended
+27,Urban Works 027,Individual,Groceries,West,Malaysia,2018-02-21,Standard,Small,Pending,Self-fulfilled,Restricted
+28,Bright Nest 028,Individual,Home,Southeast Asia,Indonesia,2017-02-03,Premium,Large,Verified,Platform Fulfilled,Active
+29,Golden Hub 029,SME,Home,South,Singapore,2021-06-26,Standard,Large,Verified,Self-fulfilled,Active
+30,Ever Merchants 030,SME,Groceries,West,Thailand,2019-04-28,Premium,Small,Verified,Hybrid,Active
+31,Orbit Square 031,Individual,Home,South,Malaysia,2020-12-04,Verified,Small,Verified,Self-fulfilled,Restricted
+32,Pulse Commerce 032,Enterprise,Beauty,South,Singapore,2020-07-11,Verified,Medium,Pending,Self-fulfilled,Active
+33,Summit Bazaar 033,Enterprise,Groceries,East,Singapore,2019-05-06,Standard,Large,Verified,Hybrid,Restricted
+34,Prime Bridge 034,Individual,Home,Southeast Asia,Thailand,2019-07-19,Verified,Small,Verified,Self-fulfilled,Restricted
+35,Apex Retail 035,SME,Beauty,East,Indonesia,2019-11-11,Verified,Medium,Pending,Platform Fulfilled,Under Review
+36,Nimbus Market 036,Individual,Fashion,West,Malaysia,2020-04-14,Strategic,Medium,Verified,Platform Fulfilled,Under Review
+37,Metro Point 037,Enterprise,Electronics,East,Malaysia,2021-07-26,Standard,Large,Verified,Platform Fulfilled,Active
+38,Luna Stores 038,Enterprise,Beauty,North,Malaysia,2022-02-27,Verified,Large,Verified,Self-fulfilled,Active
+39,Elite Link 039,Individual,Home,Southeast Asia,Singapore,2025-07-21,Premium,Medium,Verified,Hybrid,Active
+40,Nova Cart 040,SME,Electronics,West,India,2020-12-17,Standard,Small,Verified,Platform Fulfilled,Restricted
+41,Swift Goods 041,Brand Partner,Groceries,Southeast Asia,Thailand,2023-08-20,Standard,Large,Verified,Hybrid,Active
+42,Blue Source 042,SME,Home,West,Malaysia,2020-11-09,Strategic,Medium,Verified,Platform Fulfilled,Active
+43,Vertex Supply 043,Enterprise,Fashion,East,Malaysia,2018-03-05,Verified,Medium,Verified,Platform Fulfilled,Active
+44,Zen Mart 044,Enterprise,Home,North,India,2023-07-25,Standard,Large,Verified,Platform Fulfilled,Active
+45,True House 045,Brand Partner,Fashion,East,Indonesia,2023-09-24,Premium,Large,Verified,Hybrid,Active
+46,Core Traders 046,Brand Partner,Home,East,Indonesia,2020-08-05,Verified,Large,Verified,Platform Fulfilled,Active
+47,Urban Works 047,Brand Partner,Home,South,Indonesia,2020-01-09,Verified,Medium,Pending,Self-fulfilled,Active
+48,Bright Nest 048,SME,Home,East,Singapore,2025-01-24,Premium,Medium,Verified,Hybrid,Under Review
+49,Golden Hub 049,Individual,Electronics,South,India,2018-10-05,Verified,Small,Pending,Platform Fulfilled,Restricted
+50,Ever Merchants 050,Individual,Fashion,South,Thailand,2019-03-10,Strategic,Small,Verified,Self-fulfilled,Active
+51,Orbit Square 051,SME,Beauty,North,Thailand,2020-02-23,Premium,Medium,Pending,Hybrid,Active
+52,Pulse Commerce 052,SME,Fashion,Southeast Asia,Indonesia,2023-02-17,Standard,Medium,Rejected,Self-fulfilled,Restricted
+53,Summit Bazaar 053,SME,Home,South,Indonesia,2019-12-17,Premium,Large,Verified,Self-fulfilled,Active
+54,Prime Bridge 054,Enterprise,Groceries,East,Malaysia,2021-02-09,Verified,Large,Verified,Self-fulfilled,Active
+55,Apex Retail 055,SME,Fashion,South,Indonesia,2021-06-26,Verified,Small,Verified,Self-fulfilled,Active
+56,Nimbus Market 056,Enterprise,Beauty,North,India,2023-08-18,Strategic,Large,Verified,Platform Fulfilled,Active
+57,Metro Point 057,Enterprise,Beauty,West,India,2021-11-19,Premium,Medium,Verified,Platform Fulfilled,Active
+58,Luna Stores 058,SME,Home,East,Malaysia,2021-04-04,Strategic,Medium,Verified,Self-fulfilled,Active
+59,Elite Link 059,Enterprise,Home,East,Thailand,2021-02-27,Strategic,Medium,Verified,Self-fulfilled,Active
+60,Nova Cart 060,SME,Electronics,Southeast Asia,Malaysia,2019-11-28,Standard,Medium,Verified,Self-fulfilled,Active
+61,Swift Goods 061,Individual,Electronics,East,Indonesia,2018-02-13,Verified,Small,Verified,Platform Fulfilled,Active
+62,Blue Source 062,SME,Electronics,South,Singapore,2024-10-20,Standard,Medium,Pending,Self-fulfilled,Suspended
+63,Vertex Supply 063,SME,Home,East,Thailand,2018-10-24,Standard,Small,Verified,Hybrid,Restricted
+64,Zen Mart 064,Enterprise,Groceries,North,India,2017-07-15,Verified,Large,Verified,Platform Fulfilled,Active
+65,True House 065,Individual,Electronics,South,Malaysia,2021-07-04,Verified,Medium,Verified,Platform Fulfilled,Restricted
+66,Core Traders 066,Brand Partner,Fashion,Southeast Asia,Thailand,2021-08-04,Strategic,Large,Verified,Self-fulfilled,Active
+67,Urban Works 067,SME,Groceries,North,Indonesia,2022-10-09,Verified,Small,Verified,Self-fulfilled,Active
+68,Bright Nest 068,SME,Fashion,Southeast Asia,Singapore,2020-08-17,Premium,Medium,Pending,Hybrid,Active
+69,Golden Hub 069,Individual,Electronics,West,Malaysia,2024-06-11,Verified,Medium,Pending,Hybrid,Under Review
+70,Ever Merchants 070,SME,Groceries,North,Indonesia,2019-06-09,Premium,Small,Verified,Hybrid,Restricted
+71,Orbit Square 071,SME,Groceries,West,Indonesia,2017-04-17,Premium,Small,Pending,Hybrid,Active
+72,Pulse Commerce 072,Enterprise,Fashion,West,Indonesia,2018-01-21,Premium,Large,Verified,Self-fulfilled,Active
+73,Summit Bazaar 073,Individual,Electronics,West,Singapore,2020-08-23,Verified,Small,Verified,Hybrid,Active
+74,Prime Bridge 074,SME,Beauty,West,India,2019-02-09,Premium,Medium,Verified,Hybrid,Active
+75,Apex Retail 075,Individual,Fashion,Southeast Asia,Thailand,2025-03-15,Verified,Medium,Verified,Self-fulfilled,Active
+76,Nimbus Market 076,Enterprise,Beauty,South,Thailand,2023-04-28,Premium,Large,Verified,Self-fulfilled,Active
+77,Metro Point 077,Enterprise,Beauty,West,Singapore,2019-09-19,Premium,Medium,Verified,Self-fulfilled,Active
+78,Luna Stores 078,Enterprise,Beauty,West,India,2019-08-26,Standard,Large,Pending,Self-fulfilled,Active
+79,Elite Link 079,SME,Groceries,West,Malaysia,2025-09-02,Verified,Medium,Pending,Self-fulfilled,Restricted
+80,Nova Cart 080,Enterprise,Electronics,North,Indonesia,2019-12-10,Verified,Large,Verified,Self-fulfilled,Active
+81,Swift Goods 081,Brand Partner,Groceries,West,Thailand,2019-03-06,Verified,Small,Verified,Hybrid,Active
+82,Blue Source 082,Enterprise,Home,East,Indonesia,2021-11-01,Verified,Large,Pending,Platform Fulfilled,Active
+83,Vertex Supply 083,Individual,Groceries,East,Indonesia,2022-08-28,Verified,Small,Verified,Hybrid,Suspended
+84,Zen Mart 084,Brand Partner,Fashion,East,Singapore,2023-05-01,Verified,Large,Verified,Platform Fulfilled,Active
+85,True House 085,Enterprise,Fashion,South,Thailand,2022-04-21,Standard,Medium,Verified,Self-fulfilled,Active
+86,Core Traders 086,Enterprise,Electronics,North,Malaysia,2025-01-19,Premium,Medium,Verified,Self-fulfilled,Active
+87,Urban Works 087,Brand Partner,Groceries,East,Thailand,2022-03-09,Standard,Large,Verified,Hybrid,Active
+88,Bright Nest 088,Brand Partner,Home,North,India,2020-11-24,Verified,Large,Verified,Platform Fulfilled,Active
+89,Golden Hub 089,Enterprise,Fashion,Southeast Asia,Singapore,2025-06-22,Verified,Large,Verified,Self-fulfilled,Active
+90,Ever Merchants 090,SME,Home,North,Thailand,2022-10-08,Premium,Medium,Verified,Platform Fulfilled,Active
+91,Orbit Square 091,SME,Electronics,North,Malaysia,2025-02-04,Premium,Small,Verified,Platform Fulfilled,Active
+92,Pulse Commerce 092,SME,Groceries,West,Thailand,2020-07-21,Verified,Small,Pending,Platform Fulfilled,Under Review
+93,Summit Bazaar 093,SME,Home,West,India,2023-02-22,Strategic,Small,Verified,Hybrid,Active
+94,Prime Bridge 094,Enterprise,Home,North,India,2017-01-26,Standard,Medium,Verified,Hybrid,Restricted
+95,Apex Retail 095,Brand Partner,Groceries,South,India,2022-03-26,Verified,Large,Verified,Self-fulfilled,Active
+96,Nimbus Market 096,Brand Partner,Beauty,North,Singapore,2019-01-12,Verified,Large,Verified,Self-fulfilled,Active
+97,Metro Point 097,Individual,Groceries,North,Singapore,2025-08-25,Standard,Small,Verified,Platform Fulfilled,Restricted
+98,Luna Stores 098,Enterprise,Groceries,East,Indonesia,2017-01-16,Verified,Large,Verified,Platform Fulfilled,Active
+99,Elite Link 099,SME,Fashion,Southeast Asia,India,2018-03-09,Premium,Medium,Verified,Platform Fulfilled,Under Review
+100,Nova Cart 100,Enterprise,Groceries,Southeast Asia,Indonesia,2018-12-04,Verified,Large,Verified,Platform Fulfilled,Active

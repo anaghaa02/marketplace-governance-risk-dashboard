@@ -1,0 +1,1647 @@
+Violation_ID,Seller_ID,Violation_Date,Violation_Year,Violation_Type,Severity_Level,Violation_Status,Reported_Source,Affected_Order_Count,Penalty_Amount,Fraud_Linked_Flag,Action_Taken,Resolved_Flag
+V00001,1,2021-09-19,2021,Policy Breach,High,Escalated,Compliance Team,12,1343.5,1,Payout Hold,0
+V00002,1,2021-08-14,2021,Policy Breach,High,Escalated,User,9,2522.68,0,Seller Suspended,0
+V00003,1,2022-11-08,2022,Fraud Suspicion,Critical,Open,Compliance Team,9,6847.81,1,Listing Removed,1
+V00004,1,2022-06-11,2022,Fraud Suspicion,High,Under Investigation,System Detection,7,2174.09,1,Payout Hold,0
+V00005,1,2022-10-14,2022,Fraud Suspicion,High,Escalated,Internal Audit,8,3712.51,1,Listing Removed,0
+V00006,1,2022-03-17,2022,Fraud Suspicion,High,Under Investigation,Compliance Team,4,3750.0,1,Seller Suspended,0
+V00007,1,2022-02-03,2022,Fraud Suspicion,Low,Under Investigation,Compliance Team,10,326.2,1,No Action,0
+V00008,1,2022-12-05,2022,Policy Breach,High,Closed,Compliance Team,13,1581.49,1,Listing Removed,1
+V00009,1,2023-05-22,2023,Late Fulfillment,Low,Under Investigation,Compliance Team,2,590.88,0,Warning Issued,1
+V00010,1,2023-02-04,2023,Late Fulfillment,Low,Under Investigation,Compliance Team,3,506.77,0,Warning Issued,0
+V00011,1,2024-07-03,2024,Late Fulfillment,Medium,Under Investigation,System Detection,5,1362.14,0,Listing Removed,0
+V00012,1,2025-01-06,2025,Product Quality Issue,Critical,Under Investigation,Internal Audit,1,7972.04,1,Payout Hold,0
+V00013,1,2025-05-04,2025,Fraud Suspicion,High,Under Investigation,User,3,3695.72,1,Listing Removed,0
+V00014,1,2025-12-05,2025,Fraud Suspicion,High,Escalated,User,13,2654.49,1,Listing Removed,0
+V00015,1,2025-09-13,2025,Late Fulfillment,Medium,Closed,System Detection,10,378.62,0,No Action,1
+V00016,1,2025-03-26,2025,Fraud Suspicion,High,Under Investigation,User,6,2788.99,1,Payout Hold,0
+V00017,2,2021-07-07,2021,Listing Misrepresentation,High,Open,Internal Audit,6,2534.07,1,Warning Issued,1
+V00018,2,2021-11-17,2021,Counterfeit Risk,Medium,Closed,User,15,1071.19,1,Warning Issued,1
+V00019,2,2021-02-01,2021,Counterfeit Risk,Medium,Closed,User,12,952.05,0,No Action,1
+V00020,2,2021-09-07,2021,Fraud Suspicion,High,Closed,User,16,3046.4,1,Payout Hold,1
+V00021,2,2021-04-07,2021,Fraud Suspicion,High,Open,Internal Audit,12,1357.78,1,Listing Removed,0
+V00022,2,2021-04-19,2021,Fraud Suspicion,Low,Closed,User,19,277.06,1,Warning Issued,1
+V00023,2,2022-09-17,2022,Counterfeit Risk,High,Open,System Detection,6,3407.54,0,Warning Issued,1
+V00024,2,2022-07-03,2022,Product Quality Issue,Medium,Closed,Internal Audit,16,1120.57,0,Listing Removed,1
+V00025,2,2022-02-27,2022,Listing Misrepresentation,High,Open,User,7,1031.19,0,Warning Issued,0
+V00026,2,2023-04-06,2023,Fraud Suspicion,High,Escalated,User,13,2612.68,1,Seller Suspended,0
+V00027,2,2023-01-04,2023,Fraud Suspicion,Critical,Under Investigation,Internal Audit,3,3257.7,1,Listing Removed,1
+V00028,2,2023-10-28,2023,Listing Misrepresentation,Critical,Escalated,System Detection,5,4270.51,1,No Action,0
+V00029,2,2023-05-23,2023,Fraud Suspicion,High,Escalated,User,2,3205.8,1,Payout Hold,1
+V00030,2,2023-01-07,2023,Fraud Suspicion,Medium,Under Investigation,Internal Audit,10,510.83,1,Warning Issued,1
+V00031,2,2023-05-23,2023,Late Fulfillment,High,Under Investigation,Compliance Team,10,3925.19,0,Listing Removed,1
+V00032,2,2024-02-09,2024,Listing Misrepresentation,High,Escalated,Internal Audit,3,1306.19,0,Payout Hold,0
+V00033,2,2024-01-15,2024,Late Fulfillment,Low,Closed,Compliance Team,2,159.35,0,Listing Removed,1
+V00034,2,2024-07-07,2024,Late Fulfillment,High,Closed,User,12,1817.77,0,Warning Issued,1
+V00035,2,2024-12-14,2024,Late Fulfillment,Medium,Under Investigation,Internal Audit,3,1009.31,0,Warning Issued,0
+V00036,2,2025-02-08,2025,Late Fulfillment,High,Closed,User,11,2596.4,0,Listing Removed,1
+V00037,3,2021-07-13,2021,Fraud Suspicion,High,Escalated,System Detection,7,1617.12,1,Listing Removed,0
+V00038,3,2021-10-10,2021,Counterfeit Risk,High,Closed,User,6,3720.0,0,Listing Removed,1
+V00039,3,2021-02-06,2021,Fraud Suspicion,Critical,Open,User,4,5110.3,1,Listing Removed,0
+V00040,3,2021-02-06,2021,Fraud Suspicion,High,Escalated,User,3,2464.92,1,Payout Hold,1
+V00041,3,2021-10-22,2021,Fraud Suspicion,High,Open,User,13,1281.73,1,Listing Removed,0
+V00042,3,2021-12-12,2021,Late Fulfillment,High,Open,Compliance Team,14,3130.47,0,Listing Removed,1
+V00043,3,2022-02-09,2022,Policy Breach,Low,Closed,Internal Audit,6,84.98,0,No Action,1
+V00044,3,2022-12-23,2022,Listing Misrepresentation,High,Escalated,Compliance Team,14,3896.36,1,Payout Hold,1
+V00045,3,2022-08-17,2022,Fraud Suspicion,Critical,Under Investigation,Compliance Team,6,5740.31,1,Payout Hold,0
+V00046,3,2022-10-17,2022,Fraud Suspicion,Medium,Closed,User,1,683.75,1,No Action,1
+V00047,3,2022-11-05,2022,Late Fulfillment,Critical,Escalated,System Detection,1,4085.43,0,Payout Hold,0
+V00048,3,2022-05-27,2022,Counterfeit Risk,Medium,Closed,User,6,564.29,0,Warning Issued,1
+V00049,3,2023-02-23,2023,Fraud Suspicion,Critical,Open,User,9,2943.95,1,Seller Suspended,0
+V00050,3,2023-11-21,2023,Listing Misrepresentation,Critical,Escalated,User,16,3453.16,0,Seller Suspended,1
+V00051,3,2023-03-22,2023,Late Fulfillment,Critical,Closed,User,16,5502.07,1,Seller Suspended,1
+V00052,3,2023-07-04,2023,Fraud Suspicion,Critical,Under Investigation,User,1,4812.78,1,Payout Hold,0
+V00053,3,2024-02-25,2024,Fraud Suspicion,Critical,Escalated,System Detection,17,4552.11,1,Seller Suspended,1
+V00054,3,2024-01-25,2024,Late Fulfillment,High,Escalated,User,6,3517.59,0,Payout Hold,1
+V00055,3,2024-02-11,2024,Fraud Suspicion,High,Closed,Internal Audit,10,1364.33,1,Seller Suspended,1
+V00056,3,2024-12-02,2024,Product Quality Issue,High,Open,User,12,2919.0,0,Seller Suspended,1
+V00057,3,2024-01-26,2024,Policy Breach,High,Closed,User,10,1310.82,1,Listing Removed,1
+V00058,3,2024-07-02,2024,Late Fulfillment,High,Under Investigation,System Detection,9,1780.81,1,Seller Suspended,0
+V00059,3,2025-07-05,2025,Late Fulfillment,Critical,Open,Internal Audit,7,5506.75,0,Seller Suspended,0
+V00060,3,2025-10-16,2025,Late Fulfillment,Medium,Closed,User,3,435.21,0,No Action,1
+V00061,3,2025-07-01,2025,Counterfeit Risk,High,Under Investigation,User,19,2064.18,0,No Action,0
+V00062,3,2025-01-06,2025,Fraud Suspicion,High,Under Investigation,User,14,2171.87,1,Seller Suspended,0
+V00063,4,2021-08-23,2021,Late Fulfillment,High,Escalated,Internal Audit,17,3517.98,0,Warning Issued,0
+V00064,4,2021-03-19,2021,Product Quality Issue,High,Closed,Internal Audit,15,2742.17,1,Payout Hold,1
+V00065,4,2021-02-02,2021,Fraud Suspicion,High,Under Investigation,System Detection,7,2498.3,1,Payout Hold,0
+V00066,4,2021-12-26,2021,Fraud Suspicion,Critical,Open,User,2,6656.98,1,Seller Suspended,0
+V00067,4,2021-02-02,2021,Counterfeit Risk,High,Escalated,System Detection,7,1963.48,0,No Action,1
+V00068,4,2022-04-09,2022,Product Quality Issue,Medium,Closed,User,1,1237.51,0,Listing Removed,1
+V00069,4,2022-11-04,2022,Fraud Suspicion,Critical,Escalated,Internal Audit,2,4744.15,1,Payout Hold,0
+V00070,4,2022-12-24,2022,Late Fulfillment,Critical,Under Investigation,Internal Audit,3,5901.63,0,Payout Hold,0
+V00071,4,2022-07-21,2022,Late Fulfillment,Low,Closed,System Detection,6,138.34,0,Warning Issued,1
+V00072,4,2023-05-27,2023,Fraud Suspicion,High,Open,User,12,3904.34,1,Seller Suspended,1
+V00073,4,2023-10-17,2023,Product Quality Issue,High,Closed,System Detection,2,3954.8,0,No Action,1
+V00074,4,2023-07-09,2023,Fraud Suspicion,Critical,Open,User,15,6992.19,1,Payout Hold,1
+V00075,4,2023-01-08,2023,Fraud Suspicion,High,Closed,User,2,3422.46,1,Seller Suspended,1
+V00076,4,2024-10-24,2024,Late Fulfillment,Medium,Under Investigation,System Detection,10,294.5,0,Warning Issued,0
+V00077,4,2024-05-26,2024,Regulatory Non-Compliance,Low,Closed,System Detection,11,516.18,1,Listing Removed,1
+V00078,4,2025-01-13,2025,Policy Breach,Medium,Open,Compliance Team,7,1371.43,0,Listing Removed,0
+V00079,4,2025-07-02,2025,Fraud Suspicion,Critical,Escalated,Internal Audit,18,6862.49,1,Seller Suspended,0
+V00080,4,2025-12-08,2025,Counterfeit Risk,Critical,Closed,User,8,7989.49,1,Seller Suspended,1
+V00081,4,2025-11-04,2025,Counterfeit Risk,Critical,Escalated,Compliance Team,9,7437.02,1,Seller Suspended,0
+V00082,4,2025-06-25,2025,Fraud Suspicion,Medium,Under Investigation,User,8,380.47,1,Listing Removed,1
+V00083,4,2025-08-09,2025,Fraud Suspicion,Critical,Escalated,Internal Audit,3,4177.17,1,Payout Hold,1
+V00084,5,2021-01-08,2021,Policy Breach,High,Closed,User,17,1833.9,1,Warning Issued,1
+V00085,5,2021-02-02,2021,Fraud Suspicion,High,Closed,User,5,2153.99,1,Seller Suspended,1
+V00086,5,2021-03-22,2021,Counterfeit Risk,Medium,Under Investigation,Compliance Team,18,1010.92,0,Warning Issued,1
+V00087,5,2021-10-07,2021,Listing Misrepresentation,Critical,Under Investigation,User,3,6544.78,0,Seller Suspended,0
+V00088,5,2022-11-10,2022,Policy Breach,High,Closed,System Detection,3,2704.91,0,Payout Hold,1
+V00089,5,2022-07-15,2022,Product Quality Issue,High,Open,Compliance Team,2,3398.77,0,Warning Issued,0
+V00090,5,2022-09-10,2022,Late Fulfillment,Medium,Closed,Compliance Team,12,1074.04,0,Listing Removed,1
+V00091,5,2023-02-10,2023,Late Fulfillment,Critical,Open,System Detection,11,4472.98,1,Listing Removed,0
+V00092,5,2023-10-03,2023,Fraud Suspicion,High,Under Investigation,System Detection,6,1539.41,1,Warning Issued,1
+V00093,5,2023-03-08,2023,Late Fulfillment,High,Open,Compliance Team,11,3053.32,1,Warning Issued,0
+V00094,5,2024-01-23,2024,Regulatory Non-Compliance,Critical,Open,Internal Audit,2,7171.74,0,Seller Suspended,0
+V00095,5,2024-02-03,2024,Product Quality Issue,Medium,Open,Compliance Team,13,962.96,0,Warning Issued,0
+V00096,5,2024-07-10,2024,Late Fulfillment,Medium,Closed,System Detection,9,760.17,0,Warning Issued,1
+V00097,5,2024-05-20,2024,Counterfeit Risk,Medium,Under Investigation,User,5,989.03,0,Warning Issued,0
+V00098,5,2025-04-13,2025,Counterfeit Risk,High,Escalated,Compliance Team,5,1231.93,0,Warning Issued,0
+V00099,5,2025-10-21,2025,Listing Misrepresentation,High,Closed,Internal Audit,9,2416.99,0,Warning Issued,1
+V00100,5,2025-05-07,2025,Late Fulfillment,Medium,Closed,User,5,1185.24,1,Listing Removed,1
+V00101,5,2025-12-14,2025,Listing Misrepresentation,High,Closed,User,12,2346.9,0,Payout Hold,1
+V00102,5,2025-03-18,2025,Fraud Suspicion,Critical,Escalated,System Detection,7,5830.5,1,Seller Suspended,0
+V00103,6,2021-07-17,2021,Regulatory Non-Compliance,Medium,Closed,Compliance Team,1,1374.84,0,No Action,1
+V00104,6,2021-02-14,2021,Late Fulfillment,Medium,Escalated,User,6,408.0,0,No Action,0
+V00105,6,2022-03-17,2022,Fraud Suspicion,Critical,Under Investigation,System Detection,3,5563.17,1,Payout Hold,1
+V00106,6,2022-06-19,2022,Counterfeit Risk,High,Escalated,System Detection,14,3732.02,1,No Action,0
+V00107,6,2022-08-23,2022,Fraud Suspicion,Medium,Escalated,Compliance Team,11,354.74,1,No Action,0
+V00108,6,2023-07-11,2023,Product Quality Issue,High,Open,Internal Audit,16,2023.35,0,Listing Removed,0
+V00109,6,2023-07-10,2023,Late Fulfillment,Medium,Closed,Internal Audit,10,513.35,1,No Action,1
+V00110,6,2023-10-11,2023,Fraud Suspicion,Critical,Under Investigation,Compliance Team,5,3431.26,1,Payout Hold,0
+V00111,6,2023-02-08,2023,Late Fulfillment,Medium,Closed,Compliance Team,10,1378.18,0,Warning Issued,1
+V00112,6,2023-04-01,2023,Policy Breach,Medium,Closed,Internal Audit,16,407.72,1,Listing Removed,1
+V00113,6,2023-12-23,2023,Late Fulfillment,Critical,Open,System Detection,17,4031.49,0,Listing Removed,1
+V00114,6,2024-04-24,2024,Late Fulfillment,Low,Closed,System Detection,2,441.31,0,Listing Removed,1
+V00115,6,2024-12-11,2024,Policy Breach,Low,Under Investigation,User,6,312.78,0,No Action,1
+V00116,6,2024-11-02,2024,Policy Breach,Medium,Under Investigation,User,3,1340.14,0,Payout Hold,0
+V00117,6,2025-03-24,2025,Late Fulfillment,High,Closed,User,8,1642.57,1,Seller Suspended,1
+V00118,6,2025-10-07,2025,Counterfeit Risk,High,Closed,Internal Audit,15,2046.11,0,Listing Removed,1
+V00119,6,2025-05-27,2025,Fraud Suspicion,Critical,Closed,User,16,4124.79,1,Payout Hold,1
+V00120,6,2025-05-14,2025,Listing Misrepresentation,High,Closed,System Detection,12,1340.61,1,Listing Removed,1
+V00121,6,2025-08-27,2025,Product Quality Issue,High,Escalated,System Detection,5,1182.41,1,Seller Suspended,0
+V00122,6,2025-07-26,2025,Listing Misrepresentation,Critical,Escalated,User,7,7001.89,1,Payout Hold,0
+V00123,7,2021-09-07,2021,Counterfeit Risk,Critical,Open,User,8,7726.53,0,Payout Hold,1
+V00124,7,2021-06-12,2021,Product Quality Issue,High,Under Investigation,Internal Audit,16,1470.98,0,Listing Removed,0
+V00125,7,2021-03-12,2021,Late Fulfillment,High,Open,User,8,3821.07,0,Warning Issued,0
+V00126,7,2021-03-10,2021,Late Fulfillment,High,Under Investigation,System Detection,3,3352.16,1,Listing Removed,1
+V00127,7,2022-02-03,2022,Fraud Suspicion,High,Escalated,Compliance Team,10,1044.23,1,Payout Hold,0
+V00128,7,2022-12-19,2022,Late Fulfillment,High,Under Investigation,User,4,1070.3,1,Payout Hold,0
+V00129,7,2022-11-19,2022,Late Fulfillment,Low,Closed,Internal Audit,5,544.6,0,Listing Removed,1
+V00130,7,2022-01-16,2022,Regulatory Non-Compliance,High,Closed,System Detection,8,1074.68,0,Payout Hold,1
+V00131,7,2022-08-19,2022,Fraud Suspicion,High,Open,Internal Audit,5,3594.48,1,Listing Removed,0
+V00132,7,2023-09-24,2023,Policy Breach,Low,Closed,User,13,500.59,0,No Action,1
+V00133,7,2023-10-14,2023,Late Fulfillment,Medium,Closed,User,9,1449.34,0,Listing Removed,1
+V00134,7,2023-08-17,2023,Policy Breach,High,Under Investigation,User,10,1381.85,0,Warning Issued,0
+V00135,7,2023-04-15,2023,Counterfeit Risk,Critical,Closed,Compliance Team,8,3269.26,0,Payout Hold,1
+V00136,7,2023-01-10,2023,Fraud Suspicion,Critical,Escalated,User,17,3991.09,1,Seller Suspended,0
+V00137,7,2023-03-05,2023,Policy Breach,Critical,Under Investigation,User,7,5096.61,0,Seller Suspended,1
+V00138,7,2024-03-17,2024,Product Quality Issue,Medium,Under Investigation,Compliance Team,1,838.12,0,Warning Issued,1
+V00139,7,2025-12-04,2025,Listing Misrepresentation,Low,Under Investigation,User,9,335.49,0,Warning Issued,1
+V00140,8,2021-05-27,2021,Listing Misrepresentation,High,Escalated,System Detection,4,2683.34,0,No Action,0
+V00141,8,2021-02-24,2021,Fraud Suspicion,High,Escalated,User,13,3298.16,1,Payout Hold,0
+V00142,8,2021-05-26,2021,Product Quality Issue,Critical,Open,Compliance Team,10,3690.44,1,Payout Hold,0
+V00143,8,2021-08-28,2021,Fraud Suspicion,Low,Under Investigation,Internal Audit,6,255.24,1,No Action,1
+V00144,8,2021-04-18,2021,Policy Breach,High,Escalated,System Detection,4,1234.6,0,Listing Removed,0
+V00145,8,2022-05-23,2022,Late Fulfillment,Medium,Closed,User,10,563.17,0,Seller Suspended,1
+V00146,8,2022-11-12,2022,Late Fulfillment,High,Escalated,Internal Audit,7,2037.97,0,Seller Suspended,1
+V00147,8,2022-04-13,2022,Late Fulfillment,High,Escalated,User,7,2082.97,0,Listing Removed,0
+V00148,8,2023-05-17,2023,Product Quality Issue,High,Escalated,User,10,1822.52,1,Seller Suspended,0
+V00149,8,2023-12-16,2023,Product Quality Issue,High,Escalated,User,1,3422.29,0,Seller Suspended,1
+V00150,8,2023-03-23,2023,Policy Breach,Medium,Closed,User,3,1046.85,0,Warning Issued,1
+V00151,8,2023-09-09,2023,Late Fulfillment,High,Escalated,System Detection,16,1949.44,1,Seller Suspended,0
+V00152,8,2023-06-17,2023,Fraud Suspicion,High,Under Investigation,User,13,1184.45,1,Payout Hold,0
+V00153,8,2024-02-06,2024,Late Fulfillment,Medium,Under Investigation,User,6,1297.32,0,No Action,0
+V00154,8,2024-06-15,2024,Policy Breach,High,Open,User,11,3188.65,0,Warning Issued,1
+V00155,8,2024-03-26,2024,Fraud Suspicion,High,Closed,User,13,3829.71,1,Seller Suspended,1
+V00156,8,2024-04-24,2024,Late Fulfillment,Low,Under Investigation,User,4,189.32,0,Warning Issued,1
+V00157,8,2024-03-10,2024,Fraud Suspicion,Critical,Closed,User,12,6030.04,1,Payout Hold,1
+V00158,9,2021-01-27,2021,Late Fulfillment,Medium,Closed,User,5,1102.52,0,Payout Hold,1
+V00159,9,2022-02-17,2022,Late Fulfillment,High,Open,User,11,1559.28,1,Payout Hold,0
+V00160,9,2022-07-22,2022,Counterfeit Risk,High,Escalated,User,12,2264.22,0,Warning Issued,0
+V00161,9,2022-06-10,2022,Fraud Suspicion,High,Escalated,Internal Audit,13,2849.84,1,Payout Hold,1
+V00162,9,2022-08-27,2022,Fraud Suspicion,High,Closed,User,17,2203.46,1,Payout Hold,1
+V00163,9,2022-04-25,2022,Regulatory Non-Compliance,Medium,Under Investigation,User,4,991.35,0,Payout Hold,0
+V00164,9,2023-10-25,2023,Late Fulfillment,High,Escalated,System Detection,3,1271.2,0,Warning Issued,0
+V00165,9,2023-07-06,2023,Product Quality Issue,High,Under Investigation,User,15,1922.58,0,Listing Removed,0
+V00166,9,2023-12-08,2023,Late Fulfillment,High,Escalated,User,10,1477.99,0,Warning Issued,0
+V00167,9,2023-04-16,2023,Policy Breach,Critical,Escalated,User,14,3027.04,0,Seller Suspended,0
+V00168,9,2024-05-27,2024,Policy Breach,High,Closed,System Detection,14,2040.6,0,Payout Hold,1
+V00169,9,2024-01-08,2024,Regulatory Non-Compliance,Low,Closed,User,9,300.87,0,Warning Issued,1
+V00170,9,2025-02-21,2025,Fraud Suspicion,High,Open,User,4,1278.55,1,Listing Removed,0
+V00171,9,2025-05-13,2025,Product Quality Issue,Medium,Under Investigation,User,15,896.69,0,Listing Removed,0
+V00172,9,2025-12-04,2025,Listing Misrepresentation,Critical,Open,User,13,6274.64,1,Payout Hold,0
+V00173,9,2025-07-25,2025,Fraud Suspicion,Medium,Open,Internal Audit,15,1385.26,1,No Action,1
+V00174,9,2025-09-12,2025,Fraud Suspicion,Critical,Escalated,Compliance Team,14,2538.26,1,Listing Removed,0
+V00175,9,2025-09-27,2025,Fraud Suspicion,High,Open,Compliance Team,13,2101.31,1,Payout Hold,0
+V00176,10,2021-11-10,2021,Policy Breach,Low,Closed,Internal Audit,5,250.24,0,Warning Issued,1
+V00177,10,2021-01-20,2021,Late Fulfillment,Medium,Closed,System Detection,3,469.04,0,Listing Removed,1
+V00178,10,2022-11-16,2022,Late Fulfillment,Critical,Under Investigation,System Detection,11,7092.05,0,Seller Suspended,0
+V00179,10,2022-02-11,2022,Late Fulfillment,Critical,Escalated,User,19,7891.47,0,Payout Hold,1
+V00180,10,2022-07-13,2022,Fraud Suspicion,Critical,Under Investigation,Compliance Team,9,7356.09,1,Seller Suspended,0
+V00181,10,2022-04-19,2022,Fraud Suspicion,High,Closed,User,19,2720.01,1,Warning Issued,1
+V00182,10,2022-05-24,2022,Late Fulfillment,High,Under Investigation,User,5,1854.74,1,Listing Removed,1
+V00183,10,2023-03-09,2023,Late Fulfillment,Medium,Escalated,User,5,526.65,0,Warning Issued,0
+V00184,10,2023-05-24,2023,Product Quality Issue,High,Closed,Internal Audit,13,1986.26,0,Payout Hold,1
+V00185,10,2023-01-11,2023,Late Fulfillment,Medium,Closed,User,10,1178.21,0,Listing Removed,1
+V00186,10,2024-05-13,2024,Fraud Suspicion,Critical,Escalated,User,5,5587.29,1,Seller Suspended,1
+V00187,10,2024-06-10,2024,Listing Misrepresentation,High,Closed,User,19,2054.88,1,Listing Removed,1
+V00188,10,2024-01-25,2024,Product Quality Issue,High,Escalated,Compliance Team,3,2821.37,1,Listing Removed,0
+V00189,10,2024-02-19,2024,Fraud Suspicion,High,Escalated,User,5,2650.21,1,No Action,1
+V00190,10,2024-05-11,2024,Policy Breach,High,Closed,Internal Audit,5,2506.91,0,Payout Hold,1
+V00191,10,2024-07-16,2024,Late Fulfillment,Critical,Escalated,Compliance Team,15,2518.36,1,Payout Hold,0
+V00192,10,2025-07-19,2025,Policy Breach,Critical,Under Investigation,User,14,5903.82,0,Seller Suspended,1
+V00193,10,2025-10-19,2025,Policy Breach,Critical,Under Investigation,Internal Audit,3,5631.18,0,Payout Hold,0
+V00194,10,2025-12-20,2025,Fraud Suspicion,High,Closed,User,9,3550.93,1,Seller Suspended,1
+V00195,10,2025-04-06,2025,Product Quality Issue,High,Open,User,13,1194.44,0,Listing Removed,0
+V00196,11,2022-10-15,2022,Policy Breach,Critical,Open,Compliance Team,3,4321.93,0,Seller Suspended,0
+V00197,11,2022-02-01,2022,Policy Breach,Medium,Closed,Compliance Team,12,1228.8,0,Listing Removed,1
+V00198,11,2022-09-04,2022,Product Quality Issue,Critical,Under Investigation,Compliance Team,11,2828.82,0,Seller Suspended,1
+V00199,11,2023-06-13,2023,Policy Breach,High,Closed,User,5,1372.17,0,Payout Hold,1
+V00200,11,2023-10-25,2023,Policy Breach,High,Under Investigation,User,9,1425.85,0,Payout Hold,0
+V00201,11,2023-06-21,2023,Policy Breach,High,Escalated,User,12,3270.94,0,Seller Suspended,0
+V00202,11,2024-12-09,2024,Product Quality Issue,Medium,Closed,User,6,610.54,0,Warning Issued,1
+V00203,11,2024-06-23,2024,Late Fulfillment,High,Open,Internal Audit,5,2425.85,0,Payout Hold,1
+V00204,11,2025-03-20,2025,Listing Misrepresentation,High,Under Investigation,User,12,2752.7,1,Listing Removed,1
+V00205,11,2025-09-13,2025,Fraud Suspicion,Critical,Closed,Internal Audit,7,5256.02,1,Seller Suspended,1
+V00206,11,2025-08-21,2025,Fraud Suspicion,High,Open,Compliance Team,6,1042.7,1,Seller Suspended,0
+V00207,11,2025-04-05,2025,Fraud Suspicion,High,Escalated,Internal Audit,15,2069.5,1,Payout Hold,1
+V00208,12,2021-12-07,2021,Counterfeit Risk,High,Closed,Compliance Team,11,3884.97,0,Listing Removed,1
+V00209,12,2021-02-26,2021,Fraud Suspicion,High,Under Investigation,System Detection,13,3218.31,1,Listing Removed,0
+V00210,12,2021-12-23,2021,Counterfeit Risk,High,Open,User,18,3492.08,0,Listing Removed,0
+V00211,12,2021-01-07,2021,Fraud Suspicion,High,Closed,System Detection,7,2610.8,1,Payout Hold,1
+V00212,12,2021-11-03,2021,Fraud Suspicion,High,Open,User,1,2794.88,1,Payout Hold,0
+V00213,12,2022-12-15,2022,Policy Breach,Low,Closed,User,9,273.75,0,No Action,1
+V00214,12,2023-08-21,2023,Fraud Suspicion,High,Closed,Compliance Team,6,1898.91,1,No Action,1
+V00215,12,2023-05-22,2023,Listing Misrepresentation,Medium,Escalated,Compliance Team,10,649.01,0,Listing Removed,0
+V00216,12,2023-02-25,2023,Listing Misrepresentation,Critical,Closed,System Detection,15,3504.61,0,Payout Hold,1
+V00217,12,2023-04-10,2023,Listing Misrepresentation,High,Under Investigation,User,4,2713.03,1,Payout Hold,1
+V00218,12,2023-03-28,2023,Fraud Suspicion,High,Under Investigation,Internal Audit,9,2421.33,1,Payout Hold,1
+V00219,12,2025-05-16,2025,Fraud Suspicion,Critical,Escalated,Internal Audit,15,4194.09,1,Payout Hold,0
+V00220,12,2025-07-02,2025,Listing Misrepresentation,Critical,Escalated,User,14,6373.86,0,Listing Removed,0
+V00221,12,2025-06-01,2025,Policy Breach,Medium,Under Investigation,Compliance Team,3,878.68,0,Warning Issued,0
+V00222,12,2025-06-24,2025,Policy Breach,High,Open,Compliance Team,10,3063.4,0,Payout Hold,0
+V00223,13,2021-01-04,2021,Counterfeit Risk,Medium,Closed,Internal Audit,17,605.29,0,Listing Removed,1
+V00224,13,2021-02-11,2021,Regulatory Non-Compliance,High,Escalated,Internal Audit,11,2769.42,0,Seller Suspended,0
+V00225,13,2021-06-19,2021,Product Quality Issue,High,Closed,User,15,3068.71,0,Seller Suspended,1
+V00226,13,2021-12-23,2021,Policy Breach,Critical,Under Investigation,User,7,6610.0,0,Seller Suspended,0
+V00227,13,2021-06-11,2021,Late Fulfillment,Critical,Under Investigation,User,13,7629.75,0,Seller Suspended,0
+V00228,13,2021-08-26,2021,Counterfeit Risk,High,Escalated,User,2,1048.6,0,Payout Hold,0
+V00229,13,2022-09-16,2022,Late Fulfillment,Medium,Open,Internal Audit,3,365.18,0,Warning Issued,0
+V00230,13,2022-09-28,2022,Policy Breach,High,Closed,User,11,1572.66,0,Payout Hold,1
+V00231,13,2022-05-15,2022,Late Fulfillment,Critical,Escalated,System Detection,6,2901.64,0,Seller Suspended,0
+V00232,13,2022-12-24,2022,Policy Breach,Medium,Open,Compliance Team,1,257.94,0,Payout Hold,0
+V00233,13,2022-07-05,2022,Late Fulfillment,Medium,Closed,System Detection,13,822.19,0,Warning Issued,1
+V00234,13,2023-06-23,2023,Fraud Suspicion,Low,Closed,System Detection,12,15.73,1,Warning Issued,1
+V00235,13,2023-03-18,2023,Listing Misrepresentation,Low,Closed,User,3,394.9,0,No Action,1
+V00236,13,2023-05-08,2023,Regulatory Non-Compliance,Low,Closed,Internal Audit,12,539.33,0,Warning Issued,1
+V00237,13,2024-01-15,2024,Fraud Suspicion,Critical,Under Investigation,User,16,4912.01,1,Listing Removed,0
+V00238,13,2024-02-03,2024,Regulatory Non-Compliance,High,Closed,User,20,1488.65,0,Payout Hold,1
+V00239,13,2024-12-20,2024,Listing Misrepresentation,Critical,Under Investigation,Internal Audit,10,2999.35,0,Payout Hold,0
+V00240,13,2024-08-01,2024,Counterfeit Risk,Critical,Under Investigation,Compliance Team,18,4450.75,0,Seller Suspended,0
+V00241,13,2024-11-10,2024,Late Fulfillment,High,Closed,User,20,3627.83,0,Seller Suspended,1
+V00242,13,2024-12-21,2024,Fraud Suspicion,Low,Under Investigation,User,10,311.17,1,Warning Issued,0
+V00243,13,2025-12-22,2025,Product Quality Issue,Critical,Open,Compliance Team,12,3332.59,0,Payout Hold,0
+V00244,13,2025-02-26,2025,Fraud Suspicion,High,Under Investigation,User,6,3726.94,1,Payout Hold,1
+V00245,13,2025-06-01,2025,Counterfeit Risk,Critical,Open,Internal Audit,4,5791.79,0,Payout Hold,0
+V00246,13,2025-04-03,2025,Counterfeit Risk,Critical,Under Investigation,Compliance Team,15,4922.29,0,Seller Suspended,0
+V00247,14,2021-08-09,2021,Fraud Suspicion,High,Under Investigation,Internal Audit,12,3148.95,1,Payout Hold,1
+V00248,14,2021-04-05,2021,Fraud Suspicion,Medium,Under Investigation,User,14,368.49,1,Warning Issued,0
+V00249,14,2021-04-09,2021,Fraud Suspicion,High,Under Investigation,Internal Audit,9,3005.07,1,No Action,1
+V00250,14,2021-03-11,2021,Product Quality Issue,High,Open,User,4,2155.09,0,No Action,0
+V00251,14,2021-03-21,2021,Fraud Suspicion,High,Open,Internal Audit,6,2716.26,1,Listing Removed,0
+V00252,14,2021-10-13,2021,Late Fulfillment,High,Open,Compliance Team,6,3305.53,0,Listing Removed,1
+V00253,14,2022-06-26,2022,Policy Breach,High,Escalated,System Detection,9,1788.59,1,Seller Suspended,0
+V00254,14,2022-09-05,2022,Fraud Suspicion,Critical,Escalated,User,7,6419.82,1,Listing Removed,0
+V00255,14,2022-09-03,2022,Regulatory Non-Compliance,Medium,Escalated,System Detection,15,427.14,0,Listing Removed,0
+V00256,14,2022-12-12,2022,Policy Breach,High,Open,System Detection,19,2618.37,0,Payout Hold,0
+V00257,14,2022-03-04,2022,Policy Breach,Critical,Escalated,Compliance Team,9,5474.52,1,Seller Suspended,0
+V00258,14,2023-07-10,2023,Late Fulfillment,Medium,Closed,Compliance Team,4,652.4,0,Listing Removed,1
+V00259,14,2024-05-23,2024,Product Quality Issue,Medium,Escalated,User,5,1449.09,0,Payout Hold,0
+V00260,14,2025-04-13,2025,Policy Breach,Medium,Closed,User,13,1292.91,0,Warning Issued,1
+V00261,15,2021-03-13,2021,Late Fulfillment,Medium,Escalated,System Detection,10,804.23,0,Warning Issued,0
+V00262,15,2021-02-17,2021,Late Fulfillment,Low,Closed,User,3,396.25,0,Listing Removed,1
+V00263,15,2022-03-03,2022,Fraud Suspicion,High,Escalated,User,14,3848.46,1,Seller Suspended,0
+V00264,15,2022-11-15,2022,Listing Misrepresentation,Medium,Closed,User,9,859.13,0,No Action,1
+V00265,15,2022-02-24,2022,Product Quality Issue,High,Under Investigation,Compliance Team,16,2994.73,0,Seller Suspended,0
+V00266,15,2022-11-04,2022,Fraud Suspicion,Medium,Under Investigation,User,14,884.78,1,Warning Issued,1
+V00267,15,2022-02-01,2022,Counterfeit Risk,Critical,Under Investigation,System Detection,3,5750.96,0,Payout Hold,1
+V00268,15,2022-12-16,2022,Product Quality Issue,Critical,Under Investigation,User,10,7588.84,0,Payout Hold,0
+V00269,15,2023-02-19,2023,Fraud Suspicion,Critical,Under Investigation,System Detection,12,6401.18,1,Seller Suspended,1
+V00270,15,2023-01-12,2023,Late Fulfillment,Medium,Open,Compliance Team,7,1256.53,0,Listing Removed,1
+V00271,15,2023-04-19,2023,Fraud Suspicion,Critical,Escalated,Compliance Team,4,6509.82,1,Seller Suspended,1
+V00272,15,2024-06-08,2024,Late Fulfillment,High,Under Investigation,System Detection,4,2904.42,0,Payout Hold,0
+V00273,15,2024-09-21,2024,Listing Misrepresentation,Medium,Under Investigation,Compliance Team,7,1305.9,0,No Action,0
+V00274,15,2024-12-26,2024,Fraud Suspicion,Medium,Open,User,10,1049.31,1,No Action,0
+V00275,15,2024-07-07,2024,Late Fulfillment,High,Under Investigation,System Detection,18,3687.34,0,Seller Suspended,0
+V00276,15,2024-02-07,2024,Product Quality Issue,Critical,Escalated,Internal Audit,8,6662.24,0,Seller Suspended,0
+V00277,15,2025-02-03,2025,Fraud Suspicion,High,Escalated,User,4,2020.49,1,Listing Removed,0
+V00278,15,2025-12-27,2025,Policy Breach,High,Under Investigation,User,4,3478.4,0,Listing Removed,1
+V00279,15,2025-01-16,2025,Fraud Suspicion,High,Under Investigation,Compliance Team,4,2321.07,1,Seller Suspended,0
+V00280,15,2025-01-28,2025,Fraud Suspicion,High,Under Investigation,System Detection,19,2742.69,1,Seller Suspended,1
+V00281,15,2025-12-09,2025,Regulatory Non-Compliance,Critical,Under Investigation,User,8,7653.07,1,Seller Suspended,1
+V00282,16,2021-06-28,2021,Policy Breach,High,Open,System Detection,10,3956.51,0,No Action,0
+V00283,16,2021-10-08,2021,Policy Breach,High,Escalated,User,12,2722.78,0,Payout Hold,0
+V00284,16,2021-07-03,2021,Late Fulfillment,High,Open,User,13,3602.73,0,Listing Removed,0
+V00285,16,2021-12-09,2021,Regulatory Non-Compliance,High,Closed,Compliance Team,5,3828.24,0,Seller Suspended,1
+V00286,16,2022-05-18,2022,Product Quality Issue,Medium,Under Investigation,Internal Audit,10,884.94,0,No Action,1
+V00287,16,2022-10-11,2022,Policy Breach,Critical,Open,Compliance Team,2,5730.96,0,Seller Suspended,0
+V00288,16,2023-12-06,2023,Late Fulfillment,High,Open,Internal Audit,3,2948.22,0,Listing Removed,0
+V00289,16,2023-07-19,2023,Policy Breach,Critical,Under Investigation,User,4,3506.44,0,Seller Suspended,0
+V00290,16,2023-05-16,2023,Fraud Suspicion,Critical,Escalated,System Detection,10,4368.46,1,Seller Suspended,0
+V00291,16,2023-10-02,2023,Counterfeit Risk,Medium,Closed,User,16,730.94,1,Warning Issued,1
+V00292,16,2023-10-12,2023,Regulatory Non-Compliance,Medium,Under Investigation,Compliance Team,16,681.56,0,Warning Issued,0
+V00293,16,2023-10-06,2023,Policy Breach,Critical,Open,User,10,2666.88,1,Seller Suspended,1
+V00294,16,2024-05-10,2024,Counterfeit Risk,High,Closed,User,4,1299.16,0,Listing Removed,1
+V00295,16,2024-10-11,2024,Regulatory Non-Compliance,Critical,Under Investigation,User,11,4963.65,0,Payout Hold,0
+V00296,16,2024-06-05,2024,Late Fulfillment,Critical,Open,Compliance Team,18,4470.77,0,Payout Hold,1
+V00297,16,2025-12-25,2025,Policy Breach,Low,Closed,System Detection,8,192.33,0,No Action,1
+V00298,16,2025-09-17,2025,Late Fulfillment,Medium,Under Investigation,User,13,809.88,0,Warning Issued,0
+V00299,16,2025-07-13,2025,Late Fulfillment,Low,Under Investigation,User,13,365.8,0,Payout Hold,1
+V00300,17,2021-09-27,2021,Fraud Suspicion,Critical,Under Investigation,Internal Audit,12,7451.52,1,Seller Suspended,1
+V00301,17,2021-09-01,2021,Fraud Suspicion,High,Escalated,Internal Audit,15,2301.41,1,Payout Hold,0
+V00302,17,2021-11-23,2021,Fraud Suspicion,High,Escalated,User,5,1218.89,1,Seller Suspended,0
+V00303,17,2022-01-13,2022,Fraud Suspicion,High,Escalated,Compliance Team,12,1721.16,1,Warning Issued,1
+V00304,17,2022-07-27,2022,Fraud Suspicion,Critical,Under Investigation,System Detection,4,5793.13,1,Listing Removed,1
+V00305,17,2022-11-19,2022,Policy Breach,Medium,Closed,User,12,761.5,0,No Action,1
+V00306,17,2023-05-27,2023,Fraud Suspicion,Critical,Under Investigation,User,12,5945.95,1,Seller Suspended,0
+V00307,17,2023-11-23,2023,Late Fulfillment,High,Open,User,6,2465.61,0,No Action,1
+V00308,17,2023-05-22,2023,Policy Breach,High,Under Investigation,User,13,3566.52,0,Listing Removed,0
+V00309,17,2023-04-03,2023,Product Quality Issue,High,Open,User,5,2406.87,0,No Action,1
+V00310,17,2023-03-03,2023,Policy Breach,Critical,Under Investigation,User,11,4909.6,0,Seller Suspended,0
+V00311,17,2023-09-25,2023,Regulatory Non-Compliance,High,Escalated,User,15,1042.63,0,Warning Issued,0
+V00312,17,2024-06-15,2024,Late Fulfillment,High,Under Investigation,User,4,1875.42,0,Listing Removed,0
+V00313,17,2024-11-24,2024,Late Fulfillment,Critical,Open,Internal Audit,3,5407.06,0,Payout Hold,1
+V00314,17,2024-01-04,2024,Product Quality Issue,Medium,Closed,Compliance Team,7,462.39,0,Payout Hold,1
+V00315,17,2024-03-04,2024,Product Quality Issue,Low,Open,Internal Audit,15,232.52,0,Warning Issued,1
+V00316,17,2025-10-18,2025,Fraud Suspicion,High,Escalated,User,11,2934.37,1,No Action,0
+V00317,17,2025-12-08,2025,Product Quality Issue,Medium,Closed,Internal Audit,7,441.42,0,No Action,1
+V00318,17,2025-03-10,2025,Late Fulfillment,Critical,Escalated,Compliance Team,3,2615.15,0,Payout Hold,0
+V00319,18,2021-07-05,2021,Listing Misrepresentation,Critical,Under Investigation,User,7,4941.41,0,Seller Suspended,0
+V00320,18,2021-07-05,2021,Late Fulfillment,Critical,Escalated,User,11,6701.87,1,Payout Hold,0
+V00321,18,2021-03-16,2021,Fraud Suspicion,High,Under Investigation,System Detection,2,3323.73,1,Seller Suspended,0
+V00322,18,2021-09-06,2021,Regulatory Non-Compliance,Medium,Open,User,17,959.24,0,Warning Issued,0
+V00323,18,2022-11-13,2022,Product Quality Issue,High,Open,Compliance Team,9,1737.1,0,Listing Removed,0
+V00324,18,2024-10-17,2024,Product Quality Issue,High,Closed,User,11,1257.25,0,Seller Suspended,1
+V00325,18,2024-01-11,2024,Policy Breach,Medium,Escalated,User,10,438.25,0,Warning Issued,0
+V00326,18,2024-06-19,2024,Policy Breach,Medium,Under Investigation,Compliance Team,3,629.05,0,Warning Issued,1
+V00327,18,2025-07-04,2025,Product Quality Issue,Medium,Closed,Compliance Team,16,1112.45,0,No Action,1
+V00328,18,2025-11-05,2025,Counterfeit Risk,Low,Closed,Internal Audit,16,460.28,0,Listing Removed,1
+V00329,18,2025-06-15,2025,Late Fulfillment,Critical,Escalated,Compliance Team,15,7370.82,0,Seller Suspended,0
+V00330,18,2025-03-20,2025,Listing Misrepresentation,Medium,Closed,User,12,1451.97,0,Seller Suspended,1
+V00331,19,2021-06-20,2021,Late Fulfillment,Medium,Escalated,System Detection,14,565.89,0,Listing Removed,1
+V00332,19,2022-08-11,2022,Late Fulfillment,Critical,Under Investigation,System Detection,14,7973.03,1,Payout Hold,0
+V00333,19,2022-01-05,2022,Policy Breach,Low,Closed,User,15,282.07,0,Warning Issued,1
+V00334,19,2022-05-23,2022,Late Fulfillment,High,Under Investigation,User,6,1397.02,0,Seller Suspended,0
+V00335,19,2022-05-09,2022,Fraud Suspicion,Medium,Closed,Compliance Team,1,1326.85,1,No Action,1
+V00336,19,2023-02-08,2023,Late Fulfillment,Medium,Under Investigation,Compliance Team,1,1223.6,0,No Action,0
+V00337,19,2024-10-03,2024,Late Fulfillment,High,Escalated,System Detection,3,3620.2,0,Payout Hold,0
+V00338,19,2024-12-05,2024,Late Fulfillment,High,Open,User,17,3854.18,0,Warning Issued,0
+V00339,19,2024-01-23,2024,Counterfeit Risk,Medium,Closed,Compliance Team,13,496.62,0,Listing Removed,1
+V00340,19,2024-03-16,2024,Late Fulfillment,High,Escalated,User,5,1554.78,0,Warning Issued,0
+V00341,19,2024-03-18,2024,Product Quality Issue,Medium,Open,Compliance Team,17,485.25,0,No Action,0
+V00342,19,2024-07-21,2024,Fraud Suspicion,Critical,Under Investigation,User,1,4396.17,1,Payout Hold,1
+V00343,19,2025-05-25,2025,Fraud Suspicion,High,Closed,System Detection,13,1239.85,1,Seller Suspended,1
+V00344,19,2025-01-24,2025,Late Fulfillment,High,Closed,Internal Audit,13,3877.89,0,Payout Hold,1
+V00345,19,2025-06-15,2025,Policy Breach,High,Under Investigation,User,16,3072.59,1,Listing Removed,0
+V00346,19,2025-07-15,2025,Late Fulfillment,Medium,Closed,System Detection,7,1341.7,0,No Action,1
+V00347,19,2025-11-05,2025,Late Fulfillment,High,Open,User,7,1551.73,0,Payout Hold,0
+V00348,20,2021-04-01,2021,Product Quality Issue,Low,Closed,User,9,166.6,0,No Action,1
+V00349,20,2021-08-14,2021,Product Quality Issue,High,Closed,User,13,2060.11,0,Payout Hold,1
+V00350,20,2022-08-20,2022,Late Fulfillment,Low,Escalated,User,4,249.81,0,No Action,0
+V00351,20,2022-11-10,2022,Product Quality Issue,Medium,Open,Compliance Team,10,602.37,0,Warning Issued,1
+V00352,20,2022-06-19,2022,Policy Breach,Low,Closed,User,4,125.67,0,Warning Issued,1
+V00353,20,2023-11-16,2023,Product Quality Issue,High,Open,System Detection,17,1965.5,1,Listing Removed,0
+V00354,20,2023-10-20,2023,Fraud Suspicion,Critical,Under Investigation,Internal Audit,3,2606.69,1,Payout Hold,1
+V00355,20,2023-10-11,2023,Fraud Suspicion,High,Closed,User,8,3874.82,1,Seller Suspended,1
+V00356,20,2023-04-26,2023,Policy Breach,Medium,Closed,User,11,253.82,0,Warning Issued,1
+V00357,20,2023-09-05,2023,Regulatory Non-Compliance,High,Escalated,User,16,3432.19,1,Listing Removed,0
+V00358,20,2024-12-02,2024,Policy Breach,Medium,Closed,User,14,1238.39,0,Warning Issued,1
+V00359,20,2024-01-10,2024,Late Fulfillment,Medium,Open,User,9,1202.97,0,Seller Suspended,1
+V00360,20,2024-03-15,2024,Policy Breach,High,Closed,User,6,1323.23,0,Seller Suspended,1
+V00361,20,2024-12-20,2024,Listing Misrepresentation,Medium,Open,Compliance Team,10,404.89,0,No Action,0
+V00362,20,2024-06-27,2024,Policy Breach,High,Closed,User,15,2186.61,0,Payout Hold,1
+V00363,21,2021-11-10,2021,Policy Breach,Low,Closed,Compliance Team,3,298.01,0,No Action,1
+V00364,21,2021-02-17,2021,Fraud Suspicion,High,Open,User,7,2071.24,1,Listing Removed,0
+V00365,21,2021-07-18,2021,Fraud Suspicion,Medium,Closed,User,4,361.84,1,Listing Removed,1
+V00366,21,2022-04-08,2022,Late Fulfillment,Medium,Open,Internal Audit,2,1121.61,0,Payout Hold,1
+V00367,21,2022-03-28,2022,Late Fulfillment,Medium,Closed,System Detection,5,744.76,0,Payout Hold,1
+V00368,21,2023-11-23,2023,Policy Breach,Medium,Open,System Detection,1,511.05,0,Payout Hold,1
+V00369,21,2024-09-27,2024,Fraud Suspicion,Critical,Under Investigation,Compliance Team,15,4636.31,1,Payout Hold,0
+V00370,21,2024-04-11,2024,Listing Misrepresentation,High,Under Investigation,System Detection,5,3015.54,0,No Action,0
+V00371,21,2024-07-26,2024,Fraud Suspicion,Critical,Under Investigation,User,14,6546.36,1,Seller Suspended,0
+V00372,21,2024-10-27,2024,Product Quality Issue,High,Escalated,User,1,1650.42,1,Seller Suspended,1
+V00373,21,2024-06-07,2024,Policy Breach,High,Under Investigation,Internal Audit,12,3762.46,0,Seller Suspended,1
+V00374,21,2024-11-28,2024,Counterfeit Risk,High,Escalated,User,8,3790.48,1,No Action,0
+V00375,21,2025-02-02,2025,Listing Misrepresentation,High,Escalated,User,13,2118.46,0,Seller Suspended,0
+V00376,21,2025-01-04,2025,Listing Misrepresentation,Medium,Escalated,User,18,1250.7,0,No Action,1
+V00377,21,2025-11-26,2025,Counterfeit Risk,Critical,Under Investigation,User,17,2973.52,0,Listing Removed,0
+V00378,21,2025-09-09,2025,Late Fulfillment,High,Closed,User,13,1459.88,0,Seller Suspended,1
+V00379,22,2021-01-16,2021,Late Fulfillment,Medium,Under Investigation,System Detection,13,1371.76,0,Warning Issued,1
+V00380,22,2022-12-16,2022,Fraud Suspicion,Medium,Escalated,Compliance Team,19,1112.09,1,Warning Issued,0
+V00381,22,2022-10-27,2022,Product Quality Issue,High,Escalated,User,8,1859.55,0,Seller Suspended,1
+V00382,22,2022-09-06,2022,Fraud Suspicion,High,Closed,User,12,2917.94,1,Listing Removed,1
+V00383,22,2022-06-15,2022,Policy Breach,Medium,Escalated,Compliance Team,3,759.78,0,Seller Suspended,0
+V00384,22,2022-03-11,2022,Policy Breach,High,Closed,Compliance Team,19,2030.36,0,Seller Suspended,1
+V00385,22,2022-03-20,2022,Policy Breach,High,Closed,Compliance Team,8,3376.83,0,No Action,1
+V00386,22,2023-02-17,2023,Product Quality Issue,Medium,Closed,Compliance Team,9,938.06,0,Warning Issued,1
+V00387,22,2023-11-23,2023,Policy Breach,Medium,Under Investigation,Compliance Team,7,716.65,0,No Action,1
+V00388,22,2024-10-12,2024,Policy Breach,Critical,Closed,Compliance Team,9,6316.69,1,Listing Removed,1
+V00389,22,2025-08-05,2025,Policy Breach,Medium,Under Investigation,Compliance Team,4,1047.81,0,Warning Issued,0
+V00390,22,2025-05-04,2025,Fraud Suspicion,Critical,Escalated,User,18,4989.3,1,Listing Removed,0
+V00391,22,2025-01-23,2025,Listing Misrepresentation,Critical,Closed,Compliance Team,10,6235.15,1,Seller Suspended,1
+V00392,23,2021-01-09,2021,Policy Breach,High,Under Investigation,System Detection,10,1294.02,0,Payout Hold,0
+V00393,23,2021-11-16,2021,Regulatory Non-Compliance,Medium,Escalated,User,2,358.54,0,No Action,0
+V00394,23,2022-08-13,2022,Late Fulfillment,Critical,Under Investigation,User,8,7200.53,1,Seller Suspended,0
+V00395,23,2022-03-19,2022,Policy Breach,Critical,Under Investigation,User,17,6334.22,0,Payout Hold,0
+V00396,23,2022-01-09,2022,Policy Breach,High,Under Investigation,User,3,1870.86,0,Listing Removed,0
+V00397,23,2023-04-16,2023,Late Fulfillment,Low,Closed,Compliance Team,2,543.25,0,No Action,1
+V00398,23,2024-04-11,2024,Fraud Suspicion,Critical,Escalated,User,3,3138.49,1,Seller Suspended,1
+V00399,23,2025-10-01,2025,Product Quality Issue,Medium,Closed,System Detection,10,906.47,0,Warning Issued,1
+V00400,23,2025-02-14,2025,Product Quality Issue,Low,Closed,User,14,39.11,0,Warning Issued,1
+V00401,23,2025-06-16,2025,Listing Misrepresentation,High,Escalated,User,9,1363.03,0,Seller Suspended,0
+V00402,24,2021-11-18,2021,Late Fulfillment,Low,Under Investigation,User,3,335.8,0,Warning Issued,0
+V00403,24,2021-12-13,2021,Fraud Suspicion,Low,Under Investigation,User,15,351.34,1,No Action,0
+V00404,24,2021-04-28,2021,Late Fulfillment,High,Under Investigation,System Detection,15,2659.1,0,Listing Removed,0
+V00405,24,2021-11-05,2021,Late Fulfillment,High,Escalated,System Detection,8,1494.2,0,Warning Issued,0
+V00406,24,2021-04-27,2021,Fraud Suspicion,Critical,Escalated,Compliance Team,7,6194.11,1,Listing Removed,0
+V00407,24,2021-04-24,2021,Late Fulfillment,Critical,Under Investigation,User,9,5994.39,0,Seller Suspended,0
+V00408,24,2022-07-20,2022,Counterfeit Risk,Low,Open,System Detection,5,87.34,0,No Action,0
+V00409,24,2023-11-26,2023,Listing Misrepresentation,High,Escalated,Internal Audit,11,2409.74,0,Seller Suspended,1
+V00410,24,2023-10-23,2023,Policy Breach,Medium,Open,Compliance Team,8,1114.28,0,Warning Issued,0
+V00411,24,2024-05-21,2024,Late Fulfillment,Low,Closed,Compliance Team,12,187.83,0,Listing Removed,1
+V00412,24,2025-04-12,2025,Late Fulfillment,Medium,Under Investigation,User,9,1087.11,0,Payout Hold,1
+V00413,24,2025-12-10,2025,Fraud Suspicion,Medium,Closed,System Detection,2,828.36,1,Warning Issued,1
+V00414,24,2025-12-10,2025,Late Fulfillment,High,Open,User,7,2490.87,0,Payout Hold,0
+V00415,25,2021-08-18,2021,Listing Misrepresentation,Low,Open,System Detection,5,225.94,0,Warning Issued,0
+V00416,25,2021-05-16,2021,Product Quality Issue,Critical,Closed,User,1,5621.0,0,Payout Hold,1
+V00417,25,2021-07-21,2021,Regulatory Non-Compliance,Medium,Closed,User,4,399.31,0,Listing Removed,1
+V00418,25,2022-01-28,2022,Late Fulfillment,Low,Closed,Compliance Team,7,57.53,0,Warning Issued,1
+V00419,25,2023-11-19,2023,Late Fulfillment,Low,Escalated,User,4,170.51,0,No Action,0
+V00420,25,2024-09-12,2024,Fraud Suspicion,Critical,Escalated,Internal Audit,8,7815.2,1,Listing Removed,0
+V00421,25,2024-03-03,2024,Product Quality Issue,Medium,Escalated,User,6,405.7,0,No Action,0
+V00422,25,2025-03-08,2025,Fraud Suspicion,Low,Closed,User,5,509.75,1,No Action,1
+V00423,25,2025-02-14,2025,Listing Misrepresentation,High,Closed,User,16,2623.79,0,Listing Removed,1
+V00424,25,2025-08-14,2025,Product Quality Issue,Medium,Closed,User,13,1008.19,0,No Action,1
+V00425,25,2025-10-27,2025,Listing Misrepresentation,High,Under Investigation,User,5,1746.3,1,Payout Hold,0
+V00426,26,2021-01-22,2021,Late Fulfillment,High,Escalated,User,10,2035.55,0,Listing Removed,1
+V00427,26,2021-07-03,2021,Late Fulfillment,Medium,Under Investigation,Internal Audit,10,523.92,0,Warning Issued,0
+V00428,26,2021-04-28,2021,Fraud Suspicion,High,Open,System Detection,2,1277.13,1,No Action,0
+V00429,26,2021-05-15,2021,Fraud Suspicion,High,Under Investigation,User,3,2561.52,1,Listing Removed,0
+V00430,26,2021-11-26,2021,Policy Breach,Critical,Under Investigation,User,16,7422.07,1,Seller Suspended,0
+V00431,26,2021-12-03,2021,Fraud Suspicion,Medium,Under Investigation,System Detection,14,828.17,1,Warning Issued,0
+V00432,26,2022-04-26,2022,Counterfeit Risk,Critical,Escalated,Internal Audit,2,2613.95,0,Payout Hold,0
+V00433,26,2022-01-16,2022,Late Fulfillment,Medium,Escalated,User,5,967.33,0,No Action,0
+V00434,26,2022-02-23,2022,Late Fulfillment,High,Escalated,User,9,2132.28,0,Warning Issued,1
+V00435,26,2022-11-25,2022,Listing Misrepresentation,High,Under Investigation,Compliance Team,7,3886.31,0,Payout Hold,0
+V00436,26,2023-05-17,2023,Regulatory Non-Compliance,Medium,Escalated,User,19,295.52,0,Warning Issued,1
+V00437,26,2023-02-20,2023,Fraud Suspicion,High,Under Investigation,User,13,1048.12,1,Listing Removed,0
+V00438,26,2023-10-26,2023,Policy Breach,Medium,Closed,Compliance Team,17,427.89,0,Listing Removed,1
+V00439,26,2023-05-16,2023,Listing Misrepresentation,High,Under Investigation,Compliance Team,5,1391.24,0,Listing Removed,0
+V00440,26,2023-11-04,2023,Late Fulfillment,Low,Closed,User,12,392.06,0,Warning Issued,1
+V00441,26,2023-06-27,2023,Product Quality Issue,High,Escalated,User,5,2438.38,0,Seller Suspended,1
+V00442,26,2024-01-04,2024,Late Fulfillment,High,Under Investigation,Internal Audit,1,1656.08,0,Warning Issued,0
+V00443,26,2024-10-15,2024,Listing Misrepresentation,Medium,Closed,Compliance Team,15,982.03,0,No Action,1
+V00444,26,2024-07-25,2024,Product Quality Issue,High,Closed,Compliance Team,4,2517.84,0,Seller Suspended,1
+V00445,26,2024-07-11,2024,Policy Breach,Medium,Closed,Compliance Team,3,427.76,0,Warning Issued,1
+V00446,26,2025-05-13,2025,Fraud Suspicion,High,Open,Compliance Team,4,2252.77,1,Payout Hold,0
+V00447,26,2025-05-07,2025,Fraud Suspicion,Low,Closed,Internal Audit,18,39.65,1,Listing Removed,1
+V00448,26,2025-11-16,2025,Fraud Suspicion,High,Escalated,User,9,3183.77,1,Listing Removed,1
+V00449,26,2025-10-18,2025,Fraud Suspicion,High,Closed,System Detection,14,1466.79,1,Listing Removed,1
+V00450,26,2025-09-22,2025,Fraud Suspicion,High,Escalated,Internal Audit,7,1066.68,1,Listing Removed,0
+V00451,26,2025-08-24,2025,Counterfeit Risk,High,Under Investigation,Compliance Team,5,2665.04,0,Seller Suspended,1
+V00452,27,2021-03-04,2021,Product Quality Issue,Medium,Closed,User,4,958.22,0,Listing Removed,1
+V00453,27,2021-10-16,2021,Policy Breach,Medium,Closed,Internal Audit,6,321.13,0,No Action,1
+V00454,27,2022-08-01,2022,Listing Misrepresentation,Medium,Under Investigation,Compliance Team,6,1497.25,0,Listing Removed,0
+V00455,27,2022-07-28,2022,Late Fulfillment,Low,Closed,System Detection,12,358.79,0,Warning Issued,1
+V00456,27,2023-02-03,2023,Policy Breach,Low,Closed,Compliance Team,16,55.39,0,Listing Removed,1
+V00457,27,2023-11-05,2023,Regulatory Non-Compliance,Low,Under Investigation,User,14,590.22,0,Warning Issued,1
+V00458,27,2023-06-22,2023,Product Quality Issue,Low,Closed,Internal Audit,19,23.37,0,Warning Issued,1
+V00459,27,2024-04-26,2024,Fraud Suspicion,Medium,Open,Internal Audit,16,1019.29,1,Payout Hold,0
+V00460,27,2024-02-15,2024,Late Fulfillment,High,Open,User,16,3067.1,0,Payout Hold,0
+V00461,27,2024-12-16,2024,Listing Misrepresentation,High,Escalated,User,19,3420.9,1,Payout Hold,0
+V00462,27,2025-04-08,2025,Product Quality Issue,Medium,Open,User,15,1343.93,0,Warning Issued,0
+V00463,27,2025-12-03,2025,Late Fulfillment,Medium,Under Investigation,Internal Audit,14,852.0,0,Warning Issued,0
+V00464,28,2021-09-24,2021,Product Quality Issue,High,Under Investigation,User,3,1101.51,0,Payout Hold,0
+V00465,28,2021-01-27,2021,Policy Breach,Low,Under Investigation,Internal Audit,10,395.0,0,Listing Removed,0
+V00466,28,2021-03-27,2021,Late Fulfillment,Critical,Under Investigation,System Detection,10,7535.21,0,Payout Hold,0
+V00467,28,2022-05-14,2022,Late Fulfillment,High,Under Investigation,System Detection,7,1421.02,0,Warning Issued,0
+V00468,28,2023-12-06,2023,Policy Breach,Medium,Closed,Internal Audit,11,253.42,0,Listing Removed,1
+V00469,28,2025-04-05,2025,Product Quality Issue,High,Closed,System Detection,11,3980.89,0,Seller Suspended,1
+V00470,28,2025-07-25,2025,Policy Breach,High,Closed,User,6,3267.32,0,Payout Hold,1
+V00471,28,2025-07-19,2025,Policy Breach,High,Escalated,User,6,2826.28,0,No Action,0
+V00472,28,2025-08-09,2025,Product Quality Issue,Low,Closed,User,16,318.45,1,Warning Issued,1
+V00473,29,2021-04-13,2021,Counterfeit Risk,Low,Open,Compliance Team,12,321.15,0,No Action,0
+V00474,29,2021-12-26,2021,Policy Breach,High,Escalated,System Detection,7,2489.91,0,Payout Hold,0
+V00475,29,2022-04-13,2022,Product Quality Issue,Medium,Closed,User,12,1106.36,0,Warning Issued,1
+V00476,29,2022-08-01,2022,Counterfeit Risk,Critical,Escalated,User,4,4107.74,0,Listing Removed,0
+V00477,29,2022-12-06,2022,Listing Misrepresentation,High,Under Investigation,System Detection,2,3074.67,0,No Action,0
+V00478,29,2023-01-08,2023,Late Fulfillment,High,Escalated,Compliance Team,6,1536.91,0,Listing Removed,0
+V00479,29,2024-08-17,2024,Late Fulfillment,Medium,Under Investigation,Internal Audit,5,1236.25,0,Warning Issued,0
+V00480,29,2024-05-24,2024,Late Fulfillment,High,Escalated,User,3,1259.27,0,Seller Suspended,0
+V00481,29,2024-12-18,2024,Late Fulfillment,Critical,Escalated,Internal Audit,9,4370.99,0,Payout Hold,0
+V00482,29,2025-07-07,2025,Late Fulfillment,Medium,Closed,Compliance Team,11,1121.69,0,Payout Hold,1
+V00483,29,2025-11-25,2025,Product Quality Issue,High,Under Investigation,User,7,1597.34,0,Payout Hold,0
+V00484,29,2025-06-01,2025,Regulatory Non-Compliance,High,Closed,Compliance Team,12,3512.56,0,Payout Hold,1
+V00485,30,2021-03-27,2021,Counterfeit Risk,High,Escalated,Internal Audit,10,2420.29,0,Payout Hold,1
+V00486,30,2021-02-20,2021,Fraud Suspicion,High,Closed,User,2,2611.24,1,Listing Removed,1
+V00487,30,2021-02-02,2021,Regulatory Non-Compliance,High,Escalated,Compliance Team,5,3447.08,0,Payout Hold,1
+V00488,30,2022-09-12,2022,Fraud Suspicion,High,Open,User,3,1554.33,1,Listing Removed,0
+V00489,30,2023-02-12,2023,Fraud Suspicion,Critical,Escalated,System Detection,8,3180.5,1,Payout Hold,0
+V00490,30,2023-01-09,2023,Policy Breach,High,Open,Compliance Team,7,3805.63,0,Seller Suspended,1
+V00491,30,2023-11-10,2023,Fraud Suspicion,Medium,Under Investigation,User,10,366.21,1,No Action,0
+V00492,30,2024-10-01,2024,Late Fulfillment,Medium,Closed,User,7,927.46,0,Listing Removed,1
+V00493,30,2025-04-03,2025,Listing Misrepresentation,Low,Escalated,Compliance Team,6,62.32,0,No Action,1
+V00494,30,2025-03-06,2025,Policy Breach,High,Closed,System Detection,11,2223.73,0,Listing Removed,1
+V00495,30,2025-10-26,2025,Policy Breach,High,Closed,System Detection,5,2289.17,0,Listing Removed,1
+V00496,31,2021-05-12,2021,Late Fulfillment,Critical,Under Investigation,System Detection,13,3981.48,0,Seller Suspended,1
+V00497,31,2021-05-21,2021,Product Quality Issue,Low,Under Investigation,System Detection,9,448.07,0,Payout Hold,1
+V00498,31,2021-10-04,2021,Regulatory Non-Compliance,Low,Closed,User,2,150.0,0,Warning Issued,1
+V00499,31,2022-03-07,2022,Fraud Suspicion,High,Escalated,User,5,1041.28,1,Seller Suspended,0
+V00500,31,2022-12-21,2022,Fraud Suspicion,Critical,Under Investigation,User,7,5992.78,1,Payout Hold,1
+V00501,31,2022-11-08,2022,Regulatory Non-Compliance,High,Open,Internal Audit,6,1178.78,1,Seller Suspended,0
+V00502,31,2022-05-05,2022,Late Fulfillment,High,Escalated,User,5,2363.29,0,Warning Issued,0
+V00503,31,2022-05-27,2022,Listing Misrepresentation,Medium,Open,User,17,857.38,1,Warning Issued,0
+V00504,31,2022-03-04,2022,Fraud Suspicion,High,Under Investigation,System Detection,1,3398.38,1,Payout Hold,0
+V00505,31,2023-04-10,2023,Fraud Suspicion,Medium,Escalated,Compliance Team,17,968.02,1,No Action,0
+V00506,31,2023-09-01,2023,Fraud Suspicion,Low,Closed,Internal Audit,4,204.78,1,Warning Issued,1
+V00507,31,2023-12-10,2023,Listing Misrepresentation,High,Open,System Detection,11,3525.73,1,Payout Hold,0
+V00508,31,2024-10-07,2024,Policy Breach,Medium,Escalated,System Detection,7,1198.66,0,Listing Removed,0
+V00509,31,2024-09-01,2024,Product Quality Issue,Low,Closed,User,6,519.93,0,Warning Issued,1
+V00510,32,2021-02-04,2021,Product Quality Issue,Critical,Under Investigation,User,2,6559.13,0,Listing Removed,0
+V00511,32,2021-10-14,2021,Late Fulfillment,Low,Closed,User,4,125.45,0,Warning Issued,1
+V00512,32,2021-02-03,2021,Policy Breach,High,Closed,User,9,3282.73,0,Payout Hold,1
+V00513,32,2022-11-25,2022,Policy Breach,Low,Closed,User,7,129.82,0,No Action,1
+V00514,32,2022-02-17,2022,Product Quality Issue,Critical,Under Investigation,User,9,4419.27,0,Payout Hold,0
+V00515,32,2022-01-24,2022,Counterfeit Risk,High,Open,User,14,1516.2,0,Listing Removed,1
+V00516,32,2022-04-27,2022,Late Fulfillment,Medium,Closed,User,3,532.03,0,Seller Suspended,1
+V00517,32,2023-04-12,2023,Policy Breach,High,Under Investigation,User,11,1461.79,0,Payout Hold,0
+V00518,32,2023-01-06,2023,Listing Misrepresentation,Medium,Closed,Compliance Team,3,385.66,0,No Action,1
+V00519,32,2023-03-14,2023,Late Fulfillment,Low,Closed,System Detection,9,312.16,0,Warning Issued,1
+V00520,32,2024-10-11,2024,Policy Breach,Low,Escalated,Compliance Team,6,340.38,0,Listing Removed,0
+V00521,32,2024-08-09,2024,Late Fulfillment,Medium,Escalated,User,5,1294.53,0,No Action,1
+V00522,32,2024-08-03,2024,Policy Breach,Low,Closed,Compliance Team,12,137.84,0,No Action,1
+V00523,32,2025-09-16,2025,Policy Breach,High,Open,System Detection,5,3627.4,0,Listing Removed,0
+V00524,32,2025-10-18,2025,Late Fulfillment,High,Closed,User,4,1996.23,1,Listing Removed,1
+V00525,32,2025-07-16,2025,Late Fulfillment,Critical,Closed,User,14,5936.62,1,Payout Hold,1
+V00526,33,2021-12-25,2021,Late Fulfillment,Medium,Open,System Detection,14,1225.06,0,No Action,1
+V00527,33,2021-12-01,2021,Fraud Suspicion,Medium,Closed,Internal Audit,17,1109.95,1,Warning Issued,1
+V00528,33,2021-08-26,2021,Policy Breach,Low,Escalated,User,8,89.87,0,Warning Issued,0
+V00529,33,2021-09-21,2021,Late Fulfillment,Medium,Open,User,11,925.02,0,Seller Suspended,1
+V00530,33,2022-03-27,2022,Policy Breach,Medium,Closed,System Detection,7,836.09,0,Warning Issued,1
+V00531,33,2023-10-02,2023,Fraud Suspicion,Critical,Closed,User,4,6481.45,1,Listing Removed,1
+V00532,33,2023-07-19,2023,Fraud Suspicion,Medium,Closed,User,7,711.96,1,No Action,1
+V00533,33,2023-03-26,2023,Policy Breach,High,Closed,System Detection,12,1721.17,1,Payout Hold,1
+V00534,33,2024-10-12,2024,Policy Breach,Low,Closed,Compliance Team,3,563.16,0,No Action,1
+V00535,33,2024-02-02,2024,Late Fulfillment,Low,Under Investigation,User,7,500.94,0,Warning Issued,0
+V00536,33,2025-05-21,2025,Regulatory Non-Compliance,High,Closed,User,14,1747.05,0,Seller Suspended,1
+V00537,33,2025-04-17,2025,Listing Misrepresentation,Medium,Open,System Detection,10,1097.38,0,Listing Removed,0
+V00538,33,2025-11-24,2025,Late Fulfillment,Low,Closed,Compliance Team,9,433.35,0,Warning Issued,1
+V00539,34,2021-05-25,2021,Late Fulfillment,High,Open,System Detection,4,3836.36,0,Listing Removed,1
+V00540,34,2021-06-25,2021,Late Fulfillment,Critical,Open,User,10,6466.18,0,Seller Suspended,0
+V00541,34,2021-04-28,2021,Fraud Suspicion,Critical,Under Investigation,Internal Audit,18,7246.96,1,Seller Suspended,0
+V00542,34,2022-04-24,2022,Counterfeit Risk,Medium,Closed,User,14,1288.02,0,Listing Removed,1
+V00543,34,2022-03-15,2022,Product Quality Issue,High,Closed,System Detection,19,1869.09,0,Listing Removed,1
+V00544,34,2022-05-08,2022,Late Fulfillment,Medium,Escalated,Internal Audit,11,492.91,0,No Action,1
+V00545,34,2024-07-24,2024,Fraud Suspicion,High,Escalated,Compliance Team,3,2399.35,1,Payout Hold,0
+V00546,34,2024-04-08,2024,Policy Breach,Critical,Escalated,User,2,4736.56,1,Listing Removed,0
+V00547,34,2024-10-25,2024,Policy Breach,Medium,Closed,Internal Audit,18,759.0,0,Listing Removed,1
+V00548,34,2025-01-06,2025,Fraud Suspicion,Low,Closed,Internal Audit,15,249.01,1,Warning Issued,1
+V00549,34,2025-09-01,2025,Fraud Suspicion,Critical,Under Investigation,User,13,7884.51,1,Payout Hold,0
+V00550,34,2025-01-20,2025,Listing Misrepresentation,High,Escalated,Compliance Team,15,2811.07,1,Warning Issued,0
+V00551,35,2021-02-18,2021,Late Fulfillment,High,Open,User,17,3990.8,1,Listing Removed,0
+V00552,35,2021-04-20,2021,Late Fulfillment,High,Open,Compliance Team,7,3086.25,1,No Action,0
+V00553,35,2021-07-24,2021,Fraud Suspicion,Critical,Under Investigation,Compliance Team,16,4857.68,1,Seller Suspended,0
+V00554,35,2021-02-04,2021,Listing Misrepresentation,Critical,Escalated,Compliance Team,8,2804.63,0,Seller Suspended,0
+V00555,35,2021-10-03,2021,Policy Breach,Medium,Open,Compliance Team,16,516.07,0,No Action,0
+V00556,35,2021-06-12,2021,Fraud Suspicion,Critical,Closed,User,12,7160.87,1,Payout Hold,1
+V00557,35,2023-10-07,2023,Fraud Suspicion,Medium,Open,System Detection,15,943.16,1,Warning Issued,1
+V00558,35,2023-06-10,2023,Fraud Suspicion,Critical,Escalated,User,4,5407.34,1,Seller Suspended,0
+V00559,35,2023-10-24,2023,Fraud Suspicion,High,Closed,Internal Audit,11,2104.73,1,Warning Issued,1
+V00560,35,2023-05-10,2023,Regulatory Non-Compliance,High,Under Investigation,Internal Audit,9,2208.57,0,Seller Suspended,1
+V00561,35,2024-10-19,2024,Fraud Suspicion,Critical,Escalated,System Detection,15,6029.62,1,Seller Suspended,0
+V00562,35,2024-08-03,2024,Fraud Suspicion,Critical,Closed,User,11,5628.19,1,Seller Suspended,1
+V00563,35,2024-05-01,2024,Policy Breach,Critical,Closed,Compliance Team,17,7212.59,0,Seller Suspended,1
+V00564,35,2024-02-06,2024,Fraud Suspicion,Critical,Under Investigation,User,11,6769.48,1,Seller Suspended,1
+V00565,35,2024-01-14,2024,Policy Breach,Low,Closed,Internal Audit,9,384.14,0,Warning Issued,1
+V00566,35,2024-01-21,2024,Listing Misrepresentation,High,Under Investigation,Internal Audit,5,3173.2,0,No Action,0
+V00567,35,2025-06-21,2025,Late Fulfillment,Critical,Open,Compliance Team,12,6663.57,0,Seller Suspended,1
+V00568,35,2025-06-14,2025,Policy Breach,Low,Under Investigation,User,7,366.0,0,No Action,1
+V00569,35,2025-03-13,2025,Product Quality Issue,Medium,Closed,Compliance Team,5,582.55,0,Listing Removed,1
+V00570,36,2021-06-14,2021,Regulatory Non-Compliance,Medium,Closed,Compliance Team,15,1288.27,0,Warning Issued,1
+V00571,36,2021-09-11,2021,Regulatory Non-Compliance,High,Open,User,16,2624.4,1,Listing Removed,0
+V00572,36,2021-09-09,2021,Counterfeit Risk,Low,Closed,Compliance Team,9,3.91,0,Warning Issued,1
+V00573,36,2021-07-13,2021,Fraud Suspicion,Low,Closed,System Detection,16,45.03,1,Listing Removed,1
+V00574,36,2021-06-27,2021,Fraud Suspicion,High,Closed,System Detection,17,1879.1,1,Listing Removed,1
+V00575,36,2021-06-02,2021,Policy Breach,Critical,Escalated,System Detection,2,6031.4,0,Seller Suspended,0
+V00576,36,2022-05-09,2022,Late Fulfillment,Medium,Closed,Compliance Team,7,452.89,0,Warning Issued,1
+V00577,36,2022-03-24,2022,Late Fulfillment,High,Closed,System Detection,2,2033.65,0,Payout Hold,1
+V00578,36,2022-08-24,2022,Product Quality Issue,Medium,Closed,System Detection,9,451.21,0,Warning Issued,1
+V00579,36,2023-01-13,2023,Regulatory Non-Compliance,Medium,Under Investigation,Internal Audit,2,498.05,0,No Action,0
+V00580,36,2023-06-12,2023,Policy Breach,Low,Closed,System Detection,2,65.23,0,No Action,1
+V00581,36,2024-04-28,2024,Regulatory Non-Compliance,Critical,Open,System Detection,10,3808.85,1,Seller Suspended,0
+V00582,36,2025-09-19,2025,Regulatory Non-Compliance,Medium,Under Investigation,System Detection,5,1364.25,0,Listing Removed,0
+V00583,36,2025-12-06,2025,Fraud Suspicion,Critical,Under Investigation,Internal Audit,5,6996.04,1,Listing Removed,0
+V00584,37,2021-04-22,2021,Late Fulfillment,Low,Closed,Internal Audit,10,85.06,0,Warning Issued,1
+V00585,37,2021-11-17,2021,Late Fulfillment,Low,Open,Internal Audit,11,55.36,0,Warning Issued,0
+V00586,37,2022-02-21,2022,Late Fulfillment,Medium,Escalated,Compliance Team,7,932.66,0,Warning Issued,1
+V00587,37,2023-04-25,2023,Late Fulfillment,Critical,Escalated,Compliance Team,4,7321.54,0,Payout Hold,0
+V00588,37,2023-06-14,2023,Late Fulfillment,Medium,Closed,System Detection,12,278.65,0,No Action,1
+V00589,37,2023-12-21,2023,Late Fulfillment,High,Escalated,User,19,3100.33,0,Payout Hold,0
+V00590,37,2023-07-17,2023,Policy Breach,Medium,Closed,Internal Audit,3,252.81,0,Listing Removed,1
+V00591,37,2023-03-06,2023,Late Fulfillment,Medium,Closed,Compliance Team,8,741.7,0,Warning Issued,1
+V00592,37,2023-06-18,2023,Policy Breach,Critical,Escalated,User,14,3326.87,0,Payout Hold,1
+V00593,37,2024-10-05,2024,Listing Misrepresentation,Medium,Closed,System Detection,10,299.29,0,Payout Hold,1
+V00594,37,2025-04-14,2025,Product Quality Issue,High,Escalated,Compliance Team,16,3755.76,0,Listing Removed,1
+V00595,37,2025-12-24,2025,Fraud Suspicion,Critical,Under Investigation,User,20,6442.13,1,Seller Suspended,0
+V00596,37,2025-05-20,2025,Policy Breach,High,Closed,Internal Audit,10,2355.59,0,Listing Removed,1
+V00597,37,2025-01-23,2025,Counterfeit Risk,Critical,Under Investigation,Internal Audit,20,5126.81,1,Payout Hold,0
+V00598,37,2025-10-15,2025,Fraud Suspicion,High,Escalated,Compliance Team,11,2883.46,1,Warning Issued,0
+V00599,38,2021-09-05,2021,Product Quality Issue,Medium,Closed,Internal Audit,5,411.86,0,No Action,1
+V00600,38,2021-12-02,2021,Product Quality Issue,High,Closed,User,13,3377.22,1,Payout Hold,1
+V00601,38,2021-01-22,2021,Listing Misrepresentation,Critical,Closed,User,3,5630.56,0,Seller Suspended,1
+V00602,38,2021-05-18,2021,Fraud Suspicion,High,Escalated,Internal Audit,9,1547.67,1,Listing Removed,0
+V00603,38,2021-03-12,2021,Product Quality Issue,Medium,Closed,System Detection,16,1308.43,1,No Action,1
+V00604,38,2021-04-28,2021,Product Quality Issue,Critical,Open,System Detection,17,3934.01,0,Payout Hold,0
+V00605,38,2022-12-16,2022,Fraud Suspicion,Critical,Under Investigation,Compliance Team,4,3445.21,1,No Action,0
+V00606,38,2022-06-17,2022,Policy Breach,Medium,Escalated,User,1,1138.27,0,Warning Issued,0
+V00607,38,2022-09-09,2022,Regulatory Non-Compliance,High,Under Investigation,Compliance Team,4,3040.31,1,Payout Hold,0
+V00608,38,2022-11-20,2022,Fraud Suspicion,High,Closed,User,8,3778.96,1,Payout Hold,1
+V00609,38,2022-08-06,2022,Fraud Suspicion,High,Escalated,User,14,1807.4,1,Payout Hold,0
+V00610,38,2023-02-11,2023,Counterfeit Risk,Critical,Under Investigation,User,8,5906.59,1,Listing Removed,1
+V00611,38,2023-09-04,2023,Fraud Suspicion,Medium,Open,Compliance Team,13,582.19,1,No Action,0
+V00612,38,2023-02-10,2023,Policy Breach,Low,Closed,User,11,568.79,0,No Action,1
+V00613,38,2023-08-18,2023,Fraud Suspicion,High,Open,User,16,1815.05,1,Payout Hold,0
+V00614,38,2023-06-13,2023,Fraud Suspicion,Critical,Under Investigation,Internal Audit,8,7252.19,1,No Action,1
+V00615,38,2024-08-09,2024,Late Fulfillment,Low,Closed,Compliance Team,9,202.37,0,Warning Issued,1
+V00616,38,2024-09-21,2024,Late Fulfillment,Medium,Escalated,Compliance Team,8,646.66,0,No Action,0
+V00617,38,2024-03-10,2024,Policy Breach,High,Escalated,User,3,2284.32,0,Seller Suspended,1
+V00618,38,2025-01-05,2025,Policy Breach,Medium,Under Investigation,Compliance Team,3,540.11,0,Payout Hold,1
+V00619,39,2021-06-28,2021,Listing Misrepresentation,Medium,Under Investigation,System Detection,8,902.23,0,Listing Removed,1
+V00620,39,2021-11-04,2021,Late Fulfillment,Medium,Closed,System Detection,13,732.28,0,Payout Hold,1
+V00621,39,2021-03-16,2021,Regulatory Non-Compliance,High,Escalated,System Detection,13,3696.61,0,Payout Hold,0
+V00622,39,2022-03-24,2022,Fraud Suspicion,High,Escalated,User,5,3849.11,1,Listing Removed,1
+V00623,39,2022-12-18,2022,Counterfeit Risk,Medium,Open,System Detection,11,1348.33,0,Payout Hold,0
+V00624,39,2022-01-13,2022,Fraud Suspicion,High,Under Investigation,Internal Audit,7,1611.87,1,Payout Hold,0
+V00625,39,2022-08-13,2022,Counterfeit Risk,High,Escalated,System Detection,7,1962.55,0,Payout Hold,0
+V00626,39,2022-08-05,2022,Fraud Suspicion,Critical,Under Investigation,System Detection,12,5310.1,1,Seller Suspended,0
+V00627,39,2022-11-18,2022,Fraud Suspicion,High,Escalated,User,8,2936.26,1,No Action,0
+V00628,39,2024-12-24,2024,Fraud Suspicion,High,Closed,User,4,3513.58,1,Listing Removed,1
+V00629,39,2024-03-19,2024,Fraud Suspicion,High,Escalated,System Detection,11,3398.21,1,Seller Suspended,0
+V00630,39,2024-04-18,2024,Late Fulfillment,Medium,Closed,Compliance Team,5,972.01,0,Warning Issued,1
+V00631,39,2024-09-10,2024,Fraud Suspicion,Medium,Closed,User,8,866.38,1,No Action,1
+V00632,39,2024-04-01,2024,Late Fulfillment,Medium,Closed,User,9,1156.29,0,Payout Hold,1
+V00633,39,2024-10-15,2024,Fraud Suspicion,High,Under Investigation,System Detection,11,1993.33,1,Listing Removed,1
+V00634,39,2025-12-04,2025,Fraud Suspicion,High,Escalated,Compliance Team,11,3853.71,1,Listing Removed,0
+V00635,39,2025-01-26,2025,Regulatory Non-Compliance,Medium,Closed,User,2,317.86,0,No Action,1
+V00636,39,2025-01-09,2025,Product Quality Issue,Critical,Under Investigation,User,14,7249.93,0,Payout Hold,0
+V00637,39,2025-12-23,2025,Policy Breach,High,Escalated,Compliance Team,2,3371.01,1,No Action,0
+V00638,39,2025-05-08,2025,Policy Breach,Critical,Closed,Compliance Team,4,2865.25,0,Listing Removed,1
+V00639,39,2025-04-28,2025,Fraud Suspicion,Critical,Open,System Detection,15,5674.54,1,Listing Removed,0
+V00640,40,2021-11-01,2021,Fraud Suspicion,High,Open,Internal Audit,21,3734.96,1,Seller Suspended,0
+V00641,40,2021-11-19,2021,Product Quality Issue,Medium,Closed,User,18,394.45,0,No Action,1
+V00642,40,2021-12-15,2021,Policy Breach,Medium,Closed,User,19,728.23,1,Warning Issued,1
+V00643,40,2021-01-04,2021,Counterfeit Risk,Medium,Closed,Compliance Team,16,560.84,1,Listing Removed,1
+V00644,40,2021-04-02,2021,Late Fulfillment,High,Closed,System Detection,3,3433.78,1,Seller Suspended,1
+V00645,40,2021-05-06,2021,Fraud Suspicion,Medium,Closed,User,1,425.76,1,Payout Hold,1
+V00646,40,2022-03-05,2022,Listing Misrepresentation,Low,Under Investigation,User,8,596.74,0,No Action,1
+V00647,40,2022-12-24,2022,Fraud Suspicion,Medium,Closed,Internal Audit,1,1118.2,1,Warning Issued,1
+V00648,40,2022-02-08,2022,Counterfeit Risk,Medium,Closed,User,17,708.36,0,Warning Issued,1
+V00649,40,2022-04-28,2022,Fraud Suspicion,Critical,Escalated,Compliance Team,17,2641.05,1,Seller Suspended,0
+V00650,40,2022-06-20,2022,Fraud Suspicion,High,Open,System Detection,2,2329.34,1,Payout Hold,0
+V00651,40,2023-07-08,2023,Fraud Suspicion,Critical,Under Investigation,User,16,3088.72,1,Seller Suspended,0
+V00652,40,2023-11-21,2023,Late Fulfillment,High,Under Investigation,Compliance Team,8,2848.41,1,Listing Removed,0
+V00653,40,2023-11-15,2023,Fraud Suspicion,Critical,Closed,User,15,4414.18,1,Seller Suspended,1
+V00654,40,2024-05-16,2024,Fraud Suspicion,Low,Closed,User,3,26.47,1,Warning Issued,1
+V00655,40,2025-01-07,2025,Fraud Suspicion,Critical,Escalated,User,15,3052.07,1,Seller Suspended,0
+V00656,40,2025-03-14,2025,Product Quality Issue,High,Closed,User,14,1444.4,0,Payout Hold,1
+V00657,40,2025-06-23,2025,Fraud Suspicion,Critical,Under Investigation,User,2,5040.7,1,Payout Hold,0
+V00658,41,2021-06-17,2021,Late Fulfillment,Medium,Open,User,7,271.79,0,Warning Issued,1
+V00659,41,2021-11-12,2021,Product Quality Issue,High,Under Investigation,Compliance Team,14,2001.29,0,Payout Hold,1
+V00660,41,2021-10-13,2021,Fraud Suspicion,Critical,Escalated,Compliance Team,8,7110.82,1,Seller Suspended,0
+V00661,41,2021-06-19,2021,Fraud Suspicion,Critical,Open,User,3,3963.02,1,Listing Removed,1
+V00662,41,2021-11-19,2021,Fraud Suspicion,Critical,Closed,User,1,3183.78,1,Seller Suspended,1
+V00663,41,2022-10-08,2022,Policy Breach,Low,Closed,User,1,378.64,0,No Action,1
+V00664,41,2022-04-22,2022,Late Fulfillment,High,Closed,User,14,3423.5,1,Payout Hold,1
+V00665,41,2022-08-13,2022,Product Quality Issue,High,Open,User,8,2317.05,1,Payout Hold,0
+V00666,41,2022-12-10,2022,Fraud Suspicion,Critical,Escalated,Compliance Team,9,5167.25,1,Listing Removed,0
+V00667,41,2022-04-08,2022,Policy Breach,Medium,Closed,Internal Audit,3,611.38,1,Payout Hold,1
+V00668,41,2023-08-26,2023,Counterfeit Risk,Medium,Escalated,Compliance Team,9,788.48,0,Warning Issued,0
+V00669,41,2023-08-02,2023,Product Quality Issue,High,Closed,User,3,1267.07,0,Listing Removed,1
+V00670,41,2023-11-22,2023,Counterfeit Risk,High,Closed,Compliance Team,12,3792.67,0,Warning Issued,1
+V00671,41,2024-04-12,2024,Product Quality Issue,High,Closed,Compliance Team,8,3654.85,0,Payout Hold,1
+V00672,41,2025-02-03,2025,Regulatory Non-Compliance,Critical,Escalated,Compliance Team,19,5942.78,0,Payout Hold,0
+V00673,41,2025-02-18,2025,Regulatory Non-Compliance,Critical,Under Investigation,Internal Audit,18,6668.08,0,Listing Removed,0
+V00674,41,2025-09-24,2025,Regulatory Non-Compliance,High,Under Investigation,User,4,2313.0,0,Payout Hold,1
+V00675,41,2025-05-18,2025,Counterfeit Risk,High,Closed,Compliance Team,8,3527.78,0,Warning Issued,1
+V00676,42,2021-05-20,2021,Policy Breach,High,Closed,User,4,3451.43,0,Payout Hold,1
+V00677,42,2021-11-14,2021,Product Quality Issue,High,Closed,Internal Audit,11,3790.64,0,No Action,1
+V00678,42,2021-05-02,2021,Late Fulfillment,Medium,Open,User,9,390.62,0,Payout Hold,0
+V00679,42,2022-03-16,2022,Late Fulfillment,High,Closed,Internal Audit,2,1999.92,0,Payout Hold,1
+V00680,42,2023-10-26,2023,Policy Breach,High,Closed,System Detection,5,3778.68,1,Seller Suspended,1
+V00681,42,2023-10-13,2023,Late Fulfillment,Medium,Open,User,1,640.49,0,Listing Removed,0
+V00682,42,2023-02-13,2023,Fraud Suspicion,Critical,Under Investigation,User,10,7040.36,1,Seller Suspended,0
+V00683,42,2023-09-19,2023,Policy Breach,Medium,Closed,User,16,301.36,0,Warning Issued,1
+V00684,42,2023-07-16,2023,Fraud Suspicion,Critical,Under Investigation,User,14,2874.82,1,Seller Suspended,0
+V00685,42,2023-02-07,2023,Counterfeit Risk,Critical,Under Investigation,System Detection,4,7929.25,0,Seller Suspended,1
+V00686,42,2024-12-14,2024,Fraud Suspicion,Medium,Escalated,User,5,1476.27,1,Warning Issued,0
+V00687,42,2024-02-13,2024,Policy Breach,Low,Closed,User,3,86.79,1,Warning Issued,1
+V00688,42,2024-06-21,2024,Fraud Suspicion,High,Escalated,Internal Audit,13,3535.38,1,Payout Hold,1
+V00689,42,2024-12-03,2024,Late Fulfillment,Medium,Closed,Compliance Team,13,933.38,0,Payout Hold,1
+V00690,42,2025-08-27,2025,Late Fulfillment,High,Escalated,Compliance Team,9,2867.64,1,Seller Suspended,1
+V00691,42,2025-09-14,2025,Product Quality Issue,High,Escalated,Internal Audit,13,2855.64,1,Listing Removed,0
+V00692,43,2021-12-28,2021,Late Fulfillment,Medium,Under Investigation,User,9,1074.88,0,Warning Issued,1
+V00693,43,2021-11-06,2021,Late Fulfillment,Medium,Closed,Internal Audit,10,1121.24,0,Listing Removed,1
+V00694,43,2022-02-03,2022,Late Fulfillment,Medium,Closed,Compliance Team,7,995.01,0,Warning Issued,1
+V00695,43,2022-07-07,2022,Late Fulfillment,Low,Escalated,System Detection,5,60.0,0,No Action,0
+V00696,43,2023-08-01,2023,Fraud Suspicion,Medium,Under Investigation,System Detection,3,912.94,1,Warning Issued,0
+V00697,43,2023-07-13,2023,Late Fulfillment,High,Closed,User,6,2231.38,0,Payout Hold,1
+V00698,43,2024-01-27,2024,Policy Breach,Medium,Closed,User,16,1195.33,0,Listing Removed,1
+V00699,43,2024-10-15,2024,Policy Breach,Medium,Under Investigation,Compliance Team,1,1226.57,0,Warning Issued,0
+V00700,43,2024-06-09,2024,Policy Breach,Critical,Escalated,User,12,3513.79,0,Seller Suspended,0
+V00701,43,2024-07-21,2024,Listing Misrepresentation,High,Under Investigation,System Detection,4,3084.38,0,Warning Issued,0
+V00702,43,2025-03-10,2025,Late Fulfillment,High,Closed,System Detection,6,2435.09,0,No Action,1
+V00703,43,2025-03-25,2025,Listing Misrepresentation,Low,Open,Compliance Team,2,168.56,0,Warning Issued,1
+V00704,43,2025-09-27,2025,Regulatory Non-Compliance,High,Closed,System Detection,16,1179.91,0,Listing Removed,1
+V00705,43,2025-01-04,2025,Product Quality Issue,High,Under Investigation,User,14,3974.91,0,Seller Suspended,0
+V00706,44,2021-06-15,2021,Policy Breach,High,Escalated,Compliance Team,10,1404.73,0,Listing Removed,1
+V00707,44,2021-11-26,2021,Late Fulfillment,Low,Under Investigation,User,9,122.33,0,Warning Issued,1
+V00708,44,2021-06-08,2021,Late Fulfillment,Medium,Closed,Internal Audit,5,915.36,0,No Action,1
+V00709,44,2022-06-09,2022,Regulatory Non-Compliance,Medium,Open,User,7,1118.4,0,Seller Suspended,0
+V00710,44,2022-05-02,2022,Counterfeit Risk,Critical,Under Investigation,Internal Audit,15,4068.64,0,Seller Suspended,1
+V00711,44,2022-02-04,2022,Late Fulfillment,Medium,Escalated,Internal Audit,15,606.83,0,No Action,1
+V00712,44,2022-08-22,2022,Regulatory Non-Compliance,High,Escalated,User,5,3703.51,0,Payout Hold,0
+V00713,44,2023-11-22,2023,Policy Breach,Medium,Open,Internal Audit,3,943.86,0,No Action,0
+V00714,44,2023-08-12,2023,Policy Breach,Medium,Open,Internal Audit,3,1008.43,0,No Action,0
+V00715,44,2023-06-23,2023,Policy Breach,Low,Closed,Compliance Team,6,137.73,0,No Action,1
+V00716,44,2024-05-20,2024,Fraud Suspicion,Critical,Open,System Detection,14,7247.73,1,Seller Suspended,0
+V00717,44,2024-12-28,2024,Listing Misrepresentation,High,Under Investigation,User,4,3527.68,0,No Action,0
+V00718,44,2024-11-12,2024,Late Fulfillment,Medium,Closed,User,2,918.85,0,Warning Issued,1
+V00719,44,2024-10-20,2024,Late Fulfillment,High,Closed,System Detection,15,3058.72,0,Warning Issued,1
+V00720,44,2025-04-21,2025,Product Quality Issue,Medium,Closed,Compliance Team,13,1076.34,0,Listing Removed,1
+V00721,44,2025-10-19,2025,Product Quality Issue,Critical,Under Investigation,System Detection,10,7366.4,0,Seller Suspended,0
+V00722,44,2025-06-16,2025,Product Quality Issue,Medium,Closed,User,7,811.77,0,Warning Issued,1
+V00723,44,2025-01-26,2025,Counterfeit Risk,High,Closed,User,5,2144.02,0,Seller Suspended,1
+V00724,44,2025-04-27,2025,Product Quality Issue,Medium,Closed,System Detection,3,547.83,0,Listing Removed,1
+V00725,45,2021-11-22,2021,Product Quality Issue,Low,Escalated,User,3,528.94,0,Warning Issued,1
+V00726,45,2022-12-19,2022,Product Quality Issue,Low,Under Investigation,User,4,70.18,0,Warning Issued,0
+V00727,45,2023-12-17,2023,Late Fulfillment,Medium,Open,System Detection,9,884.9,0,No Action,0
+V00728,45,2024-08-23,2024,Late Fulfillment,High,Under Investigation,System Detection,11,1705.7,1,No Action,0
+V00729,45,2024-11-03,2024,Policy Breach,High,Escalated,User,5,2650.99,1,Seller Suspended,0
+V00730,45,2024-10-11,2024,Policy Breach,Low,Open,User,5,242.57,1,No Action,1
+V00731,45,2025-12-19,2025,Fraud Suspicion,Medium,Open,Internal Audit,4,1371.11,1,Listing Removed,0
+V00732,45,2025-11-13,2025,Late Fulfillment,Low,Escalated,Compliance Team,7,169.32,1,Warning Issued,0
+V00733,46,2021-10-16,2021,Fraud Suspicion,High,Under Investigation,User,5,1583.94,1,Payout Hold,0
+V00734,46,2021-07-18,2021,Product Quality Issue,Medium,Closed,User,12,542.6,0,Warning Issued,1
+V00735,46,2021-11-19,2021,Fraud Suspicion,High,Closed,User,2,3344.77,1,Payout Hold,1
+V00736,46,2021-10-14,2021,Fraud Suspicion,High,Open,System Detection,6,2131.16,1,Payout Hold,0
+V00737,46,2021-02-05,2021,Policy Breach,Critical,Escalated,Compliance Team,8,5574.87,0,Payout Hold,0
+V00738,46,2021-02-18,2021,Policy Breach,Critical,Escalated,User,11,6811.81,0,Seller Suspended,1
+V00739,46,2022-08-16,2022,Policy Breach,High,Under Investigation,User,12,3352.18,1,Payout Hold,1
+V00740,46,2022-09-05,2022,Product Quality Issue,High,Under Investigation,Compliance Team,7,1422.74,0,Listing Removed,0
+V00741,46,2022-08-02,2022,Fraud Suspicion,Critical,Under Investigation,User,15,3965.21,1,Seller Suspended,0
+V00742,46,2023-06-16,2023,Fraud Suspicion,High,Open,Compliance Team,7,1378.99,1,Payout Hold,0
+V00743,46,2023-10-01,2023,Regulatory Non-Compliance,Low,Closed,User,4,422.48,0,Warning Issued,1
+V00744,46,2024-08-06,2024,Late Fulfillment,Low,Closed,User,8,106.58,0,Listing Removed,1
+V00745,46,2025-12-26,2025,Fraud Suspicion,High,Open,User,18,2357.87,1,Listing Removed,0
+V00746,46,2025-09-26,2025,Counterfeit Risk,Low,Escalated,User,3,451.83,0,No Action,0
+V00747,46,2025-01-20,2025,Fraud Suspicion,High,Escalated,User,8,2970.81,1,No Action,1
+V00748,46,2025-01-24,2025,Regulatory Non-Compliance,Critical,Escalated,Internal Audit,14,2741.18,0,Listing Removed,0
+V00749,46,2025-11-01,2025,Fraud Suspicion,High,Escalated,Compliance Team,11,2960.94,1,Seller Suspended,0
+V00750,47,2021-06-23,2021,Late Fulfillment,High,Open,System Detection,9,2404.98,0,Payout Hold,1
+V00751,47,2021-07-12,2021,Late Fulfillment,Low,Escalated,Compliance Team,14,248.05,0,No Action,1
+V00752,47,2021-09-05,2021,Policy Breach,Low,Closed,Compliance Team,12,127.93,0,Listing Removed,1
+V00753,47,2022-05-11,2022,Counterfeit Risk,Medium,Closed,User,7,527.22,0,Payout Hold,1
+V00754,47,2023-04-26,2023,Listing Misrepresentation,Medium,Closed,User,2,1398.0,0,Warning Issued,1
+V00755,47,2023-05-18,2023,Policy Breach,Medium,Under Investigation,User,11,564.21,0,No Action,0
+V00756,47,2023-05-06,2023,Late Fulfillment,Critical,Closed,User,2,4732.41,0,Seller Suspended,1
+V00757,47,2023-06-02,2023,Listing Misrepresentation,Critical,Under Investigation,User,5,4683.86,1,Payout Hold,1
+V00758,47,2023-10-02,2023,Listing Misrepresentation,High,Closed,System Detection,13,3191.86,1,Payout Hold,1
+V00759,47,2023-04-04,2023,Regulatory Non-Compliance,High,Under Investigation,User,17,3060.03,0,Payout Hold,1
+V00760,47,2024-11-13,2024,Fraud Suspicion,High,Open,User,5,3151.26,1,Warning Issued,1
+V00761,47,2024-05-23,2024,Policy Breach,Critical,Escalated,System Detection,18,7456.14,0,Listing Removed,0
+V00762,47,2024-01-01,2024,Fraud Suspicion,Medium,Escalated,User,15,388.74,1,Warning Issued,0
+V00763,47,2024-06-26,2024,Policy Breach,Medium,Closed,Compliance Team,10,603.15,0,Warning Issued,1
+V00764,47,2024-08-23,2024,Fraud Suspicion,High,Escalated,User,2,2769.66,1,Seller Suspended,0
+V00765,47,2024-02-02,2024,Fraud Suspicion,Medium,Closed,User,14,1216.08,1,No Action,1
+V00766,47,2025-01-09,2025,Regulatory Non-Compliance,Critical,Under Investigation,User,10,6681.74,0,Seller Suspended,0
+V00767,47,2025-02-08,2025,Listing Misrepresentation,High,Escalated,User,7,3279.9,0,Listing Removed,0
+V00768,47,2025-03-02,2025,Counterfeit Risk,Low,Closed,User,8,386.48,0,Payout Hold,1
+V00769,48,2021-02-18,2021,Listing Misrepresentation,Medium,Escalated,System Detection,3,876.19,0,No Action,1
+V00770,48,2021-04-22,2021,Fraud Suspicion,Critical,Under Investigation,Compliance Team,1,7926.03,1,Seller Suspended,0
+V00771,48,2021-08-13,2021,Fraud Suspicion,High,Closed,User,8,1218.64,1,Seller Suspended,1
+V00772,48,2022-03-13,2022,Fraud Suspicion,High,Closed,Internal Audit,13,2984.47,1,Payout Hold,1
+V00773,48,2022-04-26,2022,Fraud Suspicion,High,Escalated,Compliance Team,7,1119.5,1,Warning Issued,0
+V00774,48,2022-06-08,2022,Fraud Suspicion,High,Closed,User,3,2531.31,1,No Action,1
+V00775,48,2022-02-03,2022,Listing Misrepresentation,High,Open,Compliance Team,14,2003.54,0,Seller Suspended,0
+V00776,48,2022-10-18,2022,Product Quality Issue,Medium,Under Investigation,System Detection,6,1171.18,0,Warning Issued,0
+V00777,48,2023-04-14,2023,Fraud Suspicion,High,Escalated,Internal Audit,2,2110.13,1,Listing Removed,0
+V00778,48,2023-08-01,2023,Late Fulfillment,Critical,Escalated,System Detection,1,3741.07,1,Seller Suspended,0
+V00779,48,2023-12-06,2023,Fraud Suspicion,High,Escalated,Compliance Team,14,2057.71,1,Listing Removed,0
+V00780,48,2023-08-24,2023,Fraud Suspicion,High,Escalated,User,10,1634.31,1,Payout Hold,0
+V00781,48,2024-10-24,2024,Regulatory Non-Compliance,Medium,Closed,System Detection,14,1136.04,0,Listing Removed,1
+V00782,48,2024-04-16,2024,Fraud Suspicion,High,Under Investigation,Compliance Team,10,2126.31,1,Payout Hold,0
+V00783,48,2024-03-26,2024,Listing Misrepresentation,Critical,Escalated,System Detection,9,3259.56,0,No Action,0
+V00784,48,2024-03-18,2024,Fraud Suspicion,High,Open,User,6,1177.48,1,No Action,1
+V00785,48,2024-11-07,2024,Regulatory Non-Compliance,Critical,Open,Internal Audit,13,7761.07,0,No Action,1
+V00786,48,2025-12-21,2025,Late Fulfillment,High,Under Investigation,Compliance Team,3,1447.8,0,Seller Suspended,0
+V00787,48,2025-06-28,2025,Policy Breach,Medium,Under Investigation,Internal Audit,8,1199.13,0,No Action,1
+V00788,48,2025-07-09,2025,Counterfeit Risk,Critical,Escalated,User,9,7641.96,1,Seller Suspended,0
+V00789,48,2025-10-04,2025,Late Fulfillment,High,Closed,System Detection,14,1268.98,0,No Action,1
+V00790,49,2021-08-10,2021,Product Quality Issue,Critical,Escalated,System Detection,6,3156.32,1,Payout Hold,1
+V00791,49,2021-12-18,2021,Counterfeit Risk,High,Escalated,User,9,1041.98,1,Payout Hold,1
+V00792,49,2021-07-27,2021,Listing Misrepresentation,Critical,Open,User,12,4667.01,0,Payout Hold,1
+V00793,49,2021-06-12,2021,Fraud Suspicion,High,Escalated,User,20,1901.51,1,Seller Suspended,0
+V00794,49,2022-11-10,2022,Late Fulfillment,Medium,Open,Internal Audit,3,721.16,0,Payout Hold,0
+V00795,49,2022-03-14,2022,Counterfeit Risk,Critical,Escalated,Compliance Team,10,6563.64,1,Seller Suspended,0
+V00796,49,2022-11-05,2022,Fraud Suspicion,High,Closed,System Detection,16,1117.87,1,Seller Suspended,1
+V00797,49,2022-10-22,2022,Policy Breach,Critical,Under Investigation,User,10,7013.63,1,Payout Hold,0
+V00798,49,2023-04-07,2023,Fraud Suspicion,Critical,Escalated,Internal Audit,19,4049.53,1,No Action,1
+V00799,49,2023-11-02,2023,Late Fulfillment,Medium,Escalated,User,14,1111.91,0,Warning Issued,0
+V00800,49,2023-11-17,2023,Counterfeit Risk,Critical,Escalated,System Detection,14,4647.22,1,Seller Suspended,0
+V00801,49,2023-08-13,2023,Fraud Suspicion,High,Under Investigation,System Detection,19,3704.46,1,Seller Suspended,0
+V00802,49,2023-04-14,2023,Product Quality Issue,Critical,Escalated,Compliance Team,2,5265.34,0,Seller Suspended,0
+V00803,49,2024-03-03,2024,Fraud Suspicion,High,Closed,Compliance Team,7,3810.54,1,No Action,1
+V00804,49,2024-02-27,2024,Policy Breach,High,Escalated,Compliance Team,4,2191.22,1,Payout Hold,1
+V00805,49,2024-04-01,2024,Regulatory Non-Compliance,Medium,Closed,User,18,582.12,0,No Action,1
+V00806,49,2024-05-02,2024,Regulatory Non-Compliance,High,Under Investigation,Compliance Team,6,3822.88,0,Seller Suspended,0
+V00807,49,2024-05-07,2024,Counterfeit Risk,High,Escalated,System Detection,1,3883.15,1,Listing Removed,0
+V00808,49,2025-08-17,2025,Fraud Suspicion,Critical,Open,Internal Audit,3,4525.98,1,Listing Removed,1
+V00809,49,2025-05-11,2025,Late Fulfillment,Medium,Escalated,User,16,1370.33,0,Warning Issued,1
+V00810,49,2025-05-09,2025,Fraud Suspicion,High,Closed,System Detection,4,2491.66,1,Warning Issued,1
+V00811,50,2021-12-17,2021,Listing Misrepresentation,Medium,Closed,Internal Audit,3,1381.17,0,Warning Issued,1
+V00812,50,2021-07-13,2021,Policy Breach,Medium,Under Investigation,User,15,598.32,0,Warning Issued,1
+V00813,50,2021-11-23,2021,Listing Misrepresentation,Medium,Closed,Compliance Team,7,280.73,0,Listing Removed,1
+V00814,50,2022-01-01,2022,Product Quality Issue,High,Open,Compliance Team,5,2389.34,0,Listing Removed,0
+V00815,50,2022-10-10,2022,Fraud Suspicion,High,Escalated,User,16,1652.85,1,Seller Suspended,0
+V00816,50,2022-08-06,2022,Late Fulfillment,Medium,Closed,User,14,1219.46,0,Warning Issued,1
+V00817,50,2022-10-21,2022,Fraud Suspicion,High,Escalated,System Detection,19,2031.91,1,Seller Suspended,0
+V00818,50,2023-11-07,2023,Regulatory Non-Compliance,Low,Under Investigation,User,9,488.81,0,No Action,1
+V00819,50,2023-10-20,2023,Late Fulfillment,Low,Closed,Compliance Team,4,496.98,0,No Action,1
+V00820,50,2023-06-08,2023,Late Fulfillment,Medium,Open,Internal Audit,13,293.45,0,Listing Removed,0
+V00821,50,2024-01-17,2024,Fraud Suspicion,High,Escalated,User,14,2517.0,1,Listing Removed,0
+V00822,50,2024-02-01,2024,Late Fulfillment,Low,Escalated,Compliance Team,11,133.36,0,No Action,0
+V00823,50,2024-03-23,2024,Fraud Suspicion,Critical,Escalated,System Detection,5,4891.08,1,Seller Suspended,1
+V00824,50,2024-07-16,2024,Fraud Suspicion,High,Under Investigation,System Detection,3,1650.07,1,No Action,1
+V00825,50,2024-12-17,2024,Fraud Suspicion,Critical,Escalated,Compliance Team,10,7947.14,1,Payout Hold,1
+V00826,50,2024-11-22,2024,Late Fulfillment,High,Open,Compliance Team,6,3665.28,0,Listing Removed,0
+V00827,50,2025-07-08,2025,Fraud Suspicion,Medium,Escalated,User,2,1318.85,1,Warning Issued,0
+V00828,51,2021-05-04,2021,Fraud Suspicion,Low,Closed,User,7,182.93,1,Payout Hold,1
+V00829,51,2021-03-01,2021,Regulatory Non-Compliance,Low,Closed,System Detection,4,396.66,0,Warning Issued,1
+V00830,51,2022-04-19,2022,Product Quality Issue,Medium,Closed,Internal Audit,14,648.03,1,Warning Issued,1
+V00831,51,2022-11-22,2022,Fraud Suspicion,Low,Closed,System Detection,6,459.86,1,Warning Issued,1
+V00832,51,2022-05-01,2022,Policy Breach,High,Escalated,Internal Audit,14,2352.58,0,Payout Hold,0
+V00833,51,2022-01-26,2022,Fraud Suspicion,High,Closed,Internal Audit,3,3600.63,1,Warning Issued,1
+V00834,51,2022-11-03,2022,Fraud Suspicion,High,Escalated,User,10,3839.9,1,Payout Hold,0
+V00835,51,2022-07-02,2022,Product Quality Issue,Critical,Under Investigation,User,8,7917.99,1,Seller Suspended,0
+V00836,51,2023-08-11,2023,Product Quality Issue,Critical,Under Investigation,Internal Audit,12,5495.83,0,Payout Hold,1
+V00837,51,2024-04-04,2024,Policy Breach,Critical,Open,User,2,2751.24,1,Listing Removed,1
+V00838,51,2024-06-16,2024,Late Fulfillment,Medium,Closed,User,3,258.61,0,Warning Issued,1
+V00839,51,2024-09-15,2024,Listing Misrepresentation,High,Under Investigation,Compliance Team,16,2779.26,0,Payout Hold,0
+V00840,51,2024-04-13,2024,Listing Misrepresentation,Critical,Under Investigation,User,5,3843.45,1,Listing Removed,0
+V00841,51,2024-10-24,2024,Late Fulfillment,High,Open,User,13,2950.22,1,Payout Hold,0
+V00842,51,2025-01-23,2025,Product Quality Issue,Low,Under Investigation,System Detection,9,277.6,0,Listing Removed,0
+V00843,51,2025-02-28,2025,Late Fulfillment,High,Escalated,User,6,2835.17,0,Seller Suspended,0
+V00844,51,2025-04-10,2025,Policy Breach,Critical,Under Investigation,System Detection,15,6399.7,0,Payout Hold,0
+V00845,51,2025-02-13,2025,Product Quality Issue,Medium,Closed,Internal Audit,6,573.1,0,No Action,1
+V00846,52,2021-05-14,2021,Late Fulfillment,Medium,Closed,User,2,951.7,0,Seller Suspended,1
+V00847,52,2021-06-17,2021,Late Fulfillment,Medium,Closed,System Detection,7,1485.41,0,No Action,1
+V00848,52,2021-09-19,2021,Policy Breach,Low,Closed,Compliance Team,8,4.79,0,Warning Issued,1
+V00849,52,2022-01-23,2022,Late Fulfillment,High,Escalated,Compliance Team,6,1904.08,0,Payout Hold,0
+V00850,52,2023-06-11,2023,Product Quality Issue,Critical,Under Investigation,User,6,4029.76,1,Listing Removed,1
+V00851,52,2023-03-24,2023,Product Quality Issue,Critical,Escalated,User,14,3249.98,1,Payout Hold,0
+V00852,52,2023-07-28,2023,Policy Breach,Critical,Escalated,Compliance Team,17,4866.34,1,Seller Suspended,0
+V00853,52,2023-02-09,2023,Product Quality Issue,Medium,Closed,Compliance Team,11,340.6,0,Warning Issued,1
+V00854,52,2023-01-07,2023,Late Fulfillment,Critical,Escalated,User,9,7218.86,1,Listing Removed,0
+V00855,52,2023-07-07,2023,Counterfeit Risk,Medium,Closed,Compliance Team,8,1116.43,0,Listing Removed,1
+V00856,52,2024-01-18,2024,Regulatory Non-Compliance,High,Escalated,System Detection,20,1841.74,0,Payout Hold,0
+V00857,52,2024-11-03,2024,Regulatory Non-Compliance,High,Escalated,User,5,3524.42,1,Listing Removed,1
+V00858,52,2024-06-02,2024,Fraud Suspicion,Critical,Closed,User,16,4649.64,1,Payout Hold,1
+V00859,52,2024-12-28,2024,Policy Breach,Medium,Closed,User,9,420.37,1,Warning Issued,1
+V00860,52,2025-04-07,2025,Fraud Suspicion,Critical,Under Investigation,User,17,6537.35,1,Payout Hold,1
+V00861,52,2025-06-27,2025,Counterfeit Risk,Critical,Open,System Detection,7,5854.79,0,Payout Hold,1
+V00862,52,2025-01-06,2025,Late Fulfillment,Medium,Open,User,11,466.3,0,No Action,1
+V00863,53,2021-03-08,2021,Fraud Suspicion,Medium,Closed,Internal Audit,17,925.23,1,Warning Issued,1
+V00864,53,2021-10-26,2021,Regulatory Non-Compliance,High,Escalated,User,2,2985.75,1,No Action,0
+V00865,53,2021-08-27,2021,Listing Misrepresentation,Critical,Under Investigation,Compliance Team,9,7771.43,0,Seller Suspended,0
+V00866,53,2021-08-11,2021,Listing Misrepresentation,High,Escalated,User,12,1791.13,0,Listing Removed,0
+V00867,53,2021-08-05,2021,Product Quality Issue,Medium,Escalated,User,17,645.82,0,Warning Issued,1
+V00868,53,2021-06-13,2021,Product Quality Issue,High,Escalated,User,4,1742.22,0,Listing Removed,0
+V00869,53,2022-03-04,2022,Fraud Suspicion,Critical,Escalated,Compliance Team,10,6332.89,1,Listing Removed,1
+V00870,53,2022-12-20,2022,Fraud Suspicion,Critical,Escalated,Compliance Team,9,7202.82,1,Listing Removed,0
+V00871,53,2022-11-08,2022,Listing Misrepresentation,High,Under Investigation,System Detection,15,2794.53,0,Listing Removed,0
+V00872,53,2023-03-06,2023,Fraud Suspicion,High,Under Investigation,Internal Audit,4,1660.94,1,Listing Removed,0
+V00873,53,2023-05-05,2023,Fraud Suspicion,Critical,Escalated,User,16,7334.89,1,Payout Hold,1
+V00874,53,2023-12-24,2023,Fraud Suspicion,High,Open,User,15,1883.28,1,No Action,0
+V00875,53,2024-09-20,2024,Listing Misrepresentation,Critical,Closed,User,11,5291.18,1,Payout Hold,1
+V00876,53,2024-06-07,2024,Listing Misrepresentation,Medium,Under Investigation,User,16,1072.42,0,Listing Removed,1
+V00877,53,2024-07-08,2024,Fraud Suspicion,High,Closed,Compliance Team,11,1511.49,1,Listing Removed,1
+V00878,53,2024-01-14,2024,Fraud Suspicion,High,Escalated,Internal Audit,17,2962.36,1,Listing Removed,0
+V00879,53,2024-05-04,2024,Fraud Suspicion,Critical,Escalated,User,6,3701.01,1,Seller Suspended,1
+V00880,53,2024-12-19,2024,Listing Misrepresentation,High,Open,System Detection,12,3480.0,0,Payout Hold,1
+V00881,53,2025-07-13,2025,Fraud Suspicion,High,Closed,User,4,3006.47,1,Warning Issued,1
+V00882,53,2025-12-04,2025,Fraud Suspicion,High,Escalated,Compliance Team,5,2721.69,1,Warning Issued,1
+V00883,53,2025-02-27,2025,Late Fulfillment,Medium,Under Investigation,Internal Audit,16,1186.48,0,Warning Issued,0
+V00884,54,2021-09-05,2021,Product Quality Issue,High,Under Investigation,User,7,3290.73,0,Warning Issued,0
+V00885,54,2021-01-13,2021,Listing Misrepresentation,Medium,Open,Compliance Team,17,472.08,0,No Action,0
+V00886,54,2021-11-17,2021,Fraud Suspicion,High,Escalated,User,16,2913.42,1,No Action,1
+V00887,54,2021-12-04,2021,Policy Breach,Medium,Open,Compliance Team,4,1412.7,0,Warning Issued,0
+V00888,54,2021-01-10,2021,Counterfeit Risk,High,Under Investigation,Compliance Team,15,2533.24,1,Payout Hold,1
+V00889,54,2022-02-16,2022,Fraud Suspicion,Medium,Closed,User,11,1470.96,1,Payout Hold,1
+V00890,54,2023-11-06,2023,Late Fulfillment,High,Under Investigation,System Detection,15,2229.46,1,Payout Hold,1
+V00891,54,2023-01-01,2023,Late Fulfillment,High,Escalated,User,4,2895.42,1,Warning Issued,0
+V00892,54,2023-09-08,2023,Counterfeit Risk,Medium,Escalated,System Detection,12,1019.93,0,No Action,0
+V00893,54,2023-01-15,2023,Policy Breach,Medium,Closed,Compliance Team,20,533.92,0,Warning Issued,1
+V00894,54,2024-09-20,2024,Policy Breach,Medium,Escalated,Internal Audit,9,1268.2,0,Warning Issued,0
+V00895,54,2025-11-18,2025,Policy Breach,High,Closed,Compliance Team,3,2656.45,1,Listing Removed,1
+V00896,54,2025-02-07,2025,Fraud Suspicion,High,Open,User,12,3150.69,1,No Action,1
+V00897,54,2025-12-08,2025,Late Fulfillment,High,Open,System Detection,16,3124.74,0,Payout Hold,0
+V00898,55,2021-08-13,2021,Counterfeit Risk,Low,Closed,User,12,495.31,0,No Action,1
+V00899,55,2021-09-17,2021,Counterfeit Risk,High,Under Investigation,Internal Audit,9,2863.51,0,Seller Suspended,0
+V00900,55,2021-08-17,2021,Policy Breach,Medium,Closed,User,13,916.55,0,Payout Hold,1
+V00901,55,2021-06-22,2021,Product Quality Issue,High,Open,System Detection,8,3195.65,0,Seller Suspended,0
+V00902,55,2021-07-18,2021,Listing Misrepresentation,Medium,Escalated,User,5,367.75,0,Payout Hold,0
+V00903,55,2021-10-19,2021,Fraud Suspicion,Critical,Escalated,User,6,2549.68,1,Seller Suspended,0
+V00904,55,2022-01-15,2022,Late Fulfillment,Medium,Closed,Compliance Team,2,987.83,0,Listing Removed,1
+V00905,55,2022-08-19,2022,Product Quality Issue,Medium,Closed,User,9,994.11,0,Payout Hold,1
+V00906,55,2022-05-18,2022,Listing Misrepresentation,Medium,Closed,System Detection,10,344.08,0,Listing Removed,1
+V00907,55,2023-02-14,2023,Late Fulfillment,High,Under Investigation,Compliance Team,3,2744.57,0,Listing Removed,0
+V00908,55,2023-10-18,2023,Fraud Suspicion,High,Closed,User,17,2183.5,1,Payout Hold,1
+V00909,55,2023-02-27,2023,Counterfeit Risk,Medium,Open,Compliance Team,1,941.1,0,Listing Removed,0
+V00910,55,2023-05-18,2023,Listing Misrepresentation,High,Escalated,User,15,1989.64,1,Seller Suspended,0
+V00911,55,2023-10-20,2023,Late Fulfillment,Critical,Closed,User,17,7260.22,0,Payout Hold,1
+V00912,55,2024-06-01,2024,Late Fulfillment,Low,Closed,Internal Audit,8,455.86,0,No Action,1
+V00913,55,2024-10-12,2024,Product Quality Issue,Low,Escalated,System Detection,10,175.67,0,Warning Issued,0
+V00914,55,2025-09-22,2025,Policy Breach,Medium,Closed,User,3,1151.27,0,Listing Removed,1
+V00915,55,2025-08-06,2025,Product Quality Issue,Low,Closed,User,20,73.73,1,No Action,1
+V00916,55,2025-05-09,2025,Fraud Suspicion,High,Open,Compliance Team,13,2995.8,1,Payout Hold,1
+V00917,55,2025-06-06,2025,Late Fulfillment,Medium,Open,User,11,1014.1,0,No Action,0
+V00918,55,2025-07-25,2025,Fraud Suspicion,Critical,Open,User,14,4324.82,1,Seller Suspended,0
+V00919,55,2025-08-26,2025,Fraud Suspicion,High,Closed,System Detection,8,2623.55,1,Listing Removed,1
+V00920,56,2021-04-20,2021,Product Quality Issue,Low,Closed,User,8,320.63,0,No Action,1
+V00921,56,2021-02-05,2021,Late Fulfillment,Medium,Under Investigation,Compliance Team,2,1286.12,0,Warning Issued,1
+V00922,56,2021-07-05,2021,Policy Breach,High,Escalated,Internal Audit,15,3151.39,0,Warning Issued,0
+V00923,56,2022-08-16,2022,Late Fulfillment,High,Closed,User,5,1739.14,0,Payout Hold,1
+V00924,56,2022-11-11,2022,Product Quality Issue,Low,Closed,User,9,408.76,0,Warning Issued,1
+V00925,56,2022-06-04,2022,Listing Misrepresentation,Critical,Under Investigation,User,5,2962.18,0,Payout Hold,0
+V00926,56,2023-01-12,2023,Late Fulfillment,Critical,Closed,Internal Audit,8,3276.3,1,Payout Hold,1
+V00927,56,2023-12-28,2023,Late Fulfillment,High,Under Investigation,System Detection,4,3417.33,0,Listing Removed,0
+V00928,56,2023-10-07,2023,Fraud Suspicion,High,Under Investigation,User,11,1653.32,1,Listing Removed,0
+V00929,56,2024-11-17,2024,Policy Breach,Critical,Under Investigation,System Detection,3,5109.39,0,Listing Removed,1
+V00930,57,2021-06-26,2021,Late Fulfillment,Medium,Under Investigation,User,6,943.56,0,Warning Issued,0
+V00931,57,2022-08-23,2022,Listing Misrepresentation,Medium,Closed,Internal Audit,13,1161.17,0,No Action,1
+V00932,57,2023-02-17,2023,Late Fulfillment,Medium,Under Investigation,System Detection,7,870.71,0,No Action,0
+V00933,57,2023-03-19,2023,Product Quality Issue,Critical,Open,User,13,3913.24,1,Seller Suspended,0
+V00934,57,2023-06-02,2023,Product Quality Issue,High,Open,Internal Audit,9,2662.31,0,Payout Hold,0
+V00935,57,2024-11-23,2024,Counterfeit Risk,Low,Closed,System Detection,8,172.49,0,Warning Issued,1
+V00936,57,2024-12-17,2024,Late Fulfillment,High,Closed,User,11,2748.52,0,Seller Suspended,1
+V00937,57,2024-06-27,2024,Product Quality Issue,High,Escalated,User,11,2554.94,0,Listing Removed,0
+V00938,57,2024-02-15,2024,Product Quality Issue,High,Closed,User,10,1221.94,0,Payout Hold,1
+V00939,57,2025-11-20,2025,Late Fulfillment,Critical,Escalated,User,5,4308.02,1,Payout Hold,1
+V00940,57,2025-07-16,2025,Late Fulfillment,Critical,Open,User,9,3697.01,0,Listing Removed,0
+V00941,57,2025-07-28,2025,Policy Breach,High,Escalated,Compliance Team,6,1239.36,0,Seller Suspended,0
+V00942,57,2025-01-24,2025,Product Quality Issue,Critical,Closed,User,10,7083.67,0,Seller Suspended,1
+V00943,58,2021-06-05,2021,Product Quality Issue,Medium,Closed,User,12,1278.89,0,Warning Issued,1
+V00944,58,2021-11-11,2021,Policy Breach,High,Open,User,16,3883.55,0,Seller Suspended,0
+V00945,58,2021-03-22,2021,Listing Misrepresentation,High,Open,User,5,3361.79,0,Payout Hold,1
+V00946,58,2021-03-28,2021,Product Quality Issue,High,Open,User,8,2048.69,0,Seller Suspended,0
+V00947,58,2021-12-17,2021,Listing Misrepresentation,High,Open,User,2,1369.05,0,Payout Hold,0
+V00948,58,2022-12-15,2022,Fraud Suspicion,Critical,Under Investigation,Internal Audit,4,3269.23,1,Seller Suspended,0
+V00949,58,2023-10-08,2023,Fraud Suspicion,High,Closed,Compliance Team,15,3926.28,1,Payout Hold,1
+V00950,58,2023-07-03,2023,Policy Breach,High,Closed,User,9,3461.23,1,Seller Suspended,1
+V00951,58,2023-03-12,2023,Policy Breach,High,Closed,Internal Audit,4,3733.04,1,Seller Suspended,1
+V00952,58,2023-01-28,2023,Fraud Suspicion,High,Escalated,User,5,2229.58,1,Payout Hold,0
+V00953,58,2023-02-13,2023,Late Fulfillment,Critical,Open,System Detection,17,5928.99,0,Seller Suspended,0
+V00954,58,2023-04-11,2023,Policy Breach,Critical,Under Investigation,User,12,7798.34,0,No Action,0
+V00955,58,2024-08-07,2024,Fraud Suspicion,Critical,Open,User,6,7297.99,1,Seller Suspended,0
+V00956,58,2024-02-17,2024,Late Fulfillment,Critical,Closed,User,14,5224.13,1,Listing Removed,1
+V00957,58,2024-11-28,2024,Regulatory Non-Compliance,Critical,Open,Compliance Team,10,7220.08,0,Payout Hold,1
+V00958,58,2024-06-25,2024,Counterfeit Risk,High,Escalated,User,10,3678.27,0,Payout Hold,0
+V00959,58,2025-01-21,2025,Policy Breach,Critical,Escalated,Compliance Team,9,7115.29,0,Seller Suspended,1
+V00960,59,2021-04-10,2021,Product Quality Issue,High,Closed,System Detection,7,2409.68,0,Listing Removed,1
+V00961,59,2021-09-08,2021,Late Fulfillment,Medium,Open,User,1,540.69,0,Warning Issued,1
+V00962,59,2021-06-07,2021,Policy Breach,Critical,Open,User,5,3417.72,1,Payout Hold,0
+V00963,59,2022-04-03,2022,Product Quality Issue,Medium,Closed,Compliance Team,2,259.15,0,Listing Removed,1
+V00964,59,2023-12-23,2023,Product Quality Issue,High,Under Investigation,User,10,3993.49,1,Listing Removed,0
+V00965,59,2023-10-16,2023,Late Fulfillment,Critical,Open,User,13,7736.65,0,Payout Hold,0
+V00966,59,2023-03-24,2023,Late Fulfillment,Critical,Open,Compliance Team,14,7955.21,0,Payout Hold,0
+V00967,59,2024-05-27,2024,Policy Breach,Low,Under Investigation,User,5,30.97,0,No Action,0
+V00968,59,2025-04-02,2025,Late Fulfillment,Medium,Under Investigation,User,11,439.31,0,No Action,1
+V00969,59,2025-04-13,2025,Late Fulfillment,Medium,Under Investigation,User,9,979.24,0,No Action,0
+V00970,59,2025-01-02,2025,Fraud Suspicion,High,Open,User,14,2846.01,1,Payout Hold,0
+V00971,59,2025-08-06,2025,Fraud Suspicion,Critical,Closed,User,8,5099.38,1,Seller Suspended,1
+V00972,59,2025-03-06,2025,Fraud Suspicion,Critical,Under Investigation,User,8,6404.7,1,Seller Suspended,0
+V00973,59,2025-08-04,2025,Product Quality Issue,Critical,Escalated,User,17,4185.16,1,Payout Hold,0
+V00974,60,2021-05-10,2021,Regulatory Non-Compliance,Medium,Open,User,17,430.09,0,Listing Removed,0
+V00975,60,2021-02-05,2021,Fraud Suspicion,High,Open,User,16,3225.72,1,Listing Removed,1
+V00976,60,2021-07-20,2021,Fraud Suspicion,High,Under Investigation,User,3,1947.42,1,Payout Hold,0
+V00977,60,2021-11-15,2021,Listing Misrepresentation,High,Closed,System Detection,11,2034.84,0,Listing Removed,1
+V00978,60,2022-02-13,2022,Late Fulfillment,Low,Closed,System Detection,12,573.05,0,Warning Issued,1
+V00979,60,2022-02-06,2022,Policy Breach,Medium,Closed,System Detection,8,606.92,0,No Action,1
+V00980,60,2023-05-16,2023,Product Quality Issue,High,Escalated,User,5,2263.9,0,Payout Hold,0
+V00981,60,2023-01-17,2023,Product Quality Issue,Medium,Under Investigation,Compliance Team,7,538.4,0,Listing Removed,0
+V00982,60,2024-10-02,2024,Product Quality Issue,High,Under Investigation,System Detection,10,2713.84,1,Warning Issued,1
+V00983,60,2024-04-13,2024,Policy Breach,High,Under Investigation,User,18,2311.14,1,Listing Removed,0
+V00984,60,2024-02-08,2024,Product Quality Issue,Medium,Open,Compliance Team,5,460.22,0,No Action,1
+V00985,60,2025-01-12,2025,Counterfeit Risk,High,Closed,System Detection,18,3379.84,1,Listing Removed,1
+V00986,60,2025-08-08,2025,Product Quality Issue,Low,Closed,User,8,53.99,0,Payout Hold,1
+V00987,60,2025-01-01,2025,Fraud Suspicion,High,Escalated,Compliance Team,14,2483.42,1,Listing Removed,0
+V00988,60,2025-09-25,2025,Listing Misrepresentation,High,Open,Internal Audit,15,2010.52,1,Seller Suspended,0
+V00989,61,2021-07-16,2021,Listing Misrepresentation,Critical,Escalated,User,13,3153.07,1,Payout Hold,1
+V00990,61,2021-02-04,2021,Late Fulfillment,Low,Closed,User,9,197.84,0,No Action,1
+V00991,61,2021-05-05,2021,Late Fulfillment,Low,Open,User,7,194.37,0,Warning Issued,0
+V00992,61,2022-07-19,2022,Product Quality Issue,Low,Closed,Internal Audit,2,517.94,0,No Action,1
+V00993,61,2022-01-04,2022,Late Fulfillment,Low,Closed,Compliance Team,6,486.07,0,No Action,1
+V00994,61,2023-12-17,2023,Late Fulfillment,Low,Closed,User,1,553.47,0,Warning Issued,1
+V00995,61,2024-03-02,2024,Product Quality Issue,High,Open,User,5,1974.29,0,Listing Removed,1
+V00996,61,2024-11-07,2024,Listing Misrepresentation,Medium,Escalated,User,3,818.04,0,Warning Issued,0
+V00997,61,2024-09-05,2024,Product Quality Issue,Medium,Closed,System Detection,17,1422.84,0,Seller Suspended,1
+V00998,61,2024-06-12,2024,Product Quality Issue,Medium,Escalated,User,13,1354.21,0,Listing Removed,0
+V00999,61,2024-05-14,2024,Listing Misrepresentation,Low,Under Investigation,User,3,85.99,0,Warning Issued,1
+V01000,61,2024-03-07,2024,Regulatory Non-Compliance,Medium,Closed,User,3,784.02,0,No Action,1
+V01001,61,2025-09-23,2025,Late Fulfillment,Medium,Under Investigation,Compliance Team,13,1364.01,0,No Action,0
+V01002,61,2025-12-02,2025,Late Fulfillment,High,Escalated,User,11,3475.65,1,Listing Removed,0
+V01003,61,2025-01-12,2025,Product Quality Issue,High,Escalated,User,10,1446.7,1,Payout Hold,0
+V01004,61,2025-08-14,2025,Late Fulfillment,Medium,Closed,Internal Audit,1,479.09,1,Seller Suspended,1
+V01005,61,2025-07-28,2025,Policy Breach,Critical,Escalated,User,2,7207.59,0,No Action,1
+V01006,62,2021-07-28,2021,Product Quality Issue,Medium,Closed,Internal Audit,2,616.81,0,No Action,1
+V01007,62,2021-03-19,2021,Late Fulfillment,Low,Open,Compliance Team,6,559.59,0,Warning Issued,0
+V01008,62,2022-03-05,2022,Late Fulfillment,Critical,Escalated,User,13,4189.81,0,Payout Hold,0
+V01009,62,2022-03-04,2022,Late Fulfillment,Medium,Closed,System Detection,4,1005.75,0,No Action,1
+V01010,62,2022-05-19,2022,Policy Breach,Low,Closed,System Detection,2,480.62,0,No Action,1
+V01011,62,2022-02-04,2022,Policy Breach,High,Escalated,User,5,1240.92,0,Payout Hold,1
+V01012,62,2022-07-08,2022,Listing Misrepresentation,Medium,Closed,Internal Audit,4,1343.04,0,Warning Issued,1
+V01013,62,2023-09-17,2023,Fraud Suspicion,Critical,Under Investigation,Compliance Team,1,4728.33,1,No Action,1
+V01014,62,2023-02-02,2023,Fraud Suspicion,Medium,Under Investigation,Compliance Team,4,598.71,1,Seller Suspended,1
+V01015,62,2023-02-23,2023,Listing Misrepresentation,High,Open,User,15,2490.01,0,No Action,1
+V01016,62,2024-01-02,2024,Fraud Suspicion,Low,Under Investigation,System Detection,15,496.84,1,Warning Issued,0
+V01017,62,2024-02-26,2024,Fraud Suspicion,High,Under Investigation,User,3,2424.53,1,No Action,0
+V01018,62,2025-02-19,2025,Policy Breach,Medium,Escalated,User,15,1355.13,1,No Action,0
+V01019,62,2025-12-20,2025,Regulatory Non-Compliance,Critical,Escalated,User,6,7018.12,1,Seller Suspended,0
+V01020,62,2025-02-03,2025,Fraud Suspicion,High,Escalated,System Detection,10,3767.87,1,Warning Issued,1
+V01021,63,2021-12-01,2021,Late Fulfillment,High,Closed,User,6,1680.09,0,Warning Issued,1
+V01022,63,2021-07-01,2021,Product Quality Issue,Medium,Closed,User,3,1293.49,0,Listing Removed,1
+V01023,63,2021-10-25,2021,Product Quality Issue,Critical,Under Investigation,User,5,3163.38,0,Payout Hold,0
+V01024,63,2022-07-18,2022,Fraud Suspicion,High,Open,System Detection,10,2641.09,1,Seller Suspended,0
+V01025,63,2022-06-15,2022,Fraud Suspicion,Critical,Escalated,User,12,6891.21,1,Payout Hold,1
+V01026,63,2023-02-13,2023,Policy Breach,Medium,Closed,User,11,819.87,0,Listing Removed,1
+V01027,63,2023-07-26,2023,Policy Breach,Low,Under Investigation,Compliance Team,16,589.53,0,Payout Hold,1
+V01028,63,2023-03-03,2023,Policy Breach,Critical,Escalated,Compliance Team,6,2524.27,0,Payout Hold,0
+V01029,63,2023-11-17,2023,Fraud Suspicion,Medium,Closed,Compliance Team,13,1025.0,1,Seller Suspended,1
+V01030,63,2023-05-18,2023,Product Quality Issue,Medium,Closed,Compliance Team,8,1261.86,1,Payout Hold,1
+V01031,63,2024-01-05,2024,Fraud Suspicion,Critical,Under Investigation,System Detection,20,6700.08,1,Seller Suspended,0
+V01032,63,2024-07-23,2024,Late Fulfillment,Critical,Under Investigation,User,1,2998.93,0,Payout Hold,0
+V01033,63,2024-05-16,2024,Policy Breach,Medium,Closed,User,10,1319.4,0,No Action,1
+V01034,63,2024-09-11,2024,Policy Breach,Critical,Escalated,User,3,7491.84,1,Seller Suspended,0
+V01035,63,2025-10-16,2025,Product Quality Issue,Medium,Under Investigation,User,13,1423.61,0,Listing Removed,0
+V01036,63,2025-03-08,2025,Policy Breach,Low,Closed,Compliance Team,8,455.03,0,Warning Issued,1
+V01037,63,2025-05-14,2025,Policy Breach,High,Open,Internal Audit,2,1305.24,0,Warning Issued,0
+V01038,63,2025-02-12,2025,Listing Misrepresentation,Medium,Closed,User,13,1051.52,0,Listing Removed,1
+V01039,63,2025-01-07,2025,Counterfeit Risk,Medium,Escalated,Compliance Team,6,1220.4,0,Listing Removed,0
+V01040,64,2021-09-28,2021,Listing Misrepresentation,High,Open,User,14,2687.87,0,Warning Issued,0
+V01041,64,2021-09-13,2021,Regulatory Non-Compliance,Critical,Open,User,8,4151.42,0,Payout Hold,0
+V01042,64,2021-01-15,2021,Policy Breach,Medium,Under Investigation,Compliance Team,5,334.5,0,Listing Removed,0
+V01043,64,2021-12-18,2021,Regulatory Non-Compliance,Medium,Closed,User,10,1004.68,0,Warning Issued,1
+V01044,64,2021-12-17,2021,Fraud Suspicion,High,Under Investigation,User,17,1090.63,1,Payout Hold,0
+V01045,64,2022-10-22,2022,Late Fulfillment,Low,Closed,User,10,141.19,0,Warning Issued,1
+V01046,64,2022-11-17,2022,Regulatory Non-Compliance,Medium,Open,User,11,772.65,0,Warning Issued,0
+V01047,64,2023-07-09,2023,Listing Misrepresentation,High,Under Investigation,Internal Audit,9,2421.07,0,Warning Issued,1
+V01048,64,2023-06-09,2023,Fraud Suspicion,Critical,Closed,System Detection,6,3826.82,1,Seller Suspended,1
+V01049,64,2023-03-16,2023,Fraud Suspicion,Medium,Closed,User,18,324.55,1,Warning Issued,1
+V01050,64,2023-03-16,2023,Fraud Suspicion,High,Escalated,Internal Audit,12,2953.75,1,Seller Suspended,1
+V01051,64,2023-02-14,2023,Fraud Suspicion,High,Open,User,16,2115.85,1,Seller Suspended,0
+V01052,64,2023-09-08,2023,Fraud Suspicion,Critical,Escalated,Compliance Team,4,5714.83,1,Listing Removed,1
+V01053,64,2024-07-19,2024,Counterfeit Risk,Critical,Open,User,6,5225.01,0,Payout Hold,0
+V01054,64,2024-02-15,2024,Regulatory Non-Compliance,Low,Closed,User,5,532.26,1,Warning Issued,1
+V01055,64,2024-01-02,2024,Late Fulfillment,Low,Under Investigation,User,2,226.04,0,No Action,1
+V01056,64,2025-10-09,2025,Product Quality Issue,Low,Closed,Internal Audit,14,19.51,0,No Action,1
+V01057,65,2021-01-06,2021,Policy Breach,Medium,Closed,System Detection,5,656.31,0,No Action,1
+V01058,65,2021-10-08,2021,Late Fulfillment,Medium,Escalated,User,16,926.15,0,Listing Removed,0
+V01059,65,2022-04-12,2022,Policy Breach,Medium,Closed,Compliance Team,12,324.37,0,No Action,1
+V01060,65,2022-08-13,2022,Policy Breach,Critical,Under Investigation,User,4,6044.87,0,Listing Removed,0
+V01061,65,2022-10-24,2022,Policy Breach,Medium,Closed,User,14,1323.95,0,Warning Issued,1
+V01062,65,2022-07-24,2022,Product Quality Issue,Medium,Closed,Internal Audit,12,462.06,0,No Action,1
+V01063,65,2022-02-19,2022,Regulatory Non-Compliance,Critical,Closed,Compliance Team,13,6744.06,0,Listing Removed,1
+V01064,65,2022-05-27,2022,Late Fulfillment,Low,Closed,User,15,20.76,0,Payout Hold,1
+V01065,65,2023-04-08,2023,Late Fulfillment,Low,Under Investigation,Compliance Team,12,24.44,0,Warning Issued,1
+V01066,65,2023-06-28,2023,Policy Breach,Low,Closed,User,10,202.59,0,Warning Issued,1
+V01067,65,2024-04-28,2024,Product Quality Issue,High,Closed,System Detection,4,1580.92,0,Listing Removed,1
+V01068,65,2024-03-10,2024,Listing Misrepresentation,Medium,Open,System Detection,10,683.52,0,Listing Removed,0
+V01069,65,2024-02-05,2024,Policy Breach,High,Escalated,System Detection,8,3340.23,1,Warning Issued,1
+V01070,65,2025-10-20,2025,Late Fulfillment,Low,Under Investigation,User,6,240.89,0,No Action,0
+V01071,65,2025-05-06,2025,Late Fulfillment,Low,Under Investigation,User,3,160.92,0,No Action,0
+V01072,65,2025-10-26,2025,Late Fulfillment,Low,Closed,Internal Audit,4,137.45,0,Warning Issued,1
+V01073,66,2021-03-14,2021,Policy Breach,Low,Closed,Compliance Team,4,305.22,0,No Action,1
+V01074,66,2021-02-05,2021,Product Quality Issue,High,Under Investigation,User,8,3299.36,0,Payout Hold,0
+V01075,66,2023-09-09,2023,Listing Misrepresentation,Low,Open,Internal Audit,3,63.54,0,Warning Issued,0
+V01076,66,2023-01-11,2023,Late Fulfillment,Low,Closed,User,7,383.91,0,Warning Issued,1
+V01077,66,2023-01-17,2023,Fraud Suspicion,High,Under Investigation,System Detection,3,1380.55,1,Payout Hold,0
+V01078,66,2024-09-18,2024,Late Fulfillment,Critical,Closed,Internal Audit,3,6352.27,0,Seller Suspended,1
+V01079,66,2024-03-24,2024,Regulatory Non-Compliance,Low,Closed,Internal Audit,8,24.87,0,Listing Removed,1
+V01080,66,2024-10-07,2024,Regulatory Non-Compliance,Critical,Escalated,User,3,7923.98,0,Seller Suspended,1
+V01081,67,2022-03-11,2022,Product Quality Issue,Medium,Under Investigation,System Detection,9,321.66,0,Listing Removed,1
+V01082,67,2023-12-17,2023,Product Quality Issue,High,Closed,Internal Audit,10,1961.92,0,No Action,1
+V01083,67,2023-03-13,2023,Policy Breach,Low,Closed,System Detection,3,75.2,0,Warning Issued,1
+V01084,67,2024-04-28,2024,Policy Breach,High,Escalated,User,3,2756.81,0,Warning Issued,0
+V01085,67,2024-06-01,2024,Policy Breach,Medium,Closed,Internal Audit,11,1417.28,0,No Action,1
+V01086,67,2025-08-06,2025,Product Quality Issue,Medium,Closed,User,16,1057.65,0,No Action,1
+V01087,67,2025-03-08,2025,Regulatory Non-Compliance,Low,Closed,User,12,6.87,0,Warning Issued,1
+V01088,67,2025-07-13,2025,Late Fulfillment,High,Open,Compliance Team,15,1000.74,0,Payout Hold,1
+V01089,67,2025-01-19,2025,Listing Misrepresentation,Medium,Open,User,5,1058.77,0,No Action,0
+V01090,67,2025-12-25,2025,Counterfeit Risk,Medium,Closed,User,6,1023.98,0,Warning Issued,1
+V01091,68,2021-02-03,2021,Regulatory Non-Compliance,Medium,Escalated,User,11,774.84,0,Seller Suspended,0
+V01092,68,2021-11-02,2021,Listing Misrepresentation,Medium,Open,Compliance Team,10,772.48,0,Seller Suspended,0
+V01093,68,2021-03-13,2021,Late Fulfillment,High,Escalated,User,10,1044.18,0,Listing Removed,0
+V01094,68,2021-07-03,2021,Listing Misrepresentation,Medium,Open,Compliance Team,17,389.16,0,Warning Issued,1
+V01095,68,2021-02-01,2021,Policy Breach,High,Under Investigation,User,18,3894.99,0,Seller Suspended,1
+V01096,68,2021-07-12,2021,Late Fulfillment,Critical,Open,Internal Audit,13,5028.72,0,Seller Suspended,0
+V01097,68,2022-08-14,2022,Fraud Suspicion,High,Under Investigation,System Detection,4,3370.12,1,Payout Hold,1
+V01098,68,2022-05-14,2022,Fraud Suspicion,High,Escalated,User,3,2651.44,1,Listing Removed,1
+V01099,68,2022-10-20,2022,Product Quality Issue,Medium,Closed,Internal Audit,10,460.88,0,Warning Issued,1
+V01100,68,2022-05-25,2022,Late Fulfillment,High,Open,User,5,2285.2,0,Listing Removed,1
+V01101,68,2022-10-09,2022,Listing Misrepresentation,High,Open,Internal Audit,15,1880.27,0,Listing Removed,0
+V01102,68,2023-07-18,2023,Late Fulfillment,High,Under Investigation,User,20,1189.66,1,Seller Suspended,0
+V01103,68,2023-04-17,2023,Policy Breach,Medium,Under Investigation,User,16,1157.64,0,Warning Issued,0
+V01104,68,2023-01-19,2023,Product Quality Issue,Low,Open,User,3,388.53,0,Listing Removed,0
+V01105,68,2023-09-17,2023,Fraud Suspicion,Critical,Open,Compliance Team,8,7137.83,1,Seller Suspended,0
+V01106,68,2024-08-05,2024,Policy Breach,Medium,Under Investigation,Compliance Team,2,1261.42,0,Payout Hold,0
+V01107,68,2024-12-03,2024,Product Quality Issue,Critical,Escalated,User,10,7661.1,0,Seller Suspended,0
+V01108,68,2024-10-27,2024,Counterfeit Risk,High,Under Investigation,Compliance Team,11,2363.27,0,Warning Issued,0
+V01109,68,2024-04-12,2024,Listing Misrepresentation,Critical,Open,User,6,3753.41,0,Seller Suspended,0
+V01110,68,2024-09-08,2024,Late Fulfillment,Medium,Closed,User,14,277.82,0,Seller Suspended,1
+V01111,68,2024-02-18,2024,Regulatory Non-Compliance,Medium,Under Investigation,Compliance Team,13,1322.03,0,Listing Removed,1
+V01112,68,2025-01-25,2025,Product Quality Issue,Medium,Closed,User,9,877.98,0,Warning Issued,1
+V01113,68,2025-01-13,2025,Late Fulfillment,Low,Closed,System Detection,10,487.92,0,Warning Issued,1
+V01114,68,2025-09-25,2025,Late Fulfillment,Medium,Closed,User,1,1492.82,0,Warning Issued,1
+V01115,69,2021-10-05,2021,Fraud Suspicion,Critical,Closed,System Detection,11,6707.47,1,Seller Suspended,1
+V01116,69,2021-07-22,2021,Counterfeit Risk,High,Under Investigation,System Detection,17,3792.8,1,Listing Removed,0
+V01117,69,2021-10-19,2021,Fraud Suspicion,Critical,Escalated,Compliance Team,18,7973.58,1,Listing Removed,0
+V01118,69,2021-09-05,2021,Listing Misrepresentation,Critical,Escalated,Compliance Team,1,5016.48,1,Payout Hold,0
+V01119,69,2021-05-20,2021,Fraud Suspicion,High,Under Investigation,Compliance Team,5,2606.69,1,Payout Hold,1
+V01120,69,2022-04-11,2022,Regulatory Non-Compliance,Critical,Under Investigation,User,5,5793.48,1,No Action,0
+V01121,69,2022-04-01,2022,Regulatory Non-Compliance,Medium,Under Investigation,Compliance Team,9,890.79,0,Payout Hold,0
+V01122,69,2022-01-23,2022,Fraud Suspicion,High,Closed,System Detection,6,2397.73,1,Seller Suspended,1
+V01123,69,2023-07-21,2023,Product Quality Issue,High,Under Investigation,System Detection,15,2739.7,0,Payout Hold,0
+V01124,69,2023-07-21,2023,Policy Breach,High,Open,User,4,2533.01,0,Seller Suspended,0
+V01125,69,2023-01-04,2023,Policy Breach,Critical,Under Investigation,User,11,2763.58,0,Payout Hold,0
+V01126,69,2024-08-06,2024,Listing Misrepresentation,High,Closed,Compliance Team,7,1521.56,0,Payout Hold,1
+V01127,69,2024-05-27,2024,Product Quality Issue,High,Open,Internal Audit,13,2372.93,0,Seller Suspended,1
+V01128,69,2024-10-06,2024,Policy Breach,High,Under Investigation,User,12,2619.51,0,Warning Issued,0
+V01129,69,2024-10-13,2024,Fraud Suspicion,Critical,Open,Compliance Team,5,5417.11,1,Seller Suspended,0
+V01130,69,2025-11-25,2025,Regulatory Non-Compliance,Medium,Escalated,Compliance Team,8,522.93,0,Warning Issued,0
+V01131,69,2025-11-09,2025,Product Quality Issue,Critical,Open,User,13,6546.82,0,Listing Removed,0
+V01132,69,2025-05-06,2025,Listing Misrepresentation,High,Escalated,User,18,1745.93,1,Payout Hold,0
+V01133,69,2025-07-27,2025,Policy Breach,Medium,Closed,User,8,1397.86,0,Warning Issued,1
+V01134,70,2022-12-10,2022,Fraud Suspicion,Medium,Closed,Internal Audit,9,348.95,1,Listing Removed,1
+V01135,70,2022-06-25,2022,Policy Breach,Critical,Escalated,Internal Audit,4,7324.5,0,Payout Hold,0
+V01136,70,2022-12-19,2022,Product Quality Issue,High,Escalated,Compliance Team,5,3997.19,1,Payout Hold,0
+V01137,70,2022-07-26,2022,Policy Breach,Critical,Closed,Internal Audit,10,5698.12,0,Listing Removed,1
+V01138,70,2023-03-24,2023,Fraud Suspicion,Critical,Open,User,8,5600.22,1,No Action,0
+V01139,70,2023-08-19,2023,Late Fulfillment,Critical,Escalated,System Detection,4,7713.91,0,Seller Suspended,1
+V01140,70,2023-10-26,2023,Product Quality Issue,Medium,Closed,Internal Audit,14,749.77,0,No Action,1
+V01141,70,2023-08-20,2023,Fraud Suspicion,Critical,Under Investigation,Internal Audit,2,3858.82,1,Payout Hold,1
+V01142,70,2024-10-27,2024,Late Fulfillment,Medium,Closed,System Detection,3,1470.06,0,No Action,1
+V01143,70,2024-03-13,2024,Counterfeit Risk,Low,Open,System Detection,6,391.42,0,Warning Issued,0
+V01144,70,2025-05-24,2025,Late Fulfillment,Low,Open,Internal Audit,11,10.01,1,Warning Issued,0
+V01145,70,2025-11-27,2025,Late Fulfillment,High,Closed,User,14,2151.23,0,Seller Suspended,1
+V01146,70,2025-12-05,2025,Counterfeit Risk,High,Open,Compliance Team,2,1700.6,0,Payout Hold,1
+V01147,71,2021-07-20,2021,Policy Breach,Low,Escalated,User,11,372.26,0,Payout Hold,1
+V01148,71,2021-09-27,2021,Late Fulfillment,Critical,Under Investigation,User,8,7336.41,0,Payout Hold,0
+V01149,71,2022-08-20,2022,Counterfeit Risk,High,Escalated,Compliance Team,12,3293.44,0,Listing Removed,1
+V01150,71,2022-01-10,2022,Fraud Suspicion,Critical,Under Investigation,User,2,3398.52,1,Listing Removed,0
+V01151,71,2022-11-20,2022,Listing Misrepresentation,Low,Closed,Compliance Team,7,43.96,0,No Action,1
+V01152,71,2024-07-03,2024,Policy Breach,Medium,Closed,System Detection,10,979.79,1,No Action,1
+V01153,71,2024-09-16,2024,Fraud Suspicion,High,Open,Compliance Team,6,3431.1,1,Seller Suspended,1
+V01154,71,2024-05-18,2024,Policy Breach,High,Escalated,System Detection,6,3598.0,1,Payout Hold,0
+V01155,71,2024-01-23,2024,Late Fulfillment,Low,Open,Compliance Team,9,20.47,0,Listing Removed,1
+V01156,71,2025-02-16,2025,Policy Breach,Critical,Open,User,6,4409.12,0,Payout Hold,1
+V01157,71,2025-01-20,2025,Policy Breach,Medium,Closed,Compliance Team,10,682.9,0,Warning Issued,1
+V01158,72,2021-06-27,2021,Late Fulfillment,Critical,Under Investigation,User,13,3143.35,0,Seller Suspended,1
+V01159,72,2021-01-02,2021,Product Quality Issue,Critical,Escalated,Internal Audit,19,4214.67,0,Payout Hold,1
+V01160,72,2021-04-20,2021,Policy Breach,High,Closed,Compliance Team,14,1480.96,1,Listing Removed,1
+V01161,72,2022-09-12,2022,Product Quality Issue,Medium,Closed,User,10,276.3,0,Seller Suspended,1
+V01162,72,2022-03-13,2022,Product Quality Issue,Medium,Closed,User,4,1136.62,0,Seller Suspended,1
+V01163,72,2022-04-11,2022,Late Fulfillment,Low,Closed,Internal Audit,2,301.88,1,No Action,1
+V01164,72,2022-07-16,2022,Fraud Suspicion,High,Closed,Internal Audit,2,3906.46,1,Payout Hold,1
+V01165,72,2023-12-04,2023,Product Quality Issue,Medium,Closed,Compliance Team,5,1115.94,0,No Action,1
+V01166,72,2023-04-03,2023,Late Fulfillment,Medium,Escalated,User,9,723.22,0,No Action,0
+V01167,72,2023-09-02,2023,Listing Misrepresentation,High,Under Investigation,System Detection,1,1334.32,0,Payout Hold,1
+V01168,72,2024-03-01,2024,Product Quality Issue,High,Closed,User,12,3133.5,1,Listing Removed,1
+V01169,72,2024-01-28,2024,Fraud Suspicion,High,Escalated,System Detection,5,1239.78,1,Seller Suspended,1
+V01170,72,2024-10-19,2024,Late Fulfillment,Medium,Closed,Compliance Team,4,760.22,0,Listing Removed,1
+V01171,72,2024-06-23,2024,Listing Misrepresentation,Critical,Open,User,13,2590.44,1,Payout Hold,1
+V01172,72,2025-04-13,2025,Product Quality Issue,Low,Escalated,User,5,141.9,0,Warning Issued,1
+V01173,72,2025-06-02,2025,Late Fulfillment,High,Closed,Compliance Team,11,2286.8,0,Payout Hold,1
+V01174,72,2025-10-04,2025,Counterfeit Risk,Medium,Open,Compliance Team,5,456.14,0,Warning Issued,0
+V01175,73,2021-03-01,2021,Listing Misrepresentation,High,Closed,Internal Audit,5,2402.47,0,Listing Removed,1
+V01176,73,2021-02-19,2021,Late Fulfillment,Medium,Closed,User,15,1458.76,1,Warning Issued,1
+V01177,73,2021-08-10,2021,Late Fulfillment,Medium,Escalated,Internal Audit,11,607.29,0,Warning Issued,0
+V01178,73,2021-06-08,2021,Late Fulfillment,Low,Closed,User,5,208.72,0,Payout Hold,1
+V01179,73,2021-05-25,2021,Regulatory Non-Compliance,Medium,Closed,User,13,1020.66,1,Warning Issued,1
+V01180,73,2023-01-08,2023,Regulatory Non-Compliance,Medium,Closed,User,9,637.0,0,No Action,1
+V01181,73,2023-05-15,2023,Fraud Suspicion,Critical,Open,User,10,6898.77,1,Listing Removed,0
+V01182,73,2023-06-07,2023,Policy Breach,Low,Closed,User,16,570.68,0,No Action,1
+V01183,73,2023-06-14,2023,Counterfeit Risk,High,Closed,User,5,1537.73,0,Listing Removed,1
+V01184,73,2023-10-11,2023,Listing Misrepresentation,High,Open,System Detection,5,1792.64,0,Listing Removed,0
+V01185,73,2023-06-23,2023,Regulatory Non-Compliance,Critical,Closed,Internal Audit,15,5031.29,0,Payout Hold,1
+V01186,73,2024-09-21,2024,Product Quality Issue,Medium,Escalated,Internal Audit,3,1309.52,0,No Action,0
+V01187,73,2024-02-18,2024,Late Fulfillment,High,Escalated,System Detection,5,2881.6,0,Payout Hold,1
+V01188,73,2024-06-22,2024,Late Fulfillment,High,Escalated,Compliance Team,9,3082.19,0,No Action,0
+V01189,73,2025-04-28,2025,Counterfeit Risk,High,Closed,User,5,2810.41,0,Listing Removed,1
+V01190,73,2025-04-28,2025,Fraud Suspicion,High,Closed,User,11,3358.4,1,Payout Hold,1
+V01191,73,2025-07-10,2025,Late Fulfillment,Medium,Closed,User,8,550.09,0,Warning Issued,1
+V01192,73,2025-08-13,2025,Product Quality Issue,High,Open,User,18,2420.19,0,Listing Removed,0
+V01193,73,2025-12-18,2025,Fraud Suspicion,High,Open,Internal Audit,5,1547.08,1,Listing Removed,1
+V01194,74,2021-07-20,2021,Late Fulfillment,High,Open,Compliance Team,6,1414.9,0,Listing Removed,0
+V01195,74,2022-10-01,2022,Product Quality Issue,Critical,Under Investigation,Compliance Team,2,4381.53,0,Payout Hold,1
+V01196,74,2022-06-14,2022,Product Quality Issue,Low,Closed,User,5,429.97,0,Warning Issued,1
+V01197,74,2022-04-07,2022,Late Fulfillment,High,Escalated,User,8,1384.84,0,Listing Removed,0
+V01198,74,2022-02-14,2022,Product Quality Issue,Critical,Under Investigation,Compliance Team,8,5129.78,0,Payout Hold,0
+V01199,74,2023-01-08,2023,Listing Misrepresentation,Low,Closed,User,12,302.05,0,Warning Issued,1
+V01200,74,2023-02-24,2023,Fraud Suspicion,High,Escalated,Compliance Team,6,1160.94,1,Listing Removed,0
+V01201,74,2023-07-16,2023,Policy Breach,Medium,Under Investigation,Internal Audit,1,422.15,0,Listing Removed,1
+V01202,74,2023-03-01,2023,Fraud Suspicion,Critical,Closed,Compliance Team,15,7691.1,1,Seller Suspended,1
+V01203,74,2023-07-24,2023,Counterfeit Risk,High,Under Investigation,User,10,2937.07,0,Payout Hold,0
+V01204,74,2024-12-25,2024,Product Quality Issue,Medium,Closed,Compliance Team,9,597.25,0,Listing Removed,1
+V01205,74,2024-05-20,2024,Policy Breach,Medium,Open,Compliance Team,1,1360.93,0,No Action,0
+V01206,74,2024-12-26,2024,Product Quality Issue,Low,Closed,User,9,177.96,0,No Action,1
+V01207,74,2025-05-13,2025,Late Fulfillment,Low,Closed,System Detection,9,560.74,0,Payout Hold,1
+V01208,74,2025-11-28,2025,Regulatory Non-Compliance,Medium,Under Investigation,User,9,534.97,0,No Action,0
+V01209,74,2025-08-14,2025,Policy Breach,Critical,Escalated,System Detection,7,3562.1,0,Listing Removed,1
+V01210,75,2021-05-06,2021,Policy Breach,High,Open,System Detection,7,2383.29,0,Listing Removed,1
+V01211,75,2021-09-17,2021,Late Fulfillment,Critical,Under Investigation,Internal Audit,5,5503.2,0,Payout Hold,0
+V01212,75,2022-02-13,2022,Listing Misrepresentation,Low,Closed,User,9,385.46,0,Warning Issued,1
+V01213,75,2022-10-20,2022,Fraud Suspicion,Critical,Under Investigation,Internal Audit,15,5929.43,1,Seller Suspended,0
+V01214,75,2022-11-18,2022,Fraud Suspicion,Critical,Open,Compliance Team,2,3156.32,1,Payout Hold,1
+V01215,75,2022-07-03,2022,Late Fulfillment,Low,Closed,User,10,243.81,1,No Action,1
+V01216,75,2022-09-13,2022,Policy Breach,Medium,Open,User,1,568.46,0,No Action,0
+V01217,75,2024-06-17,2024,Listing Misrepresentation,High,Closed,User,7,2244.17,1,Listing Removed,1
+V01218,75,2024-03-06,2024,Fraud Suspicion,Medium,Closed,User,16,620.13,1,Listing Removed,1
+V01219,75,2024-04-07,2024,Fraud Suspicion,Critical,Open,Compliance Team,17,7100.74,1,Seller Suspended,1
+V01220,75,2024-08-01,2024,Listing Misrepresentation,Low,Closed,Internal Audit,8,549.78,0,Warning Issued,1
+V01221,75,2024-03-02,2024,Listing Misrepresentation,Low,Closed,Compliance Team,15,365.23,0,Warning Issued,1
+V01222,75,2024-04-09,2024,Counterfeit Risk,High,Escalated,Compliance Team,16,2454.37,0,Payout Hold,0
+V01223,75,2025-03-27,2025,Fraud Suspicion,Critical,Closed,System Detection,11,4494.18,1,Listing Removed,1
+V01224,75,2025-05-11,2025,Product Quality Issue,Medium,Closed,Compliance Team,1,1484.82,0,Listing Removed,1
+V01225,75,2025-06-16,2025,Regulatory Non-Compliance,High,Escalated,Internal Audit,4,2883.81,0,Payout Hold,1
+V01226,75,2025-01-06,2025,Late Fulfillment,Medium,Escalated,User,11,1461.81,0,No Action,1
+V01227,75,2025-03-11,2025,Product Quality Issue,Critical,Escalated,Internal Audit,9,3750.47,0,Listing Removed,0
+V01228,75,2025-05-18,2025,Listing Misrepresentation,Medium,Closed,System Detection,20,1374.19,0,Warning Issued,1
+V01229,76,2021-09-24,2021,Late Fulfillment,Low,Closed,User,11,503.46,0,No Action,1
+V01230,76,2021-07-23,2021,Product Quality Issue,High,Open,Compliance Team,4,1734.08,0,Payout Hold,1
+V01231,76,2021-01-24,2021,Product Quality Issue,Medium,Closed,Internal Audit,15,599.94,0,Payout Hold,1
+V01232,76,2022-09-07,2022,Late Fulfillment,Critical,Open,Compliance Team,4,4715.7,0,Listing Removed,1
+V01233,76,2022-11-03,2022,Listing Misrepresentation,Critical,Under Investigation,Internal Audit,7,6703.96,0,Seller Suspended,0
+V01234,76,2023-07-27,2023,Listing Misrepresentation,Medium,Closed,User,3,775.51,0,Warning Issued,1
+V01235,76,2023-12-05,2023,Fraud Suspicion,High,Closed,Compliance Team,17,2737.81,1,Payout Hold,1
+V01236,76,2023-04-16,2023,Product Quality Issue,Low,Closed,Compliance Team,14,494.35,0,Warning Issued,1
+V01237,76,2023-11-21,2023,Policy Breach,High,Escalated,User,16,3109.8,0,Payout Hold,0
+V01238,76,2023-06-11,2023,Fraud Suspicion,High,Escalated,System Detection,2,2633.94,1,Seller Suspended,0
+V01239,76,2024-08-17,2024,Late Fulfillment,Medium,Under Investigation,User,5,947.28,0,Payout Hold,0
+V01240,76,2025-03-13,2025,Fraud Suspicion,Critical,Under Investigation,Compliance Team,12,7236.85,1,Payout Hold,0
+V01241,76,2025-03-08,2025,Product Quality Issue,High,Open,System Detection,11,3359.05,0,No Action,0
+V01242,76,2025-02-18,2025,Fraud Suspicion,High,Open,Internal Audit,7,3367.33,1,Payout Hold,0
+V01243,76,2025-02-17,2025,Policy Breach,Critical,Open,User,13,2538.74,0,Seller Suspended,1
+V01244,76,2025-10-02,2025,Fraud Suspicion,High,Closed,User,11,2664.51,1,Listing Removed,1
+V01245,76,2025-04-08,2025,Late Fulfillment,High,Closed,System Detection,8,2984.06,0,Seller Suspended,1
+V01246,77,2021-04-23,2021,Listing Misrepresentation,Medium,Under Investigation,System Detection,10,767.21,0,Listing Removed,0
+V01247,77,2022-06-12,2022,Product Quality Issue,Low,Closed,User,14,60.94,0,Warning Issued,1
+V01248,77,2022-04-04,2022,Late Fulfillment,Medium,Open,System Detection,2,647.86,0,No Action,0
+V01249,77,2022-02-17,2022,Late Fulfillment,High,Escalated,Compliance Team,5,1821.55,0,Listing Removed,0
+V01250,77,2022-09-18,2022,Late Fulfillment,Critical,Under Investigation,User,16,5158.69,0,Payout Hold,0
+V01251,77,2023-04-21,2023,Policy Breach,High,Open,User,11,2331.91,0,Payout Hold,1
+V01252,77,2024-12-02,2024,Listing Misrepresentation,Critical,Under Investigation,System Detection,6,3281.68,0,Seller Suspended,1
+V01253,77,2024-05-12,2024,Late Fulfillment,Medium,Closed,User,13,1201.6,0,Warning Issued,1
+V01254,77,2024-12-28,2024,Late Fulfillment,Low,Escalated,System Detection,9,287.86,0,No Action,0
+V01255,78,2021-06-19,2021,Policy Breach,Medium,Closed,System Detection,10,1387.52,0,Warning Issued,1
+V01256,78,2022-02-17,2022,Product Quality Issue,High,Open,User,15,1994.28,0,Seller Suspended,0
+V01257,78,2022-03-27,2022,Fraud Suspicion,Critical,Open,Internal Audit,13,6563.76,1,Payout Hold,1
+V01258,78,2022-01-15,2022,Late Fulfillment,High,Escalated,User,14,3181.47,0,Listing Removed,0
+V01259,78,2022-05-21,2022,Fraud Suspicion,High,Under Investigation,User,2,3787.26,1,No Action,0
+V01260,78,2022-01-06,2022,Counterfeit Risk,High,Closed,Compliance Team,3,3828.38,0,Payout Hold,1
+V01261,78,2023-05-22,2023,Product Quality Issue,High,Open,User,8,3451.9,0,Payout Hold,0
+V01262,78,2023-01-24,2023,Regulatory Non-Compliance,High,Escalated,System Detection,16,2215.2,0,Listing Removed,1
+V01263,78,2023-01-26,2023,Late Fulfillment,Critical,Closed,Internal Audit,11,6620.06,0,No Action,1
+V01264,78,2023-07-23,2023,Fraud Suspicion,Medium,Closed,System Detection,16,403.89,1,Listing Removed,1
+V01265,78,2023-07-14,2023,Regulatory Non-Compliance,Low,Escalated,User,13,549.16,0,No Action,1
+V01266,78,2024-03-05,2024,Product Quality Issue,Critical,Under Investigation,Compliance Team,4,2717.9,0,Seller Suspended,0
+V01267,78,2025-09-08,2025,Fraud Suspicion,High,Closed,Internal Audit,2,2423.06,1,Warning Issued,1
+V01268,78,2025-03-21,2025,Listing Misrepresentation,Critical,Open,User,14,5892.3,0,Payout Hold,0
+V01269,78,2025-08-10,2025,Fraud Suspicion,Critical,Under Investigation,User,2,7277.05,1,Payout Hold,0
+V01270,78,2025-04-16,2025,Policy Breach,Medium,Open,System Detection,11,1188.05,0,Payout Hold,1
+V01271,78,2025-11-11,2025,Listing Misrepresentation,High,Closed,Compliance Team,5,2316.01,0,Payout Hold,1
+V01272,78,2025-02-10,2025,Product Quality Issue,Low,Escalated,Internal Audit,1,551.55,0,No Action,0
+V01273,79,2021-06-03,2021,Product Quality Issue,Critical,Escalated,User,10,3990.97,0,Seller Suspended,1
+V01274,79,2021-07-16,2021,Late Fulfillment,Medium,Closed,Compliance Team,14,625.86,0,Payout Hold,1
+V01275,79,2022-05-12,2022,Fraud Suspicion,High,Closed,Internal Audit,5,2446.61,1,Listing Removed,1
+V01276,79,2022-06-03,2022,Fraud Suspicion,High,Closed,Compliance Team,5,2399.67,1,Payout Hold,1
+V01277,79,2022-03-28,2022,Late Fulfillment,High,Under Investigation,Internal Audit,2,2274.78,1,Payout Hold,0
+V01278,79,2022-06-17,2022,Fraud Suspicion,Low,Closed,Internal Audit,7,187.21,1,Warning Issued,1
+V01279,79,2024-05-08,2024,Listing Misrepresentation,High,Open,Internal Audit,10,3400.56,0,Listing Removed,0
+V01280,79,2024-02-02,2024,Product Quality Issue,Medium,Closed,System Detection,15,411.09,0,Listing Removed,1
+V01281,79,2024-07-21,2024,Product Quality Issue,Critical,Open,User,16,5680.02,0,Payout Hold,1
+V01282,79,2025-05-06,2025,Policy Breach,Low,Closed,User,8,117.14,0,Warning Issued,1
+V01283,79,2025-06-21,2025,Policy Breach,Medium,Closed,User,5,1394.39,0,Seller Suspended,1
+V01284,80,2021-02-10,2021,Policy Breach,Low,Closed,User,8,189.02,0,Warning Issued,1
+V01285,80,2022-03-01,2022,Late Fulfillment,High,Under Investigation,System Detection,3,3546.41,0,Listing Removed,1
+V01286,80,2022-05-02,2022,Counterfeit Risk,Medium,Escalated,User,6,480.24,0,Payout Hold,0
+V01287,80,2022-01-04,2022,Regulatory Non-Compliance,Medium,Closed,User,8,392.34,0,No Action,1
+V01288,80,2023-04-19,2023,Late Fulfillment,Low,Under Investigation,Compliance Team,11,227.3,0,Warning Issued,0
+V01289,80,2024-06-27,2024,Policy Breach,Critical,Under Investigation,User,1,5851.77,1,Seller Suspended,0
+V01290,80,2024-09-14,2024,Late Fulfillment,High,Closed,Internal Audit,13,2311.8,0,Listing Removed,1
+V01291,80,2024-11-28,2024,Late Fulfillment,High,Under Investigation,User,15,3491.13,0,Payout Hold,0
+V01292,80,2024-12-06,2024,Regulatory Non-Compliance,Medium,Closed,Compliance Team,18,859.91,0,Warning Issued,1
+V01293,80,2024-06-26,2024,Fraud Suspicion,High,Open,User,9,2249.47,1,No Action,1
+V01294,80,2025-04-13,2025,Fraud Suspicion,Critical,Escalated,Internal Audit,10,7580.92,1,Seller Suspended,0
+V01295,81,2021-04-18,2021,Policy Breach,Critical,Closed,User,5,5532.94,1,Seller Suspended,1
+V01296,81,2021-05-07,2021,Policy Breach,Critical,Closed,User,12,4363.15,0,Payout Hold,1
+V01297,81,2021-11-23,2021,Regulatory Non-Compliance,High,Under Investigation,User,10,3820.56,0,Listing Removed,0
+V01298,81,2021-07-08,2021,Counterfeit Risk,High,Closed,System Detection,11,2411.17,0,Listing Removed,1
+V01299,81,2021-09-26,2021,Listing Misrepresentation,Medium,Open,System Detection,13,1227.01,1,Listing Removed,0
+V01300,81,2022-01-16,2022,Product Quality Issue,Medium,Under Investigation,User,10,255.08,0,No Action,0
+V01301,81,2022-08-18,2022,Counterfeit Risk,Critical,Under Investigation,User,6,3224.98,0,Payout Hold,1
+V01302,81,2022-10-25,2022,Policy Breach,High,Escalated,User,12,2898.5,1,No Action,0
+V01303,81,2022-07-07,2022,Late Fulfillment,Medium,Escalated,User,7,1374.1,1,Payout Hold,0
+V01304,81,2023-11-03,2023,Regulatory Non-Compliance,Low,Closed,User,6,229.96,0,No Action,1
+V01305,81,2023-10-14,2023,Product Quality Issue,Medium,Closed,User,7,530.25,0,No Action,1
+V01306,81,2023-01-04,2023,Regulatory Non-Compliance,Low,Closed,Internal Audit,8,16.52,0,No Action,1
+V01307,81,2024-10-09,2024,Product Quality Issue,Low,Closed,Compliance Team,3,138.97,0,Warning Issued,1
+V01308,81,2024-11-14,2024,Policy Breach,Medium,Under Investigation,User,1,916.85,0,Seller Suspended,0
+V01309,81,2024-12-09,2024,Late Fulfillment,Low,Open,User,12,360.3,0,Warning Issued,1
+V01310,81,2025-02-13,2025,Fraud Suspicion,Medium,Closed,User,7,1214.57,1,Seller Suspended,1
+V01311,81,2025-03-02,2025,Fraud Suspicion,High,Escalated,User,11,3777.49,1,Seller Suspended,0
+V01312,81,2025-02-20,2025,Late Fulfillment,Medium,Closed,Compliance Team,7,1369.15,0,Warning Issued,1
+V01313,81,2025-05-05,2025,Late Fulfillment,Medium,Closed,Internal Audit,18,1089.12,0,Payout Hold,1
+V01314,82,2021-02-07,2021,Regulatory Non-Compliance,Medium,Open,Compliance Team,2,373.6,0,No Action,0
+V01315,82,2021-04-05,2021,Policy Breach,Low,Closed,Compliance Team,5,490.15,0,No Action,1
+V01316,82,2021-08-22,2021,Fraud Suspicion,Low,Closed,User,11,173.6,1,No Action,1
+V01317,82,2022-11-10,2022,Listing Misrepresentation,High,Escalated,User,6,3788.31,0,Warning Issued,1
+V01318,82,2022-06-16,2022,Listing Misrepresentation,High,Open,Compliance Team,1,2662.32,0,Warning Issued,0
+V01319,82,2023-10-04,2023,Listing Misrepresentation,High,Open,User,2,1356.91,0,Payout Hold,1
+V01320,82,2023-02-11,2023,Fraud Suspicion,Critical,Escalated,Internal Audit,15,2865.36,1,Listing Removed,0
+V01321,82,2023-06-06,2023,Product Quality Issue,Critical,Under Investigation,System Detection,11,2857.53,1,Seller Suspended,0
+V01322,82,2023-10-09,2023,Fraud Suspicion,Critical,Under Investigation,Compliance Team,2,5788.36,1,No Action,0
+V01323,82,2023-11-23,2023,Listing Misrepresentation,Medium,Closed,User,4,1222.87,0,Listing Removed,1
+V01324,82,2024-08-21,2024,Late Fulfillment,Medium,Closed,User,1,728.48,1,Warning Issued,1
+V01325,82,2024-01-03,2024,Policy Breach,Critical,Under Investigation,System Detection,15,4579.4,1,No Action,1
+V01326,82,2024-05-02,2024,Product Quality Issue,High,Open,User,9,3941.4,1,No Action,0
+V01327,82,2024-05-26,2024,Late Fulfillment,High,Under Investigation,User,14,3160.35,1,Listing Removed,0
+V01328,82,2025-04-05,2025,Late Fulfillment,High,Closed,Internal Audit,7,3598.98,1,Payout Hold,1
+V01329,82,2025-10-19,2025,Late Fulfillment,Medium,Under Investigation,User,14,394.78,1,Payout Hold,1
+V01330,82,2025-04-12,2025,Policy Breach,Critical,Under Investigation,User,14,4936.48,1,Seller Suspended,0
+V01331,82,2025-03-27,2025,Fraud Suspicion,Critical,Under Investigation,User,9,7648.05,1,Seller Suspended,1
+V01332,83,2021-09-08,2021,Fraud Suspicion,Critical,Open,User,6,7422.25,1,Listing Removed,1
+V01333,83,2021-06-08,2021,Product Quality Issue,Critical,Escalated,System Detection,6,3025.84,1,Seller Suspended,0
+V01334,83,2021-08-10,2021,Policy Breach,High,Closed,User,8,3779.02,1,Payout Hold,1
+V01335,83,2021-06-16,2021,Product Quality Issue,High,Escalated,User,3,2755.55,1,Payout Hold,0
+V01336,83,2021-11-20,2021,Policy Breach,Medium,Under Investigation,User,15,995.33,0,No Action,0
+V01337,83,2021-06-16,2021,Product Quality Issue,Medium,Closed,System Detection,15,969.89,0,Warning Issued,1
+V01338,83,2022-10-21,2022,Late Fulfillment,Medium,Escalated,User,7,1251.25,0,Listing Removed,1
+V01339,83,2022-07-11,2022,Late Fulfillment,Medium,Closed,User,7,805.07,0,Warning Issued,1
+V01340,83,2022-03-15,2022,Late Fulfillment,Critical,Under Investigation,Compliance Team,2,4143.63,0,Seller Suspended,0
+V01341,83,2022-11-01,2022,Product Quality Issue,Medium,Closed,System Detection,7,450.91,0,Payout Hold,1
+V01342,83,2022-05-10,2022,Late Fulfillment,Critical,Escalated,Compliance Team,9,6914.89,0,Listing Removed,0
+V01343,83,2022-04-24,2022,Late Fulfillment,Medium,Under Investigation,User,8,1208.49,0,Listing Removed,0
+V01344,83,2023-12-11,2023,Regulatory Non-Compliance,Critical,Under Investigation,User,4,5717.27,1,Seller Suspended,0
+V01345,83,2023-07-01,2023,Fraud Suspicion,High,Escalated,System Detection,7,2971.48,1,Listing Removed,0
+V01346,83,2023-06-06,2023,Fraud Suspicion,High,Closed,Compliance Team,4,1838.6,1,Listing Removed,1
+V01347,83,2024-07-06,2024,Product Quality Issue,High,Open,User,3,1470.92,0,Listing Removed,0
+V01348,83,2024-07-15,2024,Policy Breach,Critical,Under Investigation,System Detection,9,4733.66,0,Listing Removed,1
+V01349,83,2024-01-13,2024,Fraud Suspicion,High,Escalated,User,2,1691.88,1,Listing Removed,0
+V01350,83,2024-06-01,2024,Fraud Suspicion,High,Open,User,5,1730.56,1,Listing Removed,0
+V01351,83,2024-02-20,2024,Fraud Suspicion,Critical,Under Investigation,User,13,3513.13,1,Payout Hold,0
+V01352,83,2024-12-16,2024,Fraud Suspicion,High,Under Investigation,User,18,1007.37,1,Payout Hold,1
+V01353,83,2025-04-01,2025,Policy Breach,High,Open,System Detection,10,3887.12,0,Listing Removed,1
+V01354,83,2025-09-25,2025,Fraud Suspicion,Critical,Escalated,User,7,6803.04,1,Payout Hold,1
+V01355,83,2025-04-22,2025,Fraud Suspicion,Critical,Escalated,User,9,4853.5,1,No Action,0
+V01356,83,2025-03-22,2025,Fraud Suspicion,High,Closed,Internal Audit,2,2944.01,1,Seller Suspended,1
+V01357,83,2025-11-03,2025,Policy Breach,Medium,Closed,User,9,1099.69,1,Payout Hold,1
+V01358,84,2021-11-14,2021,Late Fulfillment,Low,Under Investigation,Internal Audit,3,73.86,0,No Action,1
+V01359,84,2021-07-27,2021,Product Quality Issue,Medium,Closed,Internal Audit,2,525.84,0,Listing Removed,1
+V01360,84,2022-10-10,2022,Late Fulfillment,Low,Escalated,Compliance Team,4,498.11,0,Warning Issued,1
+V01361,84,2023-04-23,2023,Policy Breach,Medium,Under Investigation,Internal Audit,8,1073.38,0,Warning Issued,0
+V01362,84,2023-03-16,2023,Policy Breach,High,Under Investigation,Compliance Team,10,2661.23,0,Payout Hold,0
+V01363,84,2023-02-11,2023,Fraud Suspicion,Critical,Open,System Detection,2,6784.19,1,Listing Removed,0
+V01364,84,2023-06-06,2023,Policy Breach,Medium,Under Investigation,User,17,1241.27,0,Listing Removed,0
+V01365,84,2024-08-06,2024,Regulatory Non-Compliance,Medium,Under Investigation,Internal Audit,11,1386.98,0,No Action,0
+V01366,84,2025-07-20,2025,Listing Misrepresentation,High,Closed,Compliance Team,7,1836.05,0,Listing Removed,1
+V01367,84,2025-06-27,2025,Fraud Suspicion,Critical,Open,Internal Audit,7,3212.88,1,Payout Hold,0
+V01368,84,2025-06-28,2025,Fraud Suspicion,Critical,Open,User,9,3195.05,1,Payout Hold,0
+V01369,84,2025-10-08,2025,Policy Breach,High,Under Investigation,User,4,1807.87,0,Payout Hold,0
+V01370,84,2025-07-28,2025,Listing Misrepresentation,Critical,Under Investigation,Compliance Team,14,6292.65,1,No Action,0
+V01371,85,2021-06-16,2021,Product Quality Issue,Medium,Escalated,User,8,1330.02,0,Listing Removed,0
+V01372,85,2021-04-08,2021,Product Quality Issue,Medium,Open,Compliance Team,11,1100.79,0,Listing Removed,0
+V01373,85,2022-04-15,2022,Policy Breach,High,Closed,User,2,3096.15,0,No Action,1
+V01374,85,2023-08-13,2023,Policy Breach,Medium,Closed,User,11,524.64,0,Listing Removed,1
+V01375,85,2023-09-14,2023,Late Fulfillment,Low,Escalated,User,13,495.26,0,No Action,0
+V01376,85,2024-09-09,2024,Late Fulfillment,Critical,Escalated,Compliance Team,5,3619.47,0,Seller Suspended,1
+V01377,85,2024-11-19,2024,Late Fulfillment,Critical,Under Investigation,System Detection,9,6302.36,0,Seller Suspended,1
+V01378,85,2024-02-23,2024,Late Fulfillment,Low,Closed,User,8,363.95,0,No Action,1
+V01379,85,2024-10-05,2024,Late Fulfillment,Critical,Escalated,User,16,6433.56,0,Payout Hold,0
+V01380,85,2024-10-12,2024,Policy Breach,Low,Closed,System Detection,16,29.95,0,Warning Issued,1
+V01381,85,2025-02-04,2025,Late Fulfillment,Medium,Closed,Internal Audit,2,1052.85,1,No Action,1
+V01382,85,2025-09-24,2025,Policy Breach,High,Under Investigation,User,2,1845.54,1,Warning Issued,0
+V01383,85,2025-09-11,2025,Fraud Suspicion,High,Under Investigation,Internal Audit,6,2431.94,1,Payout Hold,0
+V01384,86,2021-10-21,2021,Counterfeit Risk,Critical,Under Investigation,User,16,4050.08,0,Payout Hold,0
+V01385,86,2021-05-02,2021,Counterfeit Risk,Critical,Open,System Detection,8,6846.7,0,Seller Suspended,0
+V01386,86,2021-12-18,2021,Policy Breach,Medium,Closed,Internal Audit,8,383.38,0,Listing Removed,1
+V01387,86,2022-02-03,2022,Product Quality Issue,High,Escalated,System Detection,5,2737.43,0,Payout Hold,0
+V01388,86,2022-07-03,2022,Late Fulfillment,Low,Closed,Internal Audit,8,581.79,0,Warning Issued,1
+V01389,86,2022-05-12,2022,Product Quality Issue,Low,Closed,Internal Audit,5,423.35,0,Warning Issued,1
+V01390,86,2022-04-08,2022,Product Quality Issue,High,Escalated,User,4,1477.67,0,Listing Removed,0
+V01391,86,2022-12-16,2022,Late Fulfillment,Low,Closed,User,11,160.61,0,Listing Removed,1
+V01392,86,2022-10-28,2022,Late Fulfillment,Critical,Escalated,User,4,6837.81,0,Listing Removed,1
+V01393,86,2023-08-25,2023,Product Quality Issue,Critical,Under Investigation,System Detection,4,6960.53,1,Seller Suspended,0
+V01394,86,2023-09-12,2023,Late Fulfillment,Critical,Under Investigation,User,17,7677.57,1,Seller Suspended,1
+V01395,86,2023-03-24,2023,Product Quality Issue,High,Escalated,System Detection,9,3850.39,1,Seller Suspended,1
+V01396,86,2023-02-04,2023,Product Quality Issue,Medium,Closed,System Detection,2,498.02,1,No Action,1
+V01397,86,2024-02-05,2024,Late Fulfillment,High,Escalated,System Detection,7,1580.39,0,Listing Removed,1
+V01398,86,2024-01-12,2024,Product Quality Issue,Medium,Closed,User,8,1481.82,0,Seller Suspended,1
+V01399,86,2025-07-04,2025,Product Quality Issue,Medium,Closed,Internal Audit,10,1137.22,0,Listing Removed,1
+V01400,86,2025-07-25,2025,Late Fulfillment,Low,Closed,Compliance Team,3,226.58,0,No Action,1
+V01401,86,2025-05-01,2025,Late Fulfillment,Medium,Under Investigation,Compliance Team,12,1299.53,0,No Action,0
+V01402,87,2021-04-25,2021,Late Fulfillment,High,Open,Compliance Team,13,1775.12,1,Warning Issued,0
+V01403,87,2021-06-23,2021,Policy Breach,Medium,Under Investigation,User,17,983.43,0,No Action,0
+V01404,87,2021-12-04,2021,Fraud Suspicion,Medium,Under Investigation,User,7,879.9,1,Warning Issued,0
+V01405,87,2021-04-22,2021,Fraud Suspicion,High,Under Investigation,Compliance Team,5,2668.92,1,Payout Hold,0
+V01406,87,2021-09-23,2021,Fraud Suspicion,High,Open,User,11,1851.06,1,Listing Removed,1
+V01407,87,2022-04-23,2022,Product Quality Issue,Medium,Closed,User,4,1098.47,0,No Action,1
+V01408,87,2022-04-03,2022,Regulatory Non-Compliance,Critical,Escalated,User,14,4742.17,0,Seller Suspended,0
+V01409,87,2022-07-18,2022,Listing Misrepresentation,Critical,Closed,System Detection,6,6463.32,0,Listing Removed,1
+V01410,87,2022-01-26,2022,Counterfeit Risk,Critical,Escalated,System Detection,2,5503.57,0,Listing Removed,0
+V01411,87,2022-07-26,2022,Counterfeit Risk,Low,Open,Compliance Team,9,167.88,0,No Action,0
+V01412,87,2022-11-07,2022,Policy Breach,Critical,Escalated,Compliance Team,15,3789.59,0,Listing Removed,1
+V01413,87,2023-10-23,2023,Policy Breach,Critical,Escalated,System Detection,12,2820.17,0,Listing Removed,0
+V01414,87,2023-10-19,2023,Late Fulfillment,High,Closed,User,17,3428.63,0,Seller Suspended,1
+V01415,87,2023-01-06,2023,Product Quality Issue,Critical,Under Investigation,User,18,4032.73,0,Seller Suspended,0
+V01416,87,2023-03-20,2023,Policy Breach,High,Under Investigation,System Detection,9,3118.83,0,No Action,0
+V01417,87,2023-07-13,2023,Late Fulfillment,Critical,Open,Compliance Team,14,2952.91,0,Seller Suspended,0
+V01418,87,2023-02-12,2023,Fraud Suspicion,Critical,Closed,Compliance Team,16,7417.71,1,Seller Suspended,1
+V01419,87,2024-06-23,2024,Fraud Suspicion,Critical,Escalated,System Detection,19,7887.13,1,Listing Removed,0
+V01420,87,2024-12-08,2024,Fraud Suspicion,High,Closed,Internal Audit,20,2343.59,1,Listing Removed,1
+V01421,87,2024-02-18,2024,Late Fulfillment,Medium,Closed,Compliance Team,13,760.24,0,Listing Removed,1
+V01422,87,2025-02-13,2025,Policy Breach,Medium,Closed,Internal Audit,12,869.05,0,Warning Issued,1
+V01423,87,2025-11-17,2025,Product Quality Issue,Critical,Under Investigation,Compliance Team,9,5496.11,0,Payout Hold,0
+V01424,87,2025-12-21,2025,Late Fulfillment,High,Closed,System Detection,3,2204.55,0,Payout Hold,1
+V01425,88,2021-07-15,2021,Policy Breach,Low,Under Investigation,Internal Audit,11,51.38,0,No Action,0
+V01426,88,2021-09-21,2021,Regulatory Non-Compliance,Medium,Closed,User,8,552.3,0,Payout Hold,1
+V01427,88,2022-06-11,2022,Product Quality Issue,High,Open,Internal Audit,6,2809.78,0,Listing Removed,0
+V01428,88,2022-04-18,2022,Late Fulfillment,High,Open,System Detection,17,1217.32,0,Warning Issued,0
+V01429,88,2022-08-04,2022,Policy Breach,High,Under Investigation,User,15,1565.41,0,Payout Hold,0
+V01430,88,2022-06-28,2022,Late Fulfillment,Critical,Under Investigation,Compliance Team,6,6065.58,0,Payout Hold,0
+V01431,88,2023-11-12,2023,Policy Breach,Low,Closed,System Detection,7,356.62,0,Warning Issued,1
+V01432,88,2024-09-27,2024,Policy Breach,Medium,Closed,User,2,541.14,0,Warning Issued,1
+V01433,88,2024-04-01,2024,Late Fulfillment,Medium,Open,System Detection,8,329.76,0,Payout Hold,0
+V01434,88,2025-03-19,2025,Policy Breach,Low,Closed,User,4,89.54,0,No Action,1
+V01435,88,2025-04-14,2025,Product Quality Issue,High,Closed,User,12,1504.44,0,Warning Issued,1
+V01436,89,2021-11-07,2021,Counterfeit Risk,Medium,Under Investigation,System Detection,3,731.12,0,Warning Issued,1
+V01437,89,2021-10-15,2021,Listing Misrepresentation,High,Escalated,System Detection,6,3982.43,0,Payout Hold,1
+V01438,89,2021-12-03,2021,Fraud Suspicion,High,Under Investigation,User,7,3883.09,1,No Action,1
+V01439,89,2021-08-09,2021,Counterfeit Risk,Medium,Escalated,User,16,702.36,0,No Action,0
+V01440,89,2021-06-24,2021,Counterfeit Risk,Medium,Closed,Compliance Team,7,920.57,0,Listing Removed,1
+V01441,89,2021-09-07,2021,Policy Breach,Critical,Under Investigation,Compliance Team,11,5588.6,0,Seller Suspended,1
+V01442,89,2022-11-06,2022,Fraud Suspicion,Medium,Closed,User,14,550.42,1,Listing Removed,1
+V01443,89,2022-08-16,2022,Product Quality Issue,Critical,Under Investigation,User,16,7361.02,0,Listing Removed,0
+V01444,89,2022-11-27,2022,Listing Misrepresentation,Critical,Escalated,User,1,7265.86,0,Seller Suspended,1
+V01445,89,2022-05-11,2022,Listing Misrepresentation,High,Closed,Compliance Team,2,1495.55,0,Payout Hold,1
+V01446,89,2022-04-09,2022,Fraud Suspicion,Critical,Closed,Internal Audit,5,2751.23,1,Listing Removed,1
+V01447,89,2022-12-16,2022,Fraud Suspicion,High,Under Investigation,System Detection,14,2036.08,1,Seller Suspended,0
+V01448,89,2023-02-14,2023,Late Fulfillment,Medium,Closed,System Detection,8,1095.73,0,Listing Removed,1
+V01449,89,2024-06-01,2024,Policy Breach,Critical,Open,User,15,3748.37,0,Payout Hold,0
+V01450,89,2024-11-22,2024,Policy Breach,Low,Closed,Compliance Team,4,515.08,0,Listing Removed,1
+V01451,89,2025-02-05,2025,Fraud Suspicion,High,Under Investigation,User,10,2382.16,1,Listing Removed,1
+V01452,89,2025-07-06,2025,Listing Misrepresentation,High,Closed,System Detection,7,2662.02,0,Payout Hold,1
+V01453,89,2025-06-03,2025,Fraud Suspicion,High,Escalated,System Detection,10,3471.39,1,Seller Suspended,0
+V01454,90,2021-08-22,2021,Policy Breach,Medium,Closed,System Detection,13,1105.33,0,Warning Issued,1
+V01455,90,2021-07-05,2021,Late Fulfillment,High,Open,User,3,1742.35,0,Payout Hold,1
+V01456,90,2021-02-22,2021,Late Fulfillment,High,Escalated,System Detection,14,3287.49,0,Seller Suspended,0
+V01457,90,2022-03-25,2022,Late Fulfillment,Medium,Closed,Internal Audit,3,1229.42,0,Listing Removed,1
+V01458,90,2023-10-02,2023,Late Fulfillment,Medium,Open,System Detection,12,1403.68,0,No Action,0
+V01459,90,2023-08-02,2023,Counterfeit Risk,Medium,Closed,Compliance Team,9,1276.11,0,Warning Issued,1
+V01460,90,2023-07-15,2023,Fraud Suspicion,High,Escalated,Compliance Team,10,1645.94,1,No Action,0
+V01461,90,2024-09-02,2024,Listing Misrepresentation,High,Closed,Compliance Team,7,2107.89,0,Warning Issued,1
+V01462,90,2024-06-02,2024,Late Fulfillment,Low,Under Investigation,Compliance Team,7,282.83,0,Warning Issued,0
+V01463,90,2024-10-20,2024,Fraud Suspicion,High,Escalated,User,13,1582.25,1,Payout Hold,0
+V01464,90,2025-04-14,2025,Policy Breach,Medium,Escalated,System Detection,3,297.67,0,Warning Issued,1
+V01465,90,2025-08-16,2025,Late Fulfillment,Medium,Under Investigation,User,10,1104.15,0,Listing Removed,0
+V01466,91,2021-07-26,2021,Policy Breach,Critical,Escalated,User,8,3389.48,0,Payout Hold,0
+V01467,91,2021-02-24,2021,Late Fulfillment,High,Under Investigation,Internal Audit,5,1470.19,0,Payout Hold,0
+V01468,91,2021-02-26,2021,Late Fulfillment,Medium,Closed,User,3,392.39,0,No Action,1
+V01469,91,2021-09-22,2021,Late Fulfillment,Low,Closed,System Detection,12,356.91,0,Warning Issued,1
+V01470,91,2022-04-02,2022,Late Fulfillment,Medium,Open,System Detection,7,257.35,0,No Action,1
+V01471,91,2022-04-18,2022,Late Fulfillment,High,Escalated,User,2,1929.04,0,Seller Suspended,0
+V01472,91,2022-09-13,2022,Late Fulfillment,Medium,Under Investigation,System Detection,13,590.25,0,No Action,0
+V01473,91,2022-07-22,2022,Product Quality Issue,High,Under Investigation,User,15,3132.95,0,Warning Issued,0
+V01474,91,2022-02-02,2022,Late Fulfillment,Medium,Closed,User,14,465.65,0,Warning Issued,1
+V01475,91,2023-04-08,2023,Late Fulfillment,High,Open,User,14,2972.6,1,Listing Removed,0
+V01476,91,2023-09-24,2023,Fraud Suspicion,High,Escalated,System Detection,12,2568.92,1,Payout Hold,0
+V01477,91,2023-01-08,2023,Product Quality Issue,High,Escalated,System Detection,9,3214.84,0,No Action,0
+V01478,91,2024-05-21,2024,Product Quality Issue,Medium,Open,User,10,411.75,0,Warning Issued,1
+V01479,91,2024-08-01,2024,Product Quality Issue,Medium,Under Investigation,Compliance Team,9,1242.85,0,Listing Removed,1
+V01480,91,2024-06-04,2024,Late Fulfillment,Medium,Closed,Compliance Team,10,387.66,0,Warning Issued,1
+V01481,91,2025-11-10,2025,Regulatory Non-Compliance,Medium,Closed,User,5,736.86,0,Warning Issued,1
+V01482,91,2025-07-16,2025,Fraud Suspicion,Medium,Closed,Internal Audit,16,1094.66,1,Seller Suspended,1
+V01483,91,2025-07-08,2025,Listing Misrepresentation,Medium,Closed,User,1,800.77,0,No Action,1
+V01484,91,2025-06-16,2025,Fraud Suspicion,Critical,Escalated,System Detection,5,2755.96,1,Seller Suspended,0
+V01485,91,2025-12-25,2025,Policy Breach,Critical,Escalated,User,15,3467.5,1,Seller Suspended,0
+V01486,92,2021-02-26,2021,Listing Misrepresentation,High,Closed,User,6,3012.83,0,Listing Removed,1
+V01487,92,2021-04-04,2021,Product Quality Issue,Critical,Escalated,User,1,7576.95,0,Payout Hold,0
+V01488,92,2021-06-13,2021,Product Quality Issue,High,Closed,User,11,3780.92,0,No Action,1
+V01489,92,2022-01-01,2022,Fraud Suspicion,Medium,Escalated,System Detection,2,1161.17,1,Warning Issued,0
+V01490,92,2022-03-24,2022,Policy Breach,High,Open,User,6,2447.66,0,Payout Hold,0
+V01491,92,2022-02-02,2022,Counterfeit Risk,High,Closed,User,4,2354.99,0,Warning Issued,1
+V01492,92,2022-08-04,2022,Counterfeit Risk,High,Closed,User,15,2201.44,0,No Action,1
+V01493,92,2023-11-15,2023,Product Quality Issue,High,Under Investigation,System Detection,8,3683.17,0,Payout Hold,0
+V01494,92,2023-06-06,2023,Late Fulfillment,Critical,Escalated,Compliance Team,9,4457.7,1,No Action,0
+V01495,92,2024-01-14,2024,Late Fulfillment,Low,Closed,User,12,519.15,0,No Action,1
+V01496,92,2025-07-07,2025,Late Fulfillment,High,Escalated,Compliance Team,8,1534.03,0,Payout Hold,0
+V01497,92,2025-05-20,2025,Product Quality Issue,High,Closed,System Detection,11,2576.67,1,Seller Suspended,1
+V01498,92,2025-10-19,2025,Fraud Suspicion,High,Escalated,User,15,1341.49,1,Payout Hold,0
+V01499,93,2021-08-12,2021,Late Fulfillment,High,Open,System Detection,9,3407.43,0,Listing Removed,0
+V01500,93,2021-04-03,2021,Product Quality Issue,Critical,Under Investigation,User,14,6648.72,0,Seller Suspended,1
+V01501,93,2021-04-16,2021,Policy Breach,High,Escalated,Internal Audit,7,3329.57,0,Listing Removed,0
+V01502,93,2021-04-22,2021,Product Quality Issue,High,Escalated,User,14,2445.49,0,Listing Removed,0
+V01503,93,2021-03-05,2021,Fraud Suspicion,High,Escalated,User,12,3426.17,1,Listing Removed,1
+V01504,93,2021-06-18,2021,Fraud Suspicion,Low,Escalated,Internal Audit,9,152.44,1,No Action,0
+V01505,93,2022-12-06,2022,Late Fulfillment,Low,Closed,User,15,156.67,0,Payout Hold,1
+V01506,93,2022-12-25,2022,Late Fulfillment,Low,Closed,System Detection,9,5.21,0,No Action,1
+V01507,93,2022-07-17,2022,Late Fulfillment,Critical,Closed,Compliance Team,11,4182.2,1,Seller Suspended,1
+V01508,93,2023-03-21,2023,Late Fulfillment,Medium,Closed,User,2,1006.69,0,No Action,1
+V01509,93,2023-08-21,2023,Policy Breach,Low,Closed,Internal Audit,2,55.77,0,No Action,1
+V01510,93,2024-04-20,2024,Regulatory Non-Compliance,High,Open,User,1,1679.09,0,Payout Hold,1
+V01511,93,2024-05-05,2024,Policy Breach,High,Open,Compliance Team,5,3638.68,0,Payout Hold,1
+V01512,93,2024-07-22,2024,Late Fulfillment,Medium,Open,User,6,1061.02,1,Listing Removed,0
+V01513,93,2024-09-28,2024,Late Fulfillment,Critical,Escalated,User,13,7102.31,1,Payout Hold,0
+V01514,93,2025-06-23,2025,Fraud Suspicion,Low,Closed,User,5,587.92,1,No Action,1
+V01515,93,2025-10-26,2025,Product Quality Issue,Medium,Closed,System Detection,15,923.94,0,Warning Issued,1
+V01516,93,2025-08-02,2025,Listing Misrepresentation,Critical,Open,System Detection,11,7945.65,0,Seller Suspended,0
+V01517,93,2025-03-13,2025,Fraud Suspicion,High,Escalated,User,6,2929.01,1,Warning Issued,0
+V01518,93,2025-12-19,2025,Product Quality Issue,Medium,Closed,System Detection,8,850.36,0,Warning Issued,1
+V01519,93,2025-11-14,2025,Product Quality Issue,High,Closed,User,5,2611.78,0,Listing Removed,1
+V01520,94,2021-11-27,2021,Product Quality Issue,High,Closed,User,15,2863.33,0,Warning Issued,1
+V01521,94,2021-03-09,2021,Policy Breach,Critical,Under Investigation,Internal Audit,4,6203.41,0,Payout Hold,0
+V01522,94,2021-04-26,2021,Late Fulfillment,High,Closed,Internal Audit,3,1772.06,0,No Action,1
+V01523,94,2022-07-20,2022,Fraud Suspicion,Critical,Escalated,Internal Audit,7,3869.99,1,Listing Removed,0
+V01524,94,2022-03-18,2022,Counterfeit Risk,Medium,Closed,Compliance Team,12,1467.6,1,Warning Issued,1
+V01525,94,2022-09-26,2022,Listing Misrepresentation,Medium,Closed,Internal Audit,15,260.32,0,Payout Hold,1
+V01526,94,2022-10-28,2022,Late Fulfillment,Medium,Closed,User,3,660.17,0,Listing Removed,1
+V01527,94,2022-09-17,2022,Fraud Suspicion,Critical,Under Investigation,User,6,7722.47,1,Seller Suspended,0
+V01528,94,2022-12-20,2022,Policy Breach,High,Under Investigation,Internal Audit,8,2738.17,0,Payout Hold,0
+V01529,94,2023-11-01,2023,Policy Breach,High,Under Investigation,System Detection,11,3538.84,0,Warning Issued,0
+V01530,94,2023-04-26,2023,Product Quality Issue,High,Escalated,User,6,2344.09,0,No Action,0
+V01531,94,2023-07-24,2023,Late Fulfillment,Medium,Open,User,2,777.97,0,No Action,0
+V01532,94,2024-05-19,2024,Fraud Suspicion,High,Under Investigation,User,16,3908.97,1,Payout Hold,1
+V01533,94,2024-10-17,2024,Listing Misrepresentation,Critical,Escalated,User,7,6677.08,0,Payout Hold,0
+V01534,94,2024-12-19,2024,Policy Breach,Medium,Under Investigation,System Detection,5,1281.03,0,Warning Issued,0
+V01535,94,2024-09-14,2024,Counterfeit Risk,Critical,Under Investigation,User,6,4321.23,0,Listing Removed,0
+V01536,94,2024-03-11,2024,Counterfeit Risk,Critical,Escalated,Compliance Team,8,7292.11,0,Payout Hold,0
+V01537,94,2025-05-17,2025,Policy Breach,Low,Closed,User,4,310.38,0,No Action,1
+V01538,94,2025-12-14,2025,Policy Breach,High,Closed,User,8,2536.45,0,Listing Removed,1
+V01539,95,2021-01-25,2021,Fraud Suspicion,High,Under Investigation,User,15,2803.25,1,Payout Hold,0
+V01540,95,2021-01-25,2021,Regulatory Non-Compliance,Critical,Escalated,Internal Audit,14,5028.17,1,Seller Suspended,0
+V01541,95,2021-04-13,2021,Late Fulfillment,Critical,Under Investigation,System Detection,6,4046.92,0,Payout Hold,0
+V01542,95,2022-07-24,2022,Policy Breach,Low,Under Investigation,User,5,577.8,0,Warning Issued,0
+V01543,95,2022-02-16,2022,Policy Breach,Medium,Open,Compliance Team,4,1297.75,0,No Action,1
+V01544,95,2022-08-15,2022,Regulatory Non-Compliance,Low,Closed,Internal Audit,7,147.0,0,Warning Issued,1
+V01545,95,2023-01-17,2023,Product Quality Issue,High,Escalated,User,7,3441.15,0,Payout Hold,1
+V01546,95,2023-06-20,2023,Late Fulfillment,Low,Closed,User,8,301.46,0,Warning Issued,1
+V01547,95,2023-04-15,2023,Policy Breach,High,Escalated,Compliance Team,7,3886.91,0,Seller Suspended,0
+V01548,95,2024-05-01,2024,Fraud Suspicion,Medium,Closed,Internal Audit,7,350.65,1,Listing Removed,1
+V01549,95,2024-05-03,2024,Fraud Suspicion,High,Escalated,System Detection,2,1623.88,1,Payout Hold,0
+V01550,95,2024-12-02,2024,Late Fulfillment,Low,Closed,System Detection,14,90.01,0,No Action,1
+V01551,95,2024-06-08,2024,Regulatory Non-Compliance,Medium,Closed,User,13,475.37,0,Warning Issued,1
+V01552,95,2024-07-14,2024,Policy Breach,Critical,Open,User,18,3931.26,0,No Action,1
+V01553,95,2024-02-02,2024,Fraud Suspicion,High,Escalated,User,13,2264.25,1,Listing Removed,0
+V01554,95,2025-06-03,2025,Fraud Suspicion,Medium,Closed,Compliance Team,8,809.78,1,No Action,1
+V01555,95,2025-02-10,2025,Product Quality Issue,Critical,Under Investigation,Internal Audit,11,4043.65,1,Seller Suspended,0
+V01556,95,2025-11-28,2025,Listing Misrepresentation,Critical,Open,User,18,3232.42,0,Payout Hold,0
+V01557,95,2025-01-17,2025,Counterfeit Risk,High,Closed,System Detection,9,1541.44,0,Warning Issued,1
+V01558,95,2025-05-28,2025,Fraud Suspicion,High,Closed,User,2,3743.88,1,Payout Hold,1
+V01559,95,2025-02-07,2025,Product Quality Issue,High,Under Investigation,Internal Audit,14,1270.87,1,Payout Hold,0
+V01560,96,2021-08-10,2021,Fraud Suspicion,High,Open,User,11,1787.37,1,Listing Removed,1
+V01561,96,2021-11-06,2021,Regulatory Non-Compliance,Low,Closed,Compliance Team,7,502.98,0,No Action,1
+V01562,96,2022-11-23,2022,Listing Misrepresentation,Medium,Closed,Compliance Team,11,504.73,0,Warning Issued,1
+V01563,96,2022-02-17,2022,Counterfeit Risk,Medium,Under Investigation,User,10,773.01,0,No Action,0
+V01564,96,2022-10-17,2022,Listing Misrepresentation,Critical,Under Investigation,Compliance Team,7,5909.32,1,Seller Suspended,1
+V01565,96,2023-03-18,2023,Listing Misrepresentation,Critical,Escalated,System Detection,4,5033.94,0,Listing Removed,0
+V01566,96,2023-02-19,2023,Fraud Suspicion,High,Escalated,System Detection,14,3674.59,1,Warning Issued,1
+V01567,96,2023-09-03,2023,Fraud Suspicion,High,Under Investigation,Compliance Team,11,3067.41,1,Listing Removed,1
+V01568,96,2024-01-27,2024,Regulatory Non-Compliance,Medium,Under Investigation,Compliance Team,6,618.99,0,No Action,0
+V01569,96,2024-04-08,2024,Fraud Suspicion,Critical,Under Investigation,User,5,2796.86,1,Listing Removed,0
+V01570,96,2024-05-10,2024,Fraud Suspicion,High,Escalated,User,11,3664.0,1,Payout Hold,0
+V01571,96,2024-06-11,2024,Policy Breach,High,Escalated,User,10,3659.04,1,Listing Removed,1
+V01572,96,2025-03-14,2025,Fraud Suspicion,High,Under Investigation,User,12,1920.36,1,Warning Issued,1
+V01573,96,2025-02-01,2025,Counterfeit Risk,High,Closed,User,14,1279.85,0,Payout Hold,1
+V01574,96,2025-12-24,2025,Late Fulfillment,High,Escalated,Compliance Team,17,1424.19,1,Payout Hold,0
+V01575,97,2021-11-26,2021,Regulatory Non-Compliance,Medium,Closed,Compliance Team,2,1223.87,0,Payout Hold,1
+V01576,97,2021-04-21,2021,Fraud Suspicion,High,Escalated,User,5,1011.65,1,Warning Issued,0
+V01577,97,2021-11-21,2021,Regulatory Non-Compliance,Critical,Open,User,13,3301.72,1,Payout Hold,0
+V01578,97,2022-09-11,2022,Product Quality Issue,High,Under Investigation,User,11,2389.24,0,Listing Removed,0
+V01579,97,2022-06-06,2022,Fraud Suspicion,Critical,Under Investigation,Compliance Team,1,7365.21,1,No Action,1
+V01580,97,2022-11-17,2022,Listing Misrepresentation,Critical,Open,Compliance Team,4,3454.26,0,Seller Suspended,0
+V01581,97,2022-06-28,2022,Listing Misrepresentation,High,Closed,System Detection,7,3077.77,0,Seller Suspended,1
+V01582,97,2022-12-19,2022,Counterfeit Risk,Critical,Closed,User,8,5714.33,0,No Action,1
+V01583,97,2023-04-02,2023,Fraud Suspicion,Critical,Under Investigation,Internal Audit,10,5331.53,1,Listing Removed,0
+V01584,97,2023-12-13,2023,Product Quality Issue,Critical,Escalated,Compliance Team,8,4641.44,0,Listing Removed,0
+V01585,97,2023-03-27,2023,Policy Breach,Critical,Escalated,User,15,2550.17,0,Seller Suspended,0
+V01586,97,2023-08-03,2023,Product Quality Issue,Critical,Escalated,System Detection,13,6887.01,1,Payout Hold,0
+V01587,97,2023-12-19,2023,Late Fulfillment,High,Closed,User,6,1143.34,1,Payout Hold,1
+V01588,97,2024-09-08,2024,Product Quality Issue,Critical,Escalated,User,11,3682.79,0,Payout Hold,1
+V01589,97,2024-03-22,2024,Policy Breach,High,Escalated,Internal Audit,16,2531.6,0,Listing Removed,0
+V01590,97,2024-07-27,2024,Policy Breach,Medium,Closed,System Detection,18,458.5,0,Payout Hold,1
+V01591,97,2024-09-22,2024,Late Fulfillment,Critical,Under Investigation,User,15,5450.87,0,Listing Removed,0
+V01592,97,2025-04-12,2025,Fraud Suspicion,Critical,Under Investigation,Compliance Team,10,6248.3,1,Seller Suspended,0
+V01593,97,2025-08-17,2025,Fraud Suspicion,Critical,Under Investigation,Compliance Team,15,3703.46,1,Seller Suspended,0
+V01594,97,2025-10-16,2025,Counterfeit Risk,Medium,Under Investigation,User,13,1234.11,1,Warning Issued,1
+V01595,97,2025-12-20,2025,Product Quality Issue,High,Escalated,Compliance Team,8,2908.34,1,Warning Issued,1
+V01596,98,2021-07-15,2021,Listing Misrepresentation,Low,Closed,Internal Audit,4,370.26,0,Warning Issued,1
+V01597,98,2022-05-20,2022,Late Fulfillment,High,Open,User,2,2923.98,0,Listing Removed,0
+V01598,98,2023-04-24,2023,Counterfeit Risk,Critical,Closed,Compliance Team,2,6550.19,0,Payout Hold,1
+V01599,98,2023-02-13,2023,Policy Breach,Critical,Open,System Detection,4,5665.84,0,Seller Suspended,1
+V01600,98,2023-03-05,2023,Product Quality Issue,High,Escalated,System Detection,9,3316.88,0,Listing Removed,0
+V01601,98,2023-01-19,2023,Policy Breach,High,Under Investigation,Compliance Team,15,3864.75,0,Payout Hold,1
+V01602,98,2023-05-01,2023,Policy Breach,Medium,Under Investigation,User,5,1298.13,0,Warning Issued,1
+V01603,98,2023-06-26,2023,Fraud Suspicion,Medium,Closed,User,15,657.87,1,No Action,1
+V01604,98,2024-04-19,2024,Fraud Suspicion,Critical,Under Investigation,Compliance Team,13,6612.56,1,Payout Hold,0
+V01605,98,2024-03-02,2024,Policy Breach,Medium,Closed,Internal Audit,4,328.71,0,Payout Hold,1
+V01606,98,2024-09-27,2024,Listing Misrepresentation,High,Open,User,3,3213.59,0,Payout Hold,1
+V01607,98,2024-06-11,2024,Fraud Suspicion,High,Closed,System Detection,10,3582.69,1,Payout Hold,1
+V01608,98,2024-06-18,2024,Fraud Suspicion,Critical,Under Investigation,System Detection,9,3696.49,1,Payout Hold,0
+V01609,98,2025-05-24,2025,Late Fulfillment,Medium,Closed,Compliance Team,2,1288.99,0,No Action,1
+V01610,98,2025-10-23,2025,Product Quality Issue,Low,Closed,User,7,224.79,0,Listing Removed,1
+V01611,99,2021-05-10,2021,Late Fulfillment,Medium,Closed,Internal Audit,4,1090.23,0,Warning Issued,1
+V01612,99,2021-09-06,2021,Product Quality Issue,Medium,Under Investigation,System Detection,4,670.43,0,No Action,0
+V01613,99,2021-06-13,2021,Policy Breach,Medium,Open,Compliance Team,4,657.68,0,Warning Issued,1
+V01614,99,2022-11-27,2022,Listing Misrepresentation,Critical,Under Investigation,User,7,5209.46,0,Payout Hold,0
+V01615,99,2022-03-24,2022,Counterfeit Risk,High,Escalated,User,16,1161.3,0,Seller Suspended,0
+V01616,99,2022-02-12,2022,Late Fulfillment,High,Closed,User,16,2991.97,0,No Action,1
+V01617,99,2022-11-09,2022,Product Quality Issue,Critical,Escalated,System Detection,14,3945.57,0,Seller Suspended,0
+V01618,99,2023-03-06,2023,Listing Misrepresentation,Critical,Under Investigation,Compliance Team,11,3987.0,1,Payout Hold,0
+V01619,99,2023-07-18,2023,Policy Breach,High,Under Investigation,User,7,1433.7,0,Listing Removed,0
+V01620,99,2023-11-24,2023,Regulatory Non-Compliance,Medium,Under Investigation,User,7,1409.96,0,Listing Removed,0
+V01621,99,2023-09-25,2023,Policy Breach,High,Escalated,User,1,3886.99,1,Payout Hold,0
+V01622,99,2023-02-09,2023,Product Quality Issue,Critical,Open,Internal Audit,12,5209.85,0,Seller Suspended,1
+V01623,99,2023-12-08,2023,Late Fulfillment,High,Closed,User,13,3816.49,1,Listing Removed,1
+V01624,99,2024-02-15,2024,Counterfeit Risk,High,Under Investigation,System Detection,2,2380.35,0,Warning Issued,1
+V01625,99,2024-02-15,2024,Policy Breach,Critical,Under Investigation,User,12,3983.41,0,Seller Suspended,1
+V01626,99,2024-03-17,2024,Listing Misrepresentation,High,Under Investigation,System Detection,13,1329.53,0,Seller Suspended,1
+V01627,99,2024-11-18,2024,Policy Breach,Critical,Under Investigation,Compliance Team,17,3874.93,0,Payout Hold,0
+V01628,99,2025-06-22,2025,Policy Breach,High,Closed,User,8,1173.38,0,Warning Issued,1
+V01629,99,2025-04-09,2025,Policy Breach,Critical,Under Investigation,User,1,3085.59,0,Payout Hold,0
+V01630,99,2025-01-20,2025,Product Quality Issue,Critical,Open,User,7,7865.69,0,Seller Suspended,0
+V01631,99,2025-04-11,2025,Product Quality Issue,High,Closed,User,10,3460.55,0,Payout Hold,1
+V01632,100,2021-01-07,2021,Product Quality Issue,High,Escalated,Internal Audit,8,1154.65,0,Warning Issued,1
+V01633,100,2021-11-14,2021,Policy Breach,Medium,Under Investigation,Compliance Team,4,892.08,0,No Action,1
+V01634,100,2021-11-14,2021,Late Fulfillment,Medium,Closed,Compliance Team,2,1134.43,0,No Action,1
+V01635,100,2022-07-19,2022,Fraud Suspicion,Critical,Escalated,User,5,6882.2,1,No Action,0
+V01636,100,2022-06-28,2022,Fraud Suspicion,Medium,Closed,Compliance Team,3,933.19,1,No Action,1
+V01637,100,2022-06-26,2022,Listing Misrepresentation,Critical,Under Investigation,User,7,5960.14,0,Payout Hold,0
+V01638,100,2022-06-22,2022,Late Fulfillment,Critical,Open,Compliance Team,15,5427.78,1,Seller Suspended,0
+V01639,100,2022-04-13,2022,Late Fulfillment,Critical,Open,System Detection,3,7040.41,0,Payout Hold,0
+V01640,100,2022-08-27,2022,Listing Misrepresentation,Medium,Under Investigation,User,3,350.34,1,Listing Removed,0
+V01641,100,2023-05-22,2023,Product Quality Issue,Low,Closed,User,7,539.64,0,No Action,1
+V01642,100,2025-07-01,2025,Late Fulfillment,High,Escalated,Compliance Team,2,1873.24,0,Listing Removed,0
+V01643,100,2025-07-22,2025,Policy Breach,Medium,Escalated,User,13,831.29,0,Warning Issued,0
+V01644,100,2025-07-21,2025,Product Quality Issue,Critical,Closed,User,7,3015.95,0,Listing Removed,1
+V01645,100,2025-09-28,2025,Product Quality Issue,High,Closed,Internal Audit,2,2169.79,0,Listing Removed,1
+V01646,100,2025-11-06,2025,Listing Misrepresentation,Medium,Under Investigation,Internal Audit,3,1018.45,0,Listing Removed,0
