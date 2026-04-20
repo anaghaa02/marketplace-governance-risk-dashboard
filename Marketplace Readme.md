@@ -112,16 +112,3 @@ The dashboard and pivot reports allow the user to:
 - Conditional rule-based scoring
 - Dashboard reporting
 
-## Repository structure
-```text
-marketplace-governance-risk-dashboard/
-│
-├── README.md
-├── reports/
-│   └── Project_Report_Marketplace_Governance_Risk_Dashboard.docx
-├── assets/
-│   └── ECommerce_Governance_Risk_Analysis_v2_Dashboard.xlsx
-├── screenshots/
-│   └── dashboard-overview.png   # optional
-└── docs/
-    └── submission-guide.md
